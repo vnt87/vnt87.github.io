@@ -1,0 +1,33 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "arkenea": {
+      "name": "arkenea",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "nodemx": {
+      "name": "nodemx",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "rawserve": {
+      "name": "rawserve",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "snippets": {
+      "name": "snippets",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
