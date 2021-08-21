@@ -8,4 +8,4 @@ This Github repo contains my experimental codes
 
 [Rockstor 4 ISO](https://github.com/vnt87/rockstor-4-iso) contains a simple installation for Rockstor 4 built on OpenSUSE, created with the official installer recipe
 
-[Merlin Group Wiki](/wiki/) a simple wiki based on [Tiddly Wiki](https://tiddlywiki.com/)
+[Merlin Group Wiki](/wiki/noteself.html) a simple wiki based on [Tiddly Wiki](https://tiddlywiki.com/)
