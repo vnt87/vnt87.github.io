@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>daily screenshot &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/daily-screenshot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Wed, 20 Feb 2019 03:19:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>daily screenshot &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>On Prototyping</title>
+		<link>/2019/02/on-prototyping/</link>
+					<comments>/2019/02/on-prototyping/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 03:19:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[daily screenshot]]></category>
+		<guid isPermaLink="false">/?p=5860</guid>
+
+					<description><![CDATA[I&#8217;ve been told I have horrible organization for my prototypes, in hindsight they might&#8217;ve been onto something&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;ve been told I have horrible organization for my prototypes, in hindsight they might&#8217;ve been onto something&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/02/on-prototyping/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>quarterlife crisis &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/quarterlife-crisis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Mon, 01 Oct 2018 03:57:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>quarterlife crisis &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oct 2018: A little update</title>
+		<link>/2018/10/oct-2018-a-little-update/</link>
+					<comments>/2018/10/oct-2018-a-little-update/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2018 03:57:27 +0000</pubDate>
+				<category><![CDATA[Rants]]></category>
+		<category><![CDATA[quarterlife crisis]]></category>
+		<category><![CDATA[rants]]></category>
+		<guid isPermaLink="false">/?p=5549</guid>
+
+					<description><![CDATA[So it&#8217;s been exactly 5 months since I last quit my old job, and I&#8217;ve yet to find a new one. Definitely did not think it&#8217;d be this tough to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div style="-en-clipboard: true;">So it&#8217;s been exactly 5 months since I last quit my old job, and I&#8217;ve yet to find a new one. Definitely did not think it&#8217;d be this tough to find a new job, I was over confident in my skills.</div>
+<div>I&#8217;ve burned through the last of my unemployment check</div>
+<div>My and my wife had burned through half of our savings trying to conceive a child (and bad coin investments).</div>
+<div>So far all had been for naught, and we might need another 100 mil for IVF.</div>
+<div>My dad still has kidney stones, might need surgery.</div>
+<div>My mom&#8217;s leg is going bad, might need surgery. (Update: the diagnosis results came back, it is very possible my mom has lung cancer, just like my grandma. I wasn&#8217;t ready for this, but I have to)</div>
+<div>If I don&#8217;t get a job some time this month, I&#8217;ll definitely be cutting into the rest of my saving.</div>
+<div>I guess this is what you&#8217;d call rock bottom.</div>
+<div></div>
+<div>Is it time to abandon my passion as a graphic artist, and look for something else? Never thought this profession would be so treacherous, you get over 30 and suddenly you&#8217;re unwanted trash.</div>
+<div>Is it time to abandon Hanoi? This backwater place has such an under developed industry that it appears to be content with operating without any decent graphic artist.</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/10/oct-2018-a-little-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

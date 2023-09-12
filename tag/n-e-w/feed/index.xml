@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>N.E.W &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/n-e-w/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 21 Apr 2019 15:11:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>N.E.W &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>N.E.W Project 1: Mason Jar Chandelier</title>
+		<link>/2017/10/n-e-w-project-1-mason-jar-chandelier/</link>
+					<comments>/2017/10/n-e-w-project-1-mason-jar-chandelier/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2017 15:02:03 +0000</pubDate>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Do It Yourself]]></category>
+		<category><![CDATA[mason jar chandelier]]></category>
+		<category><![CDATA[Mason Jar Lamp]]></category>
+		<category><![CDATA[mason jar light]]></category>
+		<category><![CDATA[N.E.W]]></category>
+		<category><![CDATA[no electronic weekend]]></category>
+		<guid isPermaLink="false">/?p=5978</guid>
+
+					<description><![CDATA[If you read my previous post about making a mason jar lamp all the way to the end, you know that I promised to make a goddamn chandelier out of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>If you read <a href="/making-a-simple-mason-jar-lamp-no-power-tools/">my previous post about making a mason jar lamp</a> all the way to the end, you know that I promised to make a goddamn chandelier out of the thing.</p>
+<p>Well here it is.</p>
+<p>I don&#8217;t have time to write a step by step this time, it&#8217;s very simple to be honest. You can visit my previous post about making the jar lamp, and then find an old chopping board, paint it, then hang a few of those bad boys on (in <em>parallel</em>)</p>
+<p>If you care about power effeciency, you can use LEDs like in my original post. If you want to be fancy though, you can use Edison light bulbs with a dimmer to control the brightness, do keep in mind however, they are expensive. In my case here I use simple incandescent light bulb with the brightness turned way down (with a fan dimmer).</p>
+<p>Don&#8217;t look too bad if you ask me.</p>
+<p>PS: If you&#8217;re wandering what N.E.W mean, it&#8217;s No Electronics Weekend.</p>
+<p>#noelectronicsweekend</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/10/n-e-w-project-1-mason-jar-chandelier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

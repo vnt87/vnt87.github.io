@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: Installing Autodesk Maya 2018 Update 3 on Deepin Linux 15.6	</title>
+	<atom:link href="/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 02 Apr 2019 11:10:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		By: Nam Vũ		</title>
+		<link>/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/#comment-4</link>
+
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 11 Sep 2018 10:11:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3818#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/#comment-3&quot;&gt;Alejandro&lt;/a&gt;.
+
+Mine just broke as well after simply updating the GeForce driver to 390, now it&#039;s giving me a segmentation fault error no matter what I put into the environment file. I guess it&#039;s about time we give up trying to run this POS software on a Linux distro it wasn&#039;t designed for :(]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/#comment-3">Alejandro</a>.</p>
+<p>Mine just broke as well after simply updating the GeForce driver to 390, now it&#8217;s giving me a segmentation fault error no matter what I put into the environment file. I guess it&#8217;s about time we give up trying to run this POS software on a Linux distro it wasn&#8217;t designed for 🙁</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alejandro		</title>
+		<link>/2018/08/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/#comment-3</link>
+
+		<dc:creator><![CDATA[Alejandro]]></dc:creator>
+		<pubDate>Tue, 11 Sep 2018 03:08:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=3818#comment-3</guid>
+
+					<description><![CDATA[thank you, I&#039;ve tried but I have problems with the GPU and Xgen, even though I have maya working good in fedora
+
+VP2 Error : Failed to initialize graphics device.
+Error: The GPU adaptor of the transform to finalize is null
+
+Unable to execute igInitialize.mel.Unable to execute xgen.mel]]></description>
+			<content:encoded><![CDATA[<p>thank you, I&#8217;ve tried but I have problems with the GPU and Xgen, even though I have maya working good in fedora</p>
+<p>VP2 Error : Failed to initialize graphics device.<br />
+Error: The GPU adaptor of the transform to finalize is null</p>
+<p>Unable to execute igInitialize.mel.Unable to execute xgen.mel</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

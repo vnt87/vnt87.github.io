@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900	</title>
+	<atom:link href="/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 30 Jul 2023 16:40:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		By: htl		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-15146</link>
+
+		<dc:creator><![CDATA[htl]]></dc:creator>
+		<pubDate>Sun, 30 Jul 2023 16:40:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-15146</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8788&quot;&gt;Nam Vũ&lt;/a&gt;.
+
+Yes I can access CUPS WebUI normally. I see Print Jobs queue in WebUI but CAPT Status window on Windows 10 says &quot;Printer Server Error&quot;: &quot;The print server is down. Check the print server&quot;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8788">Nam Vũ</a>.</p>
+<p>Yes I can access CUPS WebUI normally. I see Print Jobs queue in WebUI but CAPT Status window on Windows 10 says &#8220;Printer Server Error&#8221;: &#8220;The print server is down. Check the print server&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Stuart		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-15029</link>
+
+		<dc:creator><![CDATA[Stuart]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 15:52:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-15029</guid>
+
+					<description><![CDATA[Thank you, this worked perfectly]]></description>
+			<content:encoded><![CDATA[<p>Thank you, this worked perfectly</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jesús Molinero		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-14773</link>
+
+		<dc:creator><![CDATA[Jesús Molinero]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2023 17:05:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-14773</guid>
+
+					<description><![CDATA[Hi all.
+I followed step-by-step process but I&#039;m struggled with Adding new printer. 
+Canon LBP2900 doesn&#039;t appears as LOCAL Printer.
+
+Just 
+CUPS-BRF (Virtual Braille BRF Printer)
+ VNC Remote Printer (VNC Printer)
+ HP Printer (HPLIP)
+
+Any help to have the Canon LBP2900 listed in Local Printers?
+Thanks in advance.]]></description>
+			<content:encoded><![CDATA[<p>Hi all.<br />
+I followed step-by-step process but I&#8217;m struggled with Adding new printer.<br />
+Canon LBP2900 doesn&#8217;t appears as LOCAL Printer.</p>
+<p>Just<br />
+CUPS-BRF (Virtual Braille BRF Printer)<br />
+ VNC Remote Printer (VNC Printer)<br />
+ HP Printer (HPLIP)</p>
+<p>Any help to have the Canon LBP2900 listed in Local Printers?<br />
+Thanks in advance.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: bsl4me		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-14057</link>
+
+		<dc:creator><![CDATA[bsl4me]]></dc:creator>
+		<pubDate>Thu, 15 Dec 2022 08:33:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-14057</guid>
+
+					<description><![CDATA[Well.. another bit of googling helped me out to realize that on a client Windows machine it&#039;s conditionally capable to operate under Microsoft PS Class driver (as a replacement for the original from Canon). What are those conditions? Reasonable question. But I sadly have nothing to reply. Either way, shall everything being set up this way, it allows you to print a signle page docs more or less successfully. Not mentioning that every one of them would be followed by a blank page &quot;printed&quot; (also have no idea why that&#039;s happening).
+At the same time, any multiple sheets document is an absolutely impossible task to complete. At best, what you get would be its very first page printed (and a blank one the next minute of course!)]]></description>
+			<content:encoded><![CDATA[<p>Well.. another bit of googling helped me out to realize that on a client Windows machine it&#8217;s conditionally capable to operate under Microsoft PS Class driver (as a replacement for the original from Canon). What are those conditions? Reasonable question. But I sadly have nothing to reply. Either way, shall everything being set up this way, it allows you to print a signle page docs more or less successfully. Not mentioning that every one of them would be followed by a blank page &#8220;printed&#8221; (also have no idea why that&#8217;s happening).<br />
+At the same time, any multiple sheets document is an absolutely impossible task to complete. At best, what you get would be its very first page printed (and a blank one the next minute of course!)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: bsl4me		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-14022</link>
+
+		<dc:creator><![CDATA[bsl4me]]></dc:creator>
+		<pubDate>Sun, 11 Dec 2022 18:54:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-14022</guid>
+
+					<description><![CDATA[Any ideas on why it seems to be all-in-all accessible over the network but refuses all your attempts to make it print the jobs? If necessarily, I&#039;ll gladly provide any further details related to what I did/set/etc]]></description>
+			<content:encoded><![CDATA[<p>Any ideas on why it seems to be all-in-all accessible over the network but refuses all your attempts to make it print the jobs? If necessarily, I&#8217;ll gladly provide any further details related to what I did/set/etc</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: bsl4me		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-14014</link>
+
+		<dc:creator><![CDATA[bsl4me]]></dc:creator>
+		<pubDate>Sat, 10 Dec 2022 23:17:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-14014</guid>
+
+					<description><![CDATA[Somebody says: &quot;I installed Canon LBP2900 on my Windows 10 machine successfully, but when I print, the app says:
+The print server is down.
+Check the print server.&quot;
+
+I faced with the exact same issue as well. Answering your question yep I still can freely access to the Cups&#039; web GUI...]]></description>
+			<content:encoded><![CDATA[<p>Somebody says: &#8220;I installed Canon LBP2900 on my Windows 10 machine successfully, but when I print, the app says:<br />
+The print server is down.<br />
+Check the print server.&#8221;</p>
+<p>I faced with the exact same issue as well. Answering your question yep I still can freely access to the Cups&#8217; web GUI&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tim		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-13981</link>
+
+		<dc:creator><![CDATA[Tim]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 20:47:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-13981</guid>
+
+					<description><![CDATA[Thanks for sharing this article!
+My Canon LBP2900 is almost working again.
+Unfortunately, after every page printed, it prints a blank page and then needs to be resumed by pushing the blinking button on the printer device :-(.
+Any idea how to fix this?]]></description>
+			<content:encoded><![CDATA[<p>Thanks for sharing this article!<br />
+My Canon LBP2900 is almost working again.<br />
+Unfortunately, after every page printed, it prints a blank page and then needs to be resumed by pushing the blinking button on the printer device :-(.<br />
+Any idea how to fix this?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: ilovetronic		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-13653</link>
+
+		<dc:creator><![CDATA[ilovetronic]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 15:01:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-13653</guid>
+
+					<description><![CDATA[my printer canon 2900 is working
+Thanks!]]></description>
+			<content:encoded><![CDATA[<p>my printer canon 2900 is working<br />
+Thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anh		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-13251</link>
+
+		<dc:creator><![CDATA[Anh]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 06:40:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-13251</guid>
+
+					<description><![CDATA[Bị đứng ở rendering completed và ko in ra bất cứ cái gì hết]]></description>
+			<content:encoded><![CDATA[<p>Bị đứng ở rendering completed và ko in ra bất cứ cái gì hết</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: vienkmt		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8790</link>
+
+		<dc:creator><![CDATA[vienkmt]]></dc:creator>
+		<pubDate>Fri, 29 Oct 2021 04:49:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-8790</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8787&quot;&gt;Nam Vũ&lt;/a&gt;.
+
+hi hi, cũng gặp lỗi tương tự &quot;rendering completed&quot; bro]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8787">Nam Vũ</a>.</p>
+<p>hi hi, cũng gặp lỗi tương tự &#8220;rendering completed&#8221; bro</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

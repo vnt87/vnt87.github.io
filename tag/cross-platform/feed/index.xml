@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>cross-platform &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/cross-platform/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 22 Oct 2021 02:40:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>cross-platform &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Electron Toolbelt</title>
+		<link>/2019/08/my-electron-toolbelt/</link>
+					<comments>/2019/08/my-electron-toolbelt/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2019 04:26:35 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[cross-platform]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[desktop apps]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[electron]]></category>
+		<category><![CDATA[electronjs]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[linux]]></category>
+		<guid isPermaLink="false">/?p=6048</guid>
+
+					<description><![CDATA[Love it or hate it, Electron is now an important part of your everyday life. For those who haven&#8217;t heard of it by now, Electron is a software framework that [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Love it or hate it, Electron is now an important part of your everyday life. For those who haven&#8217;t heard of it by now, Electron is a software framework that enable developers to create desktop applications using web technologies (HTML, CSS, JS). It garnered a lot of attention in recently years.</p>
+
+
+
+<p>Sure, many elitist developers have publicly spoken against it. They argue that their performance is sub par comparing to native applications, even go as far as <a href="https://medium.com/commitlog/electron-is-cancer-b066108e6c32" target="_blank" rel="noopener">calling Electron apps &#8220;web pages&#8221;</a>. In reality, they were correct, and also completely missed the point. What Electron brings to the table isn&#8217;t performance, but availability. Electron massively lowered the barrier-to-entry in desktop software development, and cut the cost of porting applications across platforms to almost nothing at all. Truth is, I think what the elitist developers are so pissed off about is that fact Electron enabled &#8216;lesser devs&#8217; to build beautiful, functional apps that work cross-platform, something that would take decades for them to achieve.</p>
+
+
+
+<p>While I can see why the old devs are unhappy with these changes, as an end user I couldn&#8217;t be happier with Electron. It&#8217;s a godsend.</p>
+
+
+
+<p>Anyway here&#8217;s my list of Electron-based apps that I couldn&#8217;t live without</p>
+
+
+
+<span id="more-6048"></span>
+
+
+
+<h3 class="wp-block-heading">Figma &#8211; Screen Design Tool</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2020/04/Screenshot-2020-04-02-14.15.27.png" alt="Screenshot 2020 04 02 14.15.27" title="My Electron Toolbelt 1"><figcaption>Figma Screenshot</figcaption></figure>
+
+
+
+<p>Given that I am a front-end UI designer, this one obviously tops the list. Unlike most other items in this list though, Figma is not just a &#8216;multi-platform alternative&#8217; to its competitors, it&#8217;s actually THE best tool available in its field. And with its recent addition of plugin support, it&#8217;s only getting better</p>
+
+
+
+<h3 class="wp-block-heading">Visual Studio Code &#8211; General Text Editor</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="550" src="/wp-content/uploads/2021/10/image-3-1024x550.png" alt="image 3" class="wp-image-21595" srcset="/wp-content/uploads/2021/10/image-3-1024x550.png 1024w, /wp-content/uploads/2021/10/image-3-300x161.png 300w, /wp-content/uploads/2021/10/image-3-768x413.png 768w, /wp-content/uploads/2021/10/image-3-1536x825.png 1536w, /wp-content/uploads/2021/10/image-3-93x50.png 93w, /wp-content/uploads/2021/10/image-3-650x349.png 650w, /wp-content/uploads/2021/10/image-3-1000x537.png 1000w, /wp-content/uploads/2021/10/image-3-50x27.png 50w, /wp-content/uploads/2021/10/image-3.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" title="My Electron Toolbelt 2"><figcaption>VS Code screenshot</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Brackets &#8211; HTML/CSS/JS Editor</h3>
+
+
+
+<p>To be honest you can just use VS Code for everything Brackets does, but since they&#8217;re both free, why do you have to choose? Sure at its core, it&#8217;s only a text editor, but out of the box it&#8217;s just work so much better for web development. It&#8217;s capable of editing CSS from within the HTML document just like they&#8217;re in-line, and they comes with a neat little server that lets you preview your webpage in real-time using Chrome (you can actually pick elements from Chrome and Brackets will jump to the correct code section, it&#8217;s just like using Code Inspector!)</p>
+
+
+
+<p>Update 2021: Adobe killed it :((</p>
+
+
+
+<h3 class="wp-block-heading">Mattermost &#8211; Team Chat</h3>
+
+
+
+<p>Unless you&#8217;re a lone wolf, you&#8217;ll most likely need to use some sort of teamchat for internal communication. Now there&#8217;s plenty of choices in this area, and Slack used to be my go to choice in this field. But ever since I joined r/selfhosted, I&#8217;ve joined the great movement to segregate from big corps data, and now I host my own team chat</p>
+
+
+
+<h3 class="wp-block-heading">Telegram &#8211; General Messaging</h3>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="577" height="715" src="/wp-content/uploads/2021/10/image-4.png" alt="image 4" class="wp-image-21596" srcset="/wp-content/uploads/2021/10/image-4.png 577w, /wp-content/uploads/2021/10/image-4-242x300.png 242w, /wp-content/uploads/2021/10/image-4-40x50.png 40w, /wp-content/uploads/2021/10/image-4-50x62.png 50w" sizes="(max-width: 577px) 100vw, 577px" title="My Electron Toolbelt 3"><figcaption>Telegram screenshot</figcaption></figure>
+
+
+
+<p>For general messaging, nothing beats Telegram. It looks and feels consistent across all devices and platforms. Rock solid application.</p>
+
+
+
+<h3 class="wp-block-heading">Bootstrap Studio &#8211; Visual HTML Editor using Bootstrap</h3>
+
+
+
+<p>This is the odd one among my choices, due to the fact that it&#8217;s not free. If you haven&#8217;t noticed yet, I&#8217;m a sucker for free softwares, and I usually populate my toolbelt with such, not because of some ideology or anything, I&#8217;m just a cheapskate. But once it a while there&#8217;s proprietary softwares that just blow you away. Bootstrap Studio is one of those.</p>
+
+
+
+<h3 class="wp-block-heading">Balena Etcher &#8211; Bootmaker</h3>
+
+
+
+<p>Formerly known as only Etcher, this is a USB boot drive creator, which is something I use far more than an average person (I manage like 60+ computers, TeamViewer actually flagged my account as a commercial one). If you&#8217;ve ever used other USB bootmaker like Rufus or YUMI, you&#8217;d understand why Etcher prevail. (hint: it has something with other bootmakers UI looking like garbage)</p>
+
+
+
+<h3 class="wp-block-heading">Git Kraken</h3>
+
+
+
+<p>Git is an amazing version control application, and Github is the best Git service provider out there, and of course, they have their own Github client to manage any repositories you have. But in their infinite wisdom, they&#8217;ve decided to make that application available to Windows and OS X only. Can you imagine it? Official client of the largest open source repositories in the world not being available on Linux? That&#8217;s just bad taste.</p>
+
+
+
+<p>Thankfully, we have Git Kraken to fill that void.</p>
+
+
+
+<h3 class="wp-block-heading">Fontbase</h3>
+
+
+
+<p>Sure when it comes to a font manager, cross-platform isn&#8217;t one of the highest priorities unless you&#8217;re capable of syncing your fonts across platform (ideally anyway, but we have TypeKit for that). Still, Fontba.se is one of my most essential app as a designer, mostly because it allows you to enable/disable folders of font without permanently installing them on your system, avoiding overtaxing your computer, and most importantly it&#8217;s capable of doing that WITHOUT administrative right. If you ever work in a corporate environment with tight security policies, you&#8217;d understand why this is necessary.</p>
+
+
+
+<h3 class="wp-block-heading">Mail Spring</h3>
+
+
+
+<p>Yo</p>
+
+
+
+<h1 class="wp-block-heading">Honorable mentions</h1>
+
+
+
+<p class="has-text-align-center">These are also Electron-based apps that I use frequently but didn&#8217;t get added to my crucial list since they are either A. Sloppily implemented or B. Unnecessary</p>
+
+
+
+<h3 class="wp-block-heading">Skype</h3>
+
+
+
+<p>This is one of those apps that you install out of necessity instead of actual usefulness. You use Skype because your client/colleagues/everyone else is using it, not because it&#8217;s a great messaging app. Microsoft made a right decision going Electron with their popular messaging service, but the product was released way too prematurely. So many bugs that sometimes render the app damn near impossible to use. Like c&#8217;mon, I only need to see the last message in a conversation, which was cached, why the fuck do you need to blank out the page while you load previous conversations? Why?</p>
+
+
+
+<h3 class="wp-block-heading">Tusk</h3>
+
+
+
+<p>Tusk is a desktop wrapper for the popular note-taking application Evernote. See, Evernote is one of those service where a simple desktop wrappers actually works better than a full-blown desktop application, mainly because a desktop wrappers does not count toward your 3-device restriction. &#8220;But I could do that myself with Nativefier already though&#8221; -is what you&#8217;re probably thinking. Well, Tusk differ from your average homebrew Nativefier app in that it actually adds some value to Evernote, like the ability to change theme to Dark mode or Sepia mode, and uh, well that&#8217;s about it I guess. All in all if you still use Evernote for some reason, and don&#8217;t know what to choose from dozens of near identical desktop client, go with Tusk.</p>
+
+
+
+<h3 class="wp-block-heading">Xmind</h3>
+
+
+
+<h3 class="wp-block-heading">Postman</h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/08/my-electron-toolbelt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The best way to install and manage your fonts (even without admin rights)</title>
+		<link>/2018/11/the-best-way-to-install-and-manage-your-fonts-even-without-admin-rights/</link>
+					<comments>/2018/11/the-best-way-to-install-and-manage-your-fonts-even-without-admin-rights/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2018 04:04:57 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[cross-platform]]></category>
+		<category><![CDATA[extensis]]></category>
+		<category><![CDATA[fontbase]]></category>
+		<category><![CDATA[fontexpert]]></category>
+		<category><![CDATA[fontmanager]]></category>
+		<category><![CDATA[proxima]]></category>
+		<guid isPermaLink="false">/?p=5586</guid>
+
+					<description><![CDATA[If you&#8217;re a font hoarder like me, you&#8217;re likely to have a folder somewhere in your cloud drive that has hundreds of thousands of TTFs, OTFs. However, the process of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>If you&#8217;re a font hoarder like me, you&#8217;re likely to have a folder somewhere in your cloud drive that has hundreds of thousands of TTFs, OTFs. However, the process of installing fonts had always been a daunting one.</p>
+<p>Normally, on Linux, the poor UX ideology means you have to resort to the terminal to get things done, a most unituitive way. On Windows,you can just type the word &#8216;Fonts&#8217; in the Run dialog and get access to the font folder, while it&#8217;s not ideal, it&#8217;s still far better UX than OS X and Linux. However, on Windows, there&#8217;s one major obstacle, you need admin right to get access to the system font folder. At least on OS X and Linux, you can install the fonts locally.</p>
+<p>Historically, people had to resort to a dirty workaround, that is to install PortableApps.com. It&#8217;s a messy hack as this app wasn&#8217;t specifically designed for this purpose.</p>
+<p>Thankfully now we have a more elegant solution.</p>
+<p><span id="more-5586"></span></p>
+<p>Let me introduce you guys to the best font manager out there: <a href="https://fontba.se/" target="_blank" rel="noopener">FontBase</a> yes I know it&#8217;s another ElectronJS app, you know I fucking love them. They work cross-platform, and I&#8217;m a cross-platform freak.</p>
+<p>In the past I&#8217;ve used other font managers including Extensis Suitcase Fusion ($120, who the fuck blows that much money on a font manager) and Proxima FontExpert which is a bit better than Extensis at half the price ($59) but it suffers from some major UX issues (I mean, Ctrl+Q for a GoTo dialog? Do they not know most other programs use that short cut for a Quit command? And who the fuck still uses the old school Open/Save dialog that does NOT have a field to directly input the path? Holy mother of incompetent programmers!)</p>
+<p><div style="width: 640px;" class="wp-video"><video class="wp-video-shortcode" id="video-5586-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://fontba.se/static/videos/overview.mp4?_=2" /><a href="https://fontba.se/static/videos/overview.mp4" target="_blank" rel="noopener">https://fontba.se/static/videos/overview.mp4</a></video></div></p>
+<p>FontBase is far better than those dumb shits, not only because it&#8217;s Free (though I do admit I&#8217;m majorly biased thanks to that, I&#8217;m a giant fucking cheapskate), but also because it integrates very well with the Google Fonts library, which is super important to web designers like me who rely on it on a daily basis. One click and you can have the entire fucking library installed on your system, how neat is that? This is not only convenient but it also indicates that the dev are actually people who relate with designers, they know their target audience, and they stay up to date with current tech, unlike Proxima who still couldn&#8217;t code a simple open/dialog windows.</p>
+<p>(by the way if you want to use your fonts without admin right, you need to keep FontBase running in the background, much in the way you&#8217;d use PortableApps)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/11/the-best-way-to-install-and-manage-your-fonts-even-without-admin-rights/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://fontba.se/static/videos/overview.mp4" length="3094010" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

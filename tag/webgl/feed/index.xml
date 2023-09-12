@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>webgl &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/webgl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 29 Nov 2019 01:35:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>webgl &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Snowfall Effect (WebGL) Test</title>
+		<link>/2019/11/snowfall-effect-webgl-test/</link>
+					<comments>/2019/11/snowfall-effect-webgl-test/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2019 09:52:36 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[code snippets]]></category>
+		<category><![CDATA[codepen]]></category>
+		<category><![CDATA[webgl]]></category>
+		<guid isPermaLink="false">/?p=6262</guid>
+
+					<description><![CDATA[See the Pen Snowfall WebGL Shader by Nam V (@vnt87) on CodePen.]]></description>
+										<content:encoded><![CDATA[<p class="codepen" data-height="349" data-theme-id="light" data-default-tab="js,result" data-user="vnt87" data-slug-hash="ebXLWg" style="height: 349px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Snowfall WebGL Shader">
+  <span>See the Pen <a href="https://codepen.io/vnt87/pen/ebXLWg" target="_blank" rel="noopener"><br />
+  Snowfall WebGL Shader</a> by Nam V (<a href="https://codepen.io/vnt87" target="_blank" rel="noopener">@vnt87</a>)<br />
+  on <a href="https://codepen.io/" target="_blank" rel="noopener">CodePen</a>.</span>
+</p>
+<p><script async src="https://static.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/snowfall-effect-webgl-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

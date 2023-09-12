@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>UX Framework &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/ux-framework/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 25 Jun 2021 04:34:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>UX Framework &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is UCD? The User-Centered Design Process</title>
+		<link>/2021/06/what-is-ucd-the-user-centered-design-process/</link>
+					<comments>/2021/06/what-is-ucd-the-user-centered-design-process/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 01:15:00 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[design thinking]]></category>
+		<category><![CDATA[UCD]]></category>
+		<category><![CDATA[User Centered Design]]></category>
+		<category><![CDATA[UX Framework]]></category>
+		<guid isPermaLink="false">/?p=15027</guid>
+
+					<description><![CDATA[UCD is one of the term that gets thrown around alot recently, with businesses putting more emphasis on UX in their products. But just because it&#8217;s used a lot, doesn&#8217;t [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>UCD is one of the term that gets thrown around alot recently, with businesses putting more emphasis on UX in their products. But just because it&#8217;s used a lot, doesn&#8217;t mean everybody fully understands what that is.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">User-centered design process</h5>
+
+
+
+<p>Each phase of the user-centered design process focuses on users and their needs. It’s an iterative process, which means that designers go back to certain phases, again and again, to refine their designs and create the best possible product for their intended users.</p>
+
+
+
+<p>At the core of the user-centered design process is a deep empathy for the user. It’s not just about what a product does for a user, it’s about how the experience of interacting with the design makes the user <em>feel</em>.&nbsp;</p>
+
+
+
+<p>Here are the key steps in the user-centered design process:&nbsp;</p>
+
+
+
+<ul><li><strong>Understand how the user experiences the product</strong>. You want to know how users will engage with your design, as well as the environment or context in which they’ll experience the product. Understanding this requires a lot of research, like observing users in action and conducting interviews, which we’ll explore more later.</li><li><strong>Specify the user’s needs</strong>. Based on your research, figure out which user problems are the most important to solve.&nbsp;</li><li><strong>Design solutions</strong>. Come up with lots of ideas for designs that can address the user problems you’ve identified. Then, start to actually design those ideas!&nbsp;</li><li><strong>Evaluate the solutions you designed against the user’s needs</strong>. Ask yourself, does the design I created solve the user’s problem? To answer this question, you should test the product you designed with real people and collect feedback.&nbsp;</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="390" src="/wp-content/uploads/2021/06/ucd-1024x390.png" alt="ucd" class="wp-image-15045" srcset="/wp-content/uploads/2021/06/ucd-1024x390.png 1024w, /wp-content/uploads/2021/06/ucd-300x114.png 300w, /wp-content/uploads/2021/06/ucd-768x292.png 768w, /wp-content/uploads/2021/06/ucd-1536x585.png 1536w, /wp-content/uploads/2021/06/ucd-2048x779.png 2048w, /wp-content/uploads/2021/06/ucd-131x50.png 131w, /wp-content/uploads/2021/06/ucd-650x247.png 650w, /wp-content/uploads/2021/06/ucd-1000x381.png 1000w, /wp-content/uploads/2021/06/ucd-50x19.png 50w" sizes="(max-width: 1024px) 100vw, 1024px" title="What is UCD? The User-Centered Design Process 1"><figcaption>What is UCD? The User-Centered Design Process 2</figcaption></figure>
+
+
+
+<p>Notice how the arrows in the diagram indicate circular movement. This illustrates the iterative quality of the user-centered design process. Designers go back to earlier phases of the process to refine and make corrections to their designs. With the user-centered design process, you’re always working to improve the user’s experience and address the problems that users are facing!</p>
+
+
+
+<span id="more-15027"></span>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Guiding principles for the user-centered design process</h5>
+
+
+
+<ol><li><strong>Design for users and their needs. </strong>It can be tempting to design something in a certain way because it looks cool or solves one of your own problems, but it’s essential to keep in mind that you are <em>not</em> the end user. You&#8217;re designing to help a diverse set of humans with specific needs.&nbsp;</li><li><strong>Make your copy conversational. </strong>The writing within your product design should have a friendly, simple, and easily accessible tone. Avoid jargon or overly-complicated terminology that users might not understand.</li><li><strong>Present all information clearly. </strong>Users should be able to navigate your product design easily and without assistance from others. Make key information, like checkout buttons, simple to find and identify.&nbsp;</li><li><strong>Acknowledge user actions. </strong>Your product should let users know when they’ve executed a task correctly. That might be as simple as having a new window pop up when an icon is pressed, or as complex as animated tossed confetti to demonstrate that the user has accomplished a task.&nbsp;</li><li><strong>Offer support. </strong>As UX designers, our goal is to make designs accessible and understandable to every user, but sometimes we fall a bit short. Offer users a safety net, like a support center or list of Frequently Asked Questions. Make sure a frustrated user doesn’t have to swipe and click all over the product to find help.&nbsp;</li></ol>
+
+
+
+<p>It’s also important to have empathy for yourself and your design team throughout the user-centered design process. When you’re trying to improve the user experience, you’ll inevitably fail at some point. That’s okay! It’s disappointing when a design fails, but there’s no reason to feel defeated. Learning from that experience will give you the tools and the understanding to try again.</p>
+
+
+
+<p><strong>TL;DR: </strong>UCD is, in essence, a core UX design framework that <a href="/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/" data-type="post" data-id="15022">other UX design frameworks</a> are based on.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/what-is-ucd-the-user-centered-design-process/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

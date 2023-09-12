@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: Designing for Multiple Platforms: The Four Cs Principle	</title>
+	<atom:link href="/2021/06/designing-for-multiple-platforms-the-four-cs-principle/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 25 Jun 2021 10:03:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+</channel>
+</rss>

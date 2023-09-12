@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>screen design &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/screen-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 19 Dec 2021 04:31:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>screen design &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Just discovered Figma&#8217;s Smart Animate feature</title>
+		<link>/2019/10/just-discovered-figmas-smart-animate-feature/</link>
+					<comments>/2019/10/just-discovered-figmas-smart-animate-feature/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2019 03:15:31 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[app design]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[prototyping]]></category>
+		<category><![CDATA[screen design]]></category>
+		<category><![CDATA[ui design]]></category>
+		<guid isPermaLink="false">/?p=6165</guid>
+
+					<description><![CDATA[And it&#8217;s fucking amazing!]]></description>
+										<content:encoded><![CDATA[<p>And it&#8217;s fucking amazing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/just-discovered-figmas-smart-animate-feature/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why Sketch will die in 2019</title>
+		<link>/2018/10/why-sketch-will-die-in-2019/</link>
+					<comments>/2018/10/why-sketch-will-die-in-2019/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2018 04:44:52 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[adobe xd]]></category>
+		<category><![CDATA[comparison]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[namvu]]></category>
+		<category><![CDATA[screen design]]></category>
+		<category><![CDATA[sketch]]></category>
+		<guid isPermaLink="false">/?p=5554</guid>
+
+					<description><![CDATA[Sketch, Adobe XD, Figma. If you’re a screen designer of any calibre, surely you’ve heard of at least one of these tools. They’re currently the 3 biggest players in the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Sketch, Adobe XD, Figma. If you’re a screen designer of any calibre, surely you’ve heard of at least one of these tools. They’re currently the 3 biggest players in the screen design tool arena.</p>
+<p>&nbsp;</p>
+<p><strong>Sketch:</strong></p>
+<ul>
+<li><em>Pros</em>:</li>
+</ul>
+<p>&#8211; Features: being the oldest tool means it has a very healthy ecosystem with a plethora of plugins</p>
+<ul>
+<li><em>Cons</em>:</li>
+</ul>
+<p>&#8211; Availability: being a Mac exclusive app means it’s only a matter of time before it’s erased from the market.</p>
+<p>&#8211; Speed: Sketch is snappy when it comes to opening a file, but viewport stability decreases drastically when navigating around a large project.</p>
+<p>&#8211; Price: like every other Mac apps, this shit cost money. If you’re a solo creator, this app is currently more expensive than the other 2 combined times infinity.</p>
+<p>&nbsp;</p>
+<p><strong>Adobe XD:</strong></p>
+<ul>
+<li><em>Pros</em>:</li>
+</ul>
+<p>&#8211; Adobe Ecosystem: being tied to the biggest creativity toolset on the market is a huge!</p>
+<p>&#8211; Price: it used to cost money, but it’s free now (undoubted in an effort to accelerate the construction of Sketch’s coffin)</p>
+<p>&#8211; Availability: Adobe has a bit more advantage over Sketch in term of platform availability, given that it works on both Windows and OS X. A common misconception is that the majority of the design community works on OS X, that’s only true in North America and Europe. If you count globally, you’ll see that most companies operating in the outsourcing sector (India, APAC) still uses Windows as the primary operating system. Some statistics currently put Sketch at over 70% dominance, but if you count the actual product output (which is huge in the outsourcing sector), I’d suspect that number would drop to somewhere around 30%.</p>
+<ul>
+<li><em>Cons</em>:</li>
+</ul>
+<p>&#8211; Adobe Ecosystem: yes, this is both a pro and con for this nifty little app. Being part of a giant company like Adobe certainly has its perk, while we know Adobe has the resources needed to make Adobe a thing, whether or not those resources are allocated correctly is a different story. We all know there’s very little innovation left going on at Adobe, having dominated the market for so long. They’ve also killed off fantastic tools like Freehand and (gasp!) Fireworks!</p>
+<p>&#8211; Availability consistency: apart from the fact that there’s still no client on Linux (which is not a huge deal, I say this as a designer who uses Linux, I know there’s not that many of us).</p>
+<p>&nbsp;</p>
+<p><strong>Figma:</strong></p>
+<ul>
+<li><em>Pros</em>:</li>
+</ul>
+<p>&#8211; Availability: Figma is the champion when it comes to platform availability. This tool is built with WebGL, with desktop wrapper for desktop use (like Slack). That means it works everywhere as long as you have a web browser (currently it’s THE screen designer of choice for designer working in Linux)</p>
+<p>&#8211; Price: if you’re a solo creator, it’s completely free, there’s no limit on the number of project you can have in your account. They only charge if you want to add more than 2 editors to your project, which is completely reasonable.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/10/why-sketch-will-die-in-2019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

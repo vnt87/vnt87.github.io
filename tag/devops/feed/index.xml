@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>devops &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/devops/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 05 Nov 2019 08:43:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>devops &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Note to self: how to copy files to Google Cloud VM Instance as Root using WinSCP</title>
+		<link>/2019/11/note-to-self-how-to-copy-files-to-google-cloud-vm-instance-as-root-using-winscp/</link>
+					<comments>/2019/11/note-to-self-how-to-copy-files-to-google-cloud-vm-instance-as-root-using-winscp/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2019 07:08:31 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[centos]]></category>
+		<category><![CDATA[centos 7]]></category>
+		<category><![CDATA[devops]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[remote root login]]></category>
+		<category><![CDATA[root login]]></category>
+		<category><![CDATA[ssh]]></category>
+		<category><![CDATA[winscp]]></category>
+		<guid isPermaLink="false">/?p=6204</guid>
+
+					<description><![CDATA[If you use VPSSIM or any other administration script in your VPS or GC VM Instance, you&#8217;re probably finding yourself unable to copy or modify anything when connecting to your [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>If you use VPSSIM or any other administration script in your VPS or GC VM Instance, you&#8217;re probably finding yourself unable to copy or modify anything when connecting to your server using WinSCP.</p>
+<p>The reason is that, by default, your server is configured to only allow key pairing authentication, so in order to login as a regular user, you have to do 2 things. First, enable <em>password authentication</em> and secondly, enable <em>Login as Root</em></p>
+<p>To connect as Root, you first need to set a password for your Root user (<code>sudo passwd</code>), then allow logging in remotely as root. To do so, fire up your <code>/etc/ssh/sshd_config</code></p>
+<pre class="EnlighterJSRAW" data-enlighter-language="shell">nano /etc/ssh/sshd_config</pre>
+<p>&nbsp;</p>
+<p>Add a line in the Authentication section of the file that says <code>PermitRootLogin yes</code>. This line may already exist and be commented out with a &#8220;#&#8221;. In this case, remove the &#8220;#&#8221;.</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="shell"># Authentication:
+#LoginGraceTime 2m
+PermitRootLogin yes
+#StrictModes yes
+#MaxAuthTries 6
+#MaxSessions 10</pre>
+<p>Scroll down a few lines and change this line:</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="shell"># To disable tunneled clear text passwords, change to no here!
+#PasswordAuthentication yes
+#PermitEmptyPasswords no
+PasswordAuthentication yes
+</pre>
+<p>&nbsp;</p>
+<p>Save the updated <code>/etc/ssh/sshd_config</code> file and restart the SSH server (<code>service sshd restart</code>)</p>
+<p>Should be good to go now</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/note-to-self-how-to-copy-files-to-google-cloud-vm-instance-as-root-using-winscp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

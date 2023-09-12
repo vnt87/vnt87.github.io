@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Uncategorized &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Thu, 01 Apr 2021 09:31:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>Uncategorized &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VPS Trials: Google vs Microsoft vs Amazon</title>
+		<link>/2021/04/vps-trials-google-vs-microsoft-vs-amazon/</link>
+					<comments>/2021/04/vps-trials-google-vs-microsoft-vs-amazon/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2021 09:28:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=14933</guid>
+
+					<description><![CDATA[This is a venting post, not an actual comparison For people looking to spin up a VM that can be used outside of their home networks, there&#8217;s several free offers [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote is-style-default"><p>This is a venting post, not an actual comparison</p></blockquote>
+
+
+
+<p>For people looking to spin up a VM that can be used outside of their home networks, there&#8217;s several free offers out there, including major names like Google, Microsoft, Amazon, Alibaba. Personally I&#8217;d rank them like this:</p>
+
+
+
+<ol><li><strong>Great tier: Google Cloud Platform</strong>, $300 trial credit for 12 months, reasonable pricing. Realistically you&#8217;ll probably get around 10 months out of your trial if you provision your VM correctly). UI is a bit confusing but overall usable.<br><em>Very transparent about pricing, even has a toast message showing your remaining fund and trial period. Doesn&#8217;t charge you a cent after your trial period ends, it just turns off your VM(s)</em>.</li><li><strong>Meh tier: Microsoft Azure</strong>, $200 trial credit for 12 months, worse pricing. While 200 doesn&#8217;t seem to be that much worse than Google&#8217;s offering, in reality it is a LOT less due to the higher pricing of VM provisioning. I burned through that $200 in around 3 months. The UI is more intuitive than GCP though.<br><em>Less transparent about your trial period than GCP, but still doesn&#8217;t charge you a cent after your trial period ends, it just turns off your VM(s)</em>.<br>Alibaba cloud is somewhat similar, I haven&#8217;t used it that much to have a solid opinion, but on paper it should be on par with Azure. Will update later.</li><li><strong>Trash tier: Amazon Web Service</strong>. Shitty UI, took me longer than all other services when it come to spinning up a VM, and even when it&#8217;s up and running, configuring networking to connect to it was challenging. I gave up after a few days of trying, and then kind of forgot about it. When I come back after a year, I was surprised to see my account suspended for &#8216;unpaid bills&#8217;. And check this out:</li></ol>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="363" src="/wp-content/uploads/2021/04/image-1024x363.png" alt="image" class="wp-image-14934" srcset="/wp-content/uploads/2021/04/image-1024x363.png 1024w, /wp-content/uploads/2021/04/image-300x106.png 300w, /wp-content/uploads/2021/04/image-768x272.png 768w, /wp-content/uploads/2021/04/image-1536x544.png 1536w, /wp-content/uploads/2021/04/image-141x50.png 141w, /wp-content/uploads/2021/04/image-650x230.png 650w, /wp-content/uploads/2021/04/image-1000x354.png 1000w, /wp-content/uploads/2021/04/image-50x18.png 50w, /wp-content/uploads/2021/04/image.png 1549w" sizes="(max-width: 1024px) 100vw, 1024px" title="VPS Trials: Google vs Microsoft vs Amazon 1"><figcaption>Amazon quietly put a massive charge on your account when you aren&#8217;t even using your EC instance</figcaption></figure>
+
+
+
+<p>No surprise there, having dealt with Amazon before as a student, I am positive this is a government sanctioned scam organization. <strong>Avoid Amazon at all cost!</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/vps-trials-google-vs-microsoft-vs-amazon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Oscar 2020</title>
+		<link>/2020/02/oscar-2020/</link>
+					<comments>/2020/02/oscar-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2020 21:19:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6295</guid>
+
+					<description><![CDATA[In case you&#8217;ve been living under a rock, you must&#8217;ve heard about Parasite, the critically acclaimed movie from Korean director Bong Joon-ho, who just took home the highest honor at [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In case you&#8217;ve been living under a rock, you must&#8217;ve heard about Parasite, the critically acclaimed movie from Korean director Bong Joon-ho, who just took home the highest honor at the Oscar last night. The first foreign movie to ever take home that gold statue.</p>
+<p>As an Asian, this news made me profoundly proud, but from an academic point of view, I am somewhat disappointed that Parasite won. Don&#8217;t get me wrong there, it&#8217;s a fantastic movie, and it deserves this title more than any of the Best Picture winners in the last 10 years.</p>
+<p>But this year? I don&#8217;t know.</p>
+<p>I&#8217;ve always thought the first foreign movie to take home the golden statue for Best Picture would be something along the line of Forrest Gump, or Inception, something that blows everyone&#8217;s mind everytime time you rewatch it, something that you remember forever as one of the greatest movie ever made. Parasite, while being an exceptional movie, is definitely not something that you&#8217;d remember in a few years time.</p>
+<p>And you can&#8217;t use the &#8216;but there&#8217;s no better movie released this year&#8217; to justify its win either.</p>
+<p>Competing against Parasite this year is 1917, the one-take movie that would probably go down in history as one of the greatest masterpieces ever made. Literally everyone who was lucky enough to experience it in the theater confirmed that it is the greatest cinematic experience they have ever had in their entire lives, and that is to put it lightly.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/oscar-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Home Computing &#8211; Centralized</title>
+		<link>/2020/02/home-computing-centrailized/</link>
+					<comments>/2020/02/home-computing-centrailized/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2020 01:05:03 +0000</pubDate>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6290</guid>
+
+					<description><![CDATA[I recently came across a sale post on facebook for a number of decommissioned Wyse thin clients. The guy was selling it for $20 a piece. Normally I&#8217;d just scroll [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I recently came across a sale post on facebook for a number of decommissioned Wyse thin clients. The guy was selling it for $20 a piece. Normally I&#8217;d just scroll past that but I for some reasons I was feeling especially low-bally that day so I asked, half-jokingly, if he&#8217;d be willing to part way with some of them for $10 a piece. To my surprise, he actually said yes. I guess he probably bought a shipment from China thinking it was some kind of SFF workstations. Anyway, long story short, I now have 4 Wyse thin clients that I don&#8217;t know what to do with.</p>
+<p>Or do I really?</p>
+<p>I&#8217;ve always wanted to get into building a homelab, and this just give me more motivation to do it. While I do have a home &#8216;lab&#8217;, I don&#8217;t really have a real home server to put inside it. I had an old Q6600 antique that I use from time to time to watch DIY videos but let&#8217;s face it, it can never cut it as a real home server.</p>
+<p>I&#8217;m thinking of building a dual xeon server with a healthy amount of RAM as a central server, running Proxmox or ESXi, serving the thin clients that I will be distributing around the house. So far I think I could replace my father&#8217;s, mother&#8217;s, my wife&#8217;s and maybe even my workshop current computer with a simple thin client. Not only does this setup saves a lot of space downstairs, it may actually provide a performance boost for my parents as they&#8217;re current using very old computers.</p>
+<p>Xeons are super cheap these days, as do ECC RAM modules. The only pricey part is perhaps, the motherboard.</p>
+<p>(to be continued&#8230;)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/home-computing-centrailized/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Unix bash script to install all Google Fonts to your computer</title>
+		<link>/2020/02/unix-bash-script-to-install-all-google-fonts-to-your-computer/</link>
+					<comments>/2020/02/unix-bash-script-to-install-all-google-fonts-to-your-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 02 Feb 2020 00:01:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6283</guid>
+
+					<description><![CDATA[Having access to all Google Fonts is crucial for any designer these days, so this script is pretty much essential whenever you make a fresh install of your OS. Credit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Having access to all Google Fonts is crucial for any designer these days, so this script is pretty much essential whenever you make a fresh install of your OS.</p>
+<p>Credit to Quinton Pike on Github</p>
+<p>Install</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="shell">curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install.sh | bash</code></p>
+<p>Uninstall</p>
+<p><code class="EnlighterJSRAW" data-enlighter-language="shell">curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/uninstall.sh | bash</code></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/unix-bash-script-to-install-all-google-fonts-to-your-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First encounter with aliens</title>
+		<link>/2019/03/first-encounter-with-aliens/</link>
+					<comments>/2019/03/first-encounter-with-aliens/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2019 04:46:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=5894</guid>
+
+					<description><![CDATA[Just watched this documentary on Vietnamese first encounter with foreigners, the depiction was pretty on point You guys should watch it. The documentary&#8217;s name is ARRIVAL]]></description>
+										<content:encoded><![CDATA[
+<p>Just watched this documentary on Vietnamese first encounter with foreigners, the depiction was pretty on point</p>
+
+
+
+<p>You guys should watch it.</p>
+
+
+
+<p>The documentary&#8217;s name is <strong>ARRIVAL</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/03/first-encounter-with-aliens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Retro Computer Terminal</title>
+		<link>/2019/03/retro-computer-terminal/</link>
+					<comments>/2019/03/retro-computer-terminal/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sat, 09 Mar 2019 04:20:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=5888</guid>
+
+					<description><![CDATA[I&#8217;ve always been fascinated by these old terminal when playing Fallout. In reality I&#8217;ve only ever seen them once or twice in my life. Most of the images I find [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;ve always been fascinated by these old terminal when playing Fallout. In reality I&#8217;ve only ever seen them once or twice in my life. Most of the images I find on the web are 3D renders.</p>
+
+
+
+<p>So I&#8217;ve been thinking about building one myself, DIY style. Right now I have a few spare parts available, an old AMD 5600K CPU-Mobo-Ram combo and an old IBM ThinkVision L150 monitor. All I need to build is a housing to put they all inside.</p>
+
+
+
+<p>Problem is, I only own a few primitive hand tool, and my skill with them leaves a lot to be desired. Creating those curves probably gonna be quite a challenge. Not to mention the engineering works.</p>
+
+
+
+<p>So maybe something like this SVM Commander 3D render?</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://i.imgur.com/oxj1l2O.jpg" alt="" title="Retro Computer Terminal 2"></figure>
+
+
+
+<p>Or maybe one of these real models?</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://i.imgur.com/msVDLL5.jpg" alt="msVDLL5" title="Retro Computer Terminal 3"></figure>
+
+
+
+<p>The possibilities are endless. Argh I&#8217;ve been losing sleep over these.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/03/retro-computer-terminal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>On Prototyping</title>
+		<link>/2019/02/on-prototyping/</link>
+					<comments>/2019/02/on-prototyping/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 20 Feb 2019 03:19:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[daily screenshot]]></category>
+		<guid isPermaLink="false">/?p=5860</guid>
+
+					<description><![CDATA[I&#8217;ve been told I have horrible organization for my prototypes, in hindsight they might&#8217;ve been onto something&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>I&#8217;ve been told I have horrible organization for my prototypes, in hindsight they might&#8217;ve been onto something&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/02/on-prototyping/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The last 6 months</title>
+		<link>/2019/01/the-last-6-months/</link>
+					<comments>/2019/01/the-last-6-months/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 09 Jan 2019 03:47:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=5799</guid>
+
+					<description><![CDATA[There is no excerpt because this is a protected post.]]></description>
+										<content:encoded><![CDATA[<form action="/wp-login.php?action=postpass" class="post-password-form" method="post">
+<p>This content is password protected. To view it please enter your password below:</p>
+<p><label for="pwbox-5799">Password: <input name="post_password" id="pwbox-5799" type="password" spellcheck="false" size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
+</form>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/01/the-last-6-months/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

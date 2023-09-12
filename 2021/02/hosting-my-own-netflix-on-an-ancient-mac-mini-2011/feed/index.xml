@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: Hosting my own Netflix on an ancient Mac Mini 2011	</title>
+	<atom:link href="/2021/02/hosting-my-own-netflix-on-an-ancient-mac-mini-2011/feed/" rel="self" type="application/rss+xml" />
+	<link>/2021/02/hosting-my-own-netflix-on-an-ancient-mac-mini-2011/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 20 Dec 2022 09:14:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		By: Phimhub Major Update - Nam Vu Personal Site		</title>
+		<link>/2021/02/hosting-my-own-netflix-on-an-ancient-mac-mini-2011/#comment-14075</link>
+
+		<dc:creator><![CDATA[Phimhub Major Update - Nam Vu Personal Site]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 09:14:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14873#comment-14075</guid>
+
+					<description><![CDATA[[&#8230;] run a little movie club, which started out as a Netflix group buy a year ago, which later led to me setting up my own Netflix (with Jellyfin) eventually leading to me going down the /r/selfhosted rabbit hole, learning a ton [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] run a little movie club, which started out as a Netflix group buy a year ago, which later led to me setting up my own Netflix (with Jellyfin) eventually leading to me going down the /r/selfhosted rabbit hole, learning a ton [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

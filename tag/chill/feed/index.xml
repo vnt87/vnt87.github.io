@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>chill &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/chill/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 22 Mar 2020 00:28:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>chill &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>In Fantasia</title>
+		<link>/2020/03/in-fantasia/</link>
+					<comments>/2020/03/in-fantasia/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2020 00:28:24 +0000</pubDate>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[Songs I like]]></category>
+		<category><![CDATA[chill]]></category>
+		<category><![CDATA[elite]]></category>
+		<category><![CDATA[kishi bashi]]></category>
+		<category><![CDATA[netflix]]></category>
+		<category><![CDATA[songs I like]]></category>
+		<guid isPermaLink="false">/?p=6311</guid>
+
+					<description><![CDATA[In Fantasia -By Kishi Bashi In Fantasia the mirrors lie to us they plant a seed One by one we build an empire where devils roam and breed Fading sunsets, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>In Fantasia</p>
+<p>-By Kishi Bashi</p></blockquote>
+<div class="bbVIQb">
+<div class="ujudUb" style="padding-left: 40px;"><em>In Fantasia the mirrors lie to us they plant a seed</em><br />
+<em>One by one we build an empire where devils roam and breed</em><br />
+<em>Fading sunsets, to forget them is the mark of death</em><br />
+<em>As we break in through the window</em><br />
+<em>Of mind and greed</em></div>
+<div class="ujudUb" style="padding-left: 40px;"><em>Darkened bridges sink away into the brackishness</em><br />
+<em>Swirling sin into a rainbow of atrophy</em><br />
+<em>When the winters help the golden autumns take it&#8217;s leave</em><br />
+<em>Opens passages for vampires</em><br />
+<em>To suck and feed</em></div>
+<div class="ujudUb" style="padding-left: 40px;"><em>Kareru kareru</em><br />
+<em>Subetega kareteruno</em><br />
+<em>Fuyuno sabaku fuyuno sabaku ga hirogaru</em><br />
+<em>Warerano yoruga kuru warerano yoruga hajimaru</em><br />
+<em>Karehaga kareru warerano fuyuno sabaku</em></div>
+<div class="ujudUb WRZytc OULBYb" style="padding-left: 40px;"><em>Waking insights born of jealousy and faithlessness</em><br />
+<em>Gave us strength among the gentiles of modernity</em><br />
+<em>In Fantasia the spirits hide…</em></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/in-fantasia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

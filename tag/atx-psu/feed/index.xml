@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>ATX PSU &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/atx-psu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Thu, 03 Aug 2017 11:12:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>ATX PSU &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>12v &#8220;Fire Pen&#8221; from old ATX PSU</title>
+		<link>/2017/08/12v-fire-pen-from-old-atx-psu/</link>
+					<comments>/2017/08/12v-fire-pen-from-old-atx-psu/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 03 Aug 2017 11:12:50 +0000</pubDate>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[12v]]></category>
+		<category><![CDATA[ATX PSU]]></category>
+		<category><![CDATA[rope]]></category>
+		<category><![CDATA[weekend project]]></category>
+		<guid isPermaLink="false">/?p=3841</guid>
+
+					<description><![CDATA[Just finished building my ‘Fire Pen’ from a glow plug, an old ATX PSU, some PVC pipes]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img decoding="async" fetchpriority="high" width="900" height="935" src="/wp-content/uploads/2018/08/thirty-1.jpg" alt="thirty 1" class="wp-image-3842" srcset="/wp-content/uploads/2018/08/thirty-1.jpg 900w, /wp-content/uploads/2018/08/thirty-1-289x300.jpg 289w, /wp-content/uploads/2018/08/thirty-1-768x798.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" title="12v &quot;Fire Pen&quot; from old ATX PSU 1"></figure>
+
+
+
+<p>Just finished building my ‘Fire Pen’ from a glow plug, an old ATX PSU, some PVC pipes</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/08/12v-fire-pen-from-old-atx-psu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
