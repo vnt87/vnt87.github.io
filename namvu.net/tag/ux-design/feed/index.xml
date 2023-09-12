@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>ux design &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/ux-design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Wed, 29 Sep 2021 15:10:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>ux design &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Conducting User Interviews</title>
+		<link>/2021/07/conducing-user-interviews/</link>
+					<comments>/2021/07/conducing-user-interviews/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2021 03:22:44 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">/?p=18929</guid>
+
+					<description><![CDATA[As a UX designer, you&#8217;ll always focus on the user and the experience they’ll have with the product you’re designing. In this course, you’ll learn about the first phase of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As a UX designer, you&#8217;ll always focus on the user and the experience they’ll have with the product you’re designing. In this course, you’ll learn about the first phase of the design process, empathizing with users, which is critical when it comes to creating a great user experience. In order to empathize with users and understand their pain points, you&#8217;ll need to conduct interviews with real people who might use the product you’re designing.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/9oslXLT.png" alt="Prepare for the interview: Interview preparation checklist as the the user researches on the computer" title="Conducting User Interviews 1"><figcaption>Conducting User Interviews 6</figcaption></figure>
+
+
+
+<p>Whether you&#8217;re conducting interviews in person or online, it’s important to be prepared before you speak with real users. You want to make the most of your limited time together and learn as much as you can about their unique perspectives. Here are a few things you can do to prepare for interviews:</p>
+
+
+
+<span id="more-18929"></span>
+
+
+
+<p><strong>Script interview questions. </strong>Develop a list of questions that you’ll ask all of the users you interview. It&#8217;s considered a best practice to keep interview questions fairly consistent across users, but this list of questions is just a guide. You can deviate from the questions you prepared, if necessary, to learn more about the user and their pain points.</p>
+
+
+
+<p><strong>Collect supplies.</strong> Create a checklist of items you&#8217;ll need for the interview, such as a computer, a printed list of questions, or paper and a pencil. If you&#8217;re using new equipment or technology during the interview, make sure you know how it works in advance.</p>
+
+
+
+<p><strong>Research the users.</strong> Take time to learn what you can about the people you’ll interview. If the users you’re preparing to interview provide their personal information before the interview, be sure to take note of it. This information might include their name, demographic information, relevant experience with the product you’re designing, or details about how they learned about the interview. You can use this information to extend the conversation during the interview and build a rapport. When you work for an organization, you can also screen participants on sites like LinkedIn to confirm they are who they say they are. You wouldn’t want to accidentally interview someone who is working for the competition!</p>
+
+
+
+<p><strong>Practice.</strong> It’s always a good idea to practice delivering the questions you’ll ask users before you conduct a real interview. This gives you time to make changes to the questions you’re planning to ask and helps ensure that the interviews run smoothly. Practicing is also a good way to determine if the length of the interview is appropriate, or if you need to add or cut questions from your list. You can practice asking interview questions in front of a mirror or with a trusted colleague.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/KILMXTn.png" alt="Meet the partcipant. The user and researcher shake hands as the researcher says, &quot;How has your day been?&quot;" title="Conducting User Interviews 2"><figcaption>Conducting User Interviews 7</figcaption></figure>
+
+
+
+<p>First impressions matter! As you meet users for the first time, at the start of an interview, you want the conversation to be set up for success. Here are a few things you can do when meeting interview participants:</p>
+
+
+
+<p><strong>Build a rapport. </strong>Building a good rapport is all about establishing a professional, but friendly, interaction. Making light conversation, like asking how the user&#8217;s day has been, can help establish a relationship before the interview begins. Simple questions and welcoming gestures can put the user at ease, which will help them share their true feelings once the interview begins.&nbsp;</p>
+
+
+
+<p><strong>Thank users for coming.</strong> Before the interview begins, show gratitude to the people you’re interviewing for taking the time to meet with you and share their perspectives. Thanking users is a part of establishing a good rapport and can help them feel like their opinions are valued.&nbsp;</p>
+
+
+
+<p><strong>Gather basic details.</strong> As you meet users, remember to ask about basic information that&#8217;s relevant to the interview, such as their name or demographic details.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/vdPlkj3.png" alt="Conduct the interview: The researcher is asking the interviewee questions." title="Conducting User Interviews 3"><figcaption>Conducting User Interviews 8</figcaption></figure>
+
+
+
+<p>Conducting interviews as a way to empathize with users is all about making the user feel comfortable and asking lots of questions. Here are a couple of things to keep in mind as you conduct interviews:</p>
+
+
+
+<p><strong>Follow interview etiquette.</strong> Speak in a clear and concise manner while asking questions, and remain professional no matter how users answer a question. Show that you are actively listening while users share their perspectives, such as nodding, making appropriate eye contact, or writing notes.</p>
+
+
+
+<p><strong>Ask open-ended questions. </strong>Avoid asking questions that would lead to a simple “yes” or “no” answer. Instead, ask questions that start with “why.” For example, avoid asking &#8220;Do you like going to the library?&#8221; and instead ask &#8220;Why do you like or dislike going to the library?&#8221; This will allow for more detailed conversations and can reveal useful information to include in the product you&#8217;re designing. If the participant does provide a short “yes” or “no” answer, you should ask a follow-up question to get them to share more.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/SZ0Zg6m.png" alt="Take Notes. The researcher sits across from the researcher and takes notes." title="Conducting User Interviews 4"><figcaption>Conducting User Interviews 9</figcaption></figure>
+
+
+
+<p>Interviews tend to happen quickly. Without taking notes, recounting exactly what participants expressed can be nearly impossible! As you watch and listen to participants during the interview, write down as much as you can capture. A robust list of notes will be helpful when you create empathy maps, and when you come up with ideas to solve users’ pain points. Here are a few best practices to help you take notes during interviews:</p>
+
+
+
+<p><strong>Highlight compelling quotes.</strong> The most obvious part of an interview is to take notes on what the user says. Interesting quotes are strong indicators about how users really think and feel. Including quotes in your empathy maps is a great way to feature a firsthand perspective from a real user, which can provide valuable insight when you begin your designs.&nbsp;</p>
+
+
+
+<p><strong>Document observations about participants. </strong>It&#8217;s important to record not only what users say, but also their mood, expressions, body language, and behaviors. Pay special attention to outside factors, like a noise or distraction, that might skew interview responses. All of these observations will be important to consider when creating empathy maps.</p>
+
+
+
+<p><strong>Consider recording interviews. </strong>Ask participants if they will allow you to record their interview. If they consent, recorded interviews can be really helpful later, for revisiting parts of an interview that you might not remember or taking additional notes after the interview concludes.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/aegS6kV.png" alt="aegS6kV" title="Conducting User Interviews 5"><figcaption>Conducting User Interviews 10</figcaption></figure>
+
+
+
+<p>After you&#8217;ve asked all of the interview questions, give users a chance to share their final thoughts about any items discussed during the interview. Some participants might open up about their opinions and reveal insights that they didn’t share earlier.&nbsp;</p>
+
+
+
+<p>Also, remember to thank participants once more. You want participants to leave the interview feeling good about you, your future product, and the brand you might be representing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/conducing-user-interviews/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Understand empathy in UX design</title>
+		<link>/2021/07/understand-empathy-in-ux-design/</link>
+					<comments>/2021/07/understand-empathy-in-ux-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 19 Jul 2021 09:52:15 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[empathy]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">/?p=18848</guid>
+
+					<description><![CDATA[The name UX design says it all: the user’s experience is at the center of how we design products. The best way for you to create great user experiences is [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The name UX design says it all: the user’s experience is at the center of how we design products. The best way for you to create great user experiences is to know and empathize with your user. As you might recall, <strong>empathy </strong>is the ability to understand someone else’s feelings or thoughts in a situation.&nbsp;</p>
+
+
+
+<p>As a UX designer, empathizing with users enhances the products you create because you experience the product as your user does. The better you are at anticipating a user’s desires and needs, the more comfortable the user will feel with your design, and the more likely they will be to engage with your product long-term.&nbsp;</p>
+
+
+
+<p>So, let’s explore how empathy can make you a more effective UX designer!</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">How to empathize with users</h5>
+
+
+
+<p>If empathizing with users sounds like a big task, fear not! The ability to empathize with users is a skill that can be learned with practice. Here are six tips that can help you become a more empathetic UX designer.</p>
+
+
+
+<span id="more-18848"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/HkHYY13.png" alt="Icon of question marks, next to heading: Ask lots of questions" title="Understand empathy in UX design 11"><figcaption>Understand empathy in UX design 18</figcaption></figure>
+
+
+
+<p><strong>Ask lots of questions. </strong>As a UX designer, you cannot make assumptions about the needs of your users. Instead, ask your users directly about their needs and wants, which your product design can address. Ask questions that begin with what, how, and why to gain a deeper understanding of your users’ perspective.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/uQ14gnt.png" alt="Icon of a video camera, and a heading that reads &quot;Become more observant&quot;" title="Understand empathy in UX design 12"><figcaption>Understand empathy in UX design 19</figcaption></figure>
+
+
+
+<p><strong>Become more observant</strong>. Shift your focus to the whole user and not just the words they are using. In interviews where the user is physically present or on a video recording, watching a user interact with you or your product can provide physical cues that can affect your research outcomes. To help capture observations, you’ll take detailed notes or even record your sessions with users.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/ffOa3kj.png" alt="Icon of an ear, and a heading that reads &quot;be an active listener&quot;" title="Understand empathy in UX design 13"><figcaption>Understand empathy in UX design 20</figcaption></figure>
+
+
+
+<p><strong>Be an active listener</strong>. Active listening requires you to fully concentrate on, understand, and remember what is being said by the user you’re interacting with. Avoid getting distracted by where the conversation is going or what you might say next. In UX design, practicing active listening can help you get impartial feedback directly from your users, which you can apply to improve your designs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/iqpzRQv.png" alt="Icon of a person with arrows pointing towards them, and a heading that reads &quot;request input&quot;" title="Understand empathy in UX design 14"><figcaption>Understand empathy in UX design 21</figcaption></figure>
+
+
+
+<p><strong>Request input. </strong>It’s important that the feedback you receive is objective and unbiased. Friends or colleagues often provide biased, mostly positive feedback because they want to support or please you. So, it’s important to request input from a variety of sources and a diverse group of users. When asking for feedback, use open-ended questions to understand the user’s actual thoughts on the experience or product.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/IvD1AzK.png" alt="Icon of a silhouette of a head, opening up to reveal a brain, heading that reads &quot;Have an open mind&quot;" title="Understand empathy in UX design 15"><figcaption>Understand empathy in UX design 22</figcaption></figure>
+
+
+
+<p><strong>Have an open mind. </strong>We all have biases. Remember, a <strong>bias</strong> is favoring or having prejudice against something or someone, based on limited information. As UX designers, we have to set those biases aside to better empathize with others. Your goal is to understand users, not to complicate their feedback with your own opinions and emotions.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/fYy6hxK.png" alt="Icon of a magnifying glass, heading that reads &quot;Keep current on UX research&quot;" title="Understand empathy in UX design 16"><figcaption>Understand empathy in UX design 23</figcaption></figure>
+
+
+
+<p><strong>Keep current on UX research</strong>. Follow researchers and join online communities to stay up-to-date on the research that affects UX designers and the users you’re designing for. Research is always changing and evolving as we understand more about human psychology. Staying current will give you an advantage in how you understand and interact with your audience.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Empathy vs. sympathy&nbsp;</h5>
+
+
+
+<p>Empathy is sometimes confused with sympathy, but the two terms don’t mean the same thing. <strong>Empathy</strong> means understanding someone’s feelings or thoughts, often by feeling the emotions yourself. <strong>Sympathy</strong> is the experience of showing concern or compassion without feeling the emotions themselves.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/B5bEvl2.gif" alt="B5bEvl2" title="Understand empathy in UX design 17"><figcaption>Understand empathy in UX design 24</figcaption></figure>
+
+
+
+<p>By empathizing effectively with your users and doing your best to understand their needs, you build a great foundation for a product experience that will help solve their unique problems.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">What does empathy mean to you?</h5>
+
+
+
+<p>Designing with empathy will enhance the products you create. By building deeper connections with users, you’ll better understand their perspectives and pain points. Finding that connection early can guide you down the right design path and save you from extensive revisions of your product during a later phase of the design process.</p>
+
+
+
+<p>With a focus on empathy, you can design a product that offers users everything they need and more.&nbsp;</p>
+
+
+
+<p>To learn more, check out <a href="https://www.dailymotion.com/video/x28nj7a" target="_blank" rel="noreferrer noopener"><u>this video on the power of empathy</u></a> from Dr. Brené Brown.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/understand-empathy-in-ux-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Different types of UX researches in the product development cylce</title>
+		<link>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/</link>
+					<comments>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 09:36:20 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[product design cycle]]></category>
+		<category><![CDATA[product development life cycle]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[ux research]]></category>
+		<guid isPermaLink="false">/?p=17892</guid>
+
+					<description><![CDATA[There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all about putting the user first, and research helps designers understand those users.&nbsp;</p>
+
+
+
+<p><strong>UX research</strong> focuses on understanding user behaviors, needs, and motivations through observation and feedback. Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, <em>think</em> the user needs with what the user <em>actually</em> needs.&nbsp;</p>
+
+
+
+<p>Remember the product development life cycle from an earlier course of the program? The <strong><a href="/2021/06/the-product-design-process-or-cycle-to-be-exact/" data-type="post" data-id="15018">product development life cycle</a></strong> has five stages — brainstorm, define, design, test, and launch — that take an idea for an app, website, or product to its launch. </p>
+
+
+
+<p>Let’s check out how research fits into the product development life cycle.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/PEEsHKl.png" alt="Graphic showing the product development lifecycle, represented by a circle" title="Different types of UX researches in the product development cylce 25"><figcaption>Around the circle, there are other icons that represent the phases of the product development lifecycle &#8211; Brainstorm, Define, Design, Test, Launch. New additional phases branch out from the cycle, including Foundational research (from the brainstorm phase), Design research (from the design phase), and post-launch research (from the launch phase)</figcaption></figure>
+
+
+
+<span id="more-17892"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/i1pLuMG.png" alt="icon of a person holding a magnifying glass; text reads: foundational research" title="Different types of UX researches in the product development cylce 26"><figcaption>Different types of UX researches in the product development cylce 29</figcaption></figure>
+
+
+
+<p><strong>Foundational research</strong> is always done <em>before</em> you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories, which you&#8217;ll learn about soon.&nbsp;</p>
+
+
+
+<p>In foundational research, your goal is to figure out what the user needs and how to address those needs with your product. Strong foundational research can contradict your personal perspective on what a good solution might be.&nbsp;</p>
+
+
+
+<p>Questions you might consider during foundational research include:</p>
+
+
+
+<ul><li>What should we build?</li><li>What are the user’s problems?</li><li>How can we solve those problems?</li><li>Am I aware of my own biases, and am I able to filter them as I do research?</li></ul>
+
+
+
+<p>There are lots of research methods for conducting foundational research, but many of them are based on observations. Common foundational research methods include:&nbsp;</p>
+
+
+
+<ul><li><strong>Interviews:</strong> A research method used to collect in-depth information on people&#8217;s opinions, thoughts, experiences, and feelings. You’ll often conduct interviews of your target users themselves.</li><li><strong>Surveys:</strong> An activity where many people are asked the same questions in order to understand what most people think about a product.</li><li><strong>Focus groups:</strong> A small group of people whose reactions are studied. For example, your focus group might bring together eight users to discuss their perspectives about new features in your design. A focus group is usually run by a moderator who guides the group on a certain topic of conversation.&nbsp;</li><li><strong>Competitive audit:</strong> An overview of your competitors’ strengths and weaknesses. You&#8217;ll conduct your own competitive audit later in the course, so you will understand this research method well!&nbsp;</li><li><strong>Field studies:</strong> Research activities that take place in the user&#8217;s context or personal environment, rather than in an office or lab.&nbsp;</li><li><strong>Diary studies:</strong> A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs.&nbsp;</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/wolj3qp.png" alt="icon of a profile of a head with tools and icons coming out of the top; text reads: design research" title="Different types of UX researches in the product development cylce 27"><figcaption>Different types of UX researches in the product development cylce 30</figcaption></figure>
+
+
+
+<p><strong>Design research</strong> is done <em>while</em> you design. Within the product development lifecycle, design research happens during the design stage (stage three) to help inform your designs, to fit the needs of users, and to reduce risk. Each time you create a new version of your design, new research should be done to evaluate what works well and what needs to be changed.&nbsp;</p>
+
+
+
+<p>In design research, your goal is to answer the question: How should we build it?</p>
+
+
+
+<p>The amount of design research you conduct will vary depending on where you work and what you’re building. The most common method used to conduct design research is a <strong>usability study</strong>, which is a technique to evaluate a product by testing it on users. The goal of usability studies is to identify pain points that the user experiences with your prototypes, so the issues can be fixed before the product launches. You’ll conduct your own usability study in the next course of this certificate program.&nbsp;</p>
+
+
+
+<p>Additional research methods that might be used to conduct design research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong>: A research method that evaluates and compares two different aspects of a product to discover which of them is most effective. For example, you might have users evaluate two layouts for the homepage of your app to find out which layout is more effective.&nbsp;</li><li><strong>Cafe or guerrilla studies:</strong> A research method where user feedback is gathered by taking a design or prototype into the public domain and asking passersby for their thoughts. For example, you might sit in a local coffee shop and ask customers if they would be willing to test your app design for a couple of minutes and provide feedback.&nbsp;</li><li><strong>Card sorting: </strong>A research method that instructs study participants to sort individual labels written on notecards into categories that make sense to them. This type of research is largely used to figure out the information architecture of your project, which we’ll discuss in the next course of the program — Course 3: Build Wireframes and Low-Fidelity Designs.</li><li><strong>Intercepts: </strong>A research method that gathers on-site feedback from users as they engage in the activities being researched. Intercepts are often conducted in the field, so this type of research is often considered a subset of field research. An intercept study can provide quick, high-level feedback.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/7RN3kRr.png" alt="icon of a rocket ship in front of a laptop screen; text reads: post-launch research" title="Different types of UX researches in the product development cylce 28"><figcaption>Different types of UX researches in the product development cylce 31</figcaption></figure>
+
+
+
+<p><strong>Post-launch research</strong> is done <em>after</em> the design is complete and your product has launched. Within the product development life cycle, post-launch research happens after the launch stage (stage five) to help validate that the product is meeting user needs through established metrics.</p>
+
+
+
+<p>In post-launch research, your goal is to answer the question: Did we succeed? This research will tell you how your final product is performing based on established metrics, such as adoption, usage, user satisfaction, and more.&nbsp;</p>
+
+
+
+<p>You should use research methods that give insight into what the user thinks of your product and if their experience using your product aligns with how you intended it to function. Research methods you might use to conduct post-launch research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong></li><li><strong>Usability studies</strong></li><li><strong>Surveys</strong></li><li><strong>Logs analysis:</strong> A research method used to evaluate recordings of users while they interact with your design, tools, etc.&nbsp;</li></ul>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">The key to a user-focused product: Research</h5>
+
+
+
+<p>Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Designing for Multiple Platforms: The Four Cs Principle</title>
+		<link>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/</link>
+					<comments>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 14:18:21 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[4cs]]></category>
+		<category><![CDATA[design for multiple platforms]]></category>
+		<category><![CDATA[four cs]]></category>
+		<category><![CDATA[multiplatform]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">/?p=15666</guid>
+
+					<description><![CDATA[Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs account for and take full advantage of the unique features of each platform. When preparing to design across platforms, it’s helpful to keep in mind the four Cs: consistency, continuity, context, and complementary. &nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/K7Mm2uf.png" alt="Graphic from the point of view of someone looking at their hands on a laptop. They are holding a phone and wearing a watch." title="Designing for Multiple Platforms: The Four Cs Principle 32"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 36</figcaption></figure>
+
+
+
+<p><strong>Consistency</strong>: Most companies have specific design guidelines that need to be followed in order to stay consistent with their brand identity, which refers to the visual appearance and voice of a company. When designing a product, it’s essential to stay true to the company’s brand guidelines in order to maintain consistency across platforms and drive brand awareness. Maintaining a consistent design helps improve the user experience and build trust, because users can expect the design to feel familiar across platforms and products.</p>
+
+
+
+<span id="more-15666"></span>
+
+
+
+<p>Take Google, for example. No matter which Google product or platform you use, you’ll find the colors red, blue, yellow, and green incorporated throughout the design. These visual design details are an essential part of building consistency, trust, and user loyalty.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/anDZpkx.png" alt="A graphic of a laptop and a phone next to each other. On the laptop, there&#039;s an email draft. Same draft is on the phone." title="Designing for Multiple Platforms: The Four Cs Principle 33"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 37</figcaption></figure>
+
+
+
+<p><strong>Continuity</strong>: To provide users with a seamless experience as they move between platforms, UX designers also have to prioritize continuity. Continuity in design means that users can maintain their progress as they move from one platform to the next. The user experience for each platform might be slightly different, but the product’s functionality should still be connected. Without continuity, users can become frustrated if the progress of their experience does not carry across platforms.</p>
+
+
+
+<p>For example, imagine you’re designing a website and app for emails. A user should be able to start writing an email on their laptop, save it as a draft, and finish that email later on their mobile phone.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/SVmWy8S.png" alt="A graphic of a laptop screen next to a smart watch screen. Email appears on laptop, notification appears on the watch." title="Designing for Multiple Platforms: The Four Cs Principle 34"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 38</figcaption></figure>
+
+
+
+<p><strong>Context</strong>: It’s also important to consider the context of each platform you’re designing for. This means thinking about when and how users prefer to interact with certain features on different platforms.&nbsp;</p>
+
+
+
+<p>For example, imagine that a user has an email app on both their laptop and smartwatch. They’re probably not going to compose an entire email on their small smartwatch screen, but they might still want to get notifications about new emails or read important messages. Designers have to take into account the context of the user’s situation and adapt the design for each platform accordingly.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/gZPHxAm.png" alt="A graphic of a laptop next to a phone screen. On the laptop, hands are typing an email. On the phone, they are adding images" title="Designing for Multiple Platforms: The Four Cs Principle 35"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 39</figcaption></figure>
+
+
+
+<p><strong>Complementary</strong>: One way to create a great cross-platform user experience is to make sure that the design of each platform adds something new for the user.&nbsp;</p>
+
+
+
+<p>For example, imagine you have a family member who lives abroad that you keep in touch with over email. You might write most of your emails to them through the desktop version of the product, but you might build on those emails using the product’s mobile app, which has features like adding photos directly from your phone. Taking into account how each platform could uniquely enrich the overall user experience is the best way to create complementary UX designs.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Examples of cross-platform experiences</h5>
+
+
+
+<p>Now that you have the hang of designing across platforms, check out some real-world examples of products with stellar cross-platform user experiences.&nbsp;&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">YouTube&nbsp;</h5>
+
+
+
+<p>For a lot of people, <a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener"><u>YouTube</u></a> is a go-to source for watching endless hours of video content. The YouTube mobile viewing experience complements and smoothly transitions from a desktop browser. For example, the mobile app elevates YouTube’s “‘Watch History” feature, which allows users to continue watching from the place they left off in videos, on any device. In the mobile phone app, users can also access all of their playlists and upload videos directly to their channel, just like they would on a computer.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">WebMD</h5>
+
+
+
+<p><a href="https://www.webmd.com/" target="_blank" rel="noreferrer noopener"><u>WebMD</u></a> is a healthcare website where users can learn about the symptoms, diagnosis, and treatments related to a wide variety of medical conditions. The WebMD “Symptom Checker” allows users to click on certain areas of a body map and get a list of possible symptoms associated with those body parts. For example, a user can indicate that they’re experiencing heartburn as a symptom by clicking on the chest of the virtual body, and selecting “heartburn” from the provided list. On a mobile phone, this feature is simplified to account for the smaller screen size, but still provides the same basic functionality. On a desktop or laptop computer, this feature is more in-depth and extensive, and lays out the content differently.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Airbnb</h5>
+
+
+
+<p><a href="https://www.airbnb.com/" target="_blank" rel="noreferrer noopener"><u>Airbnb</u></a> is an online rental platform where users can list their own space to rent or book a stay in someone else’s space. Think of Airbnb like a hotel, but you stay in actual homes, instead of a commercial building. The Airbnb user experience on a desktop computer is straightforward and similar to other rental sites, where you can filter your search based on your needs. The mobile app seamlessly integrates these same features and allows for continuity throughout the booking process. You can even get Airbnb notifications on your smartwatch, which is really handy as you’re traveling to your destination.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach</title>
+		<link>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/</link>
+					<comments>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 10:11:12 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Design Thinking Process]]></category>
+		<category><![CDATA[Five Elements]]></category>
+		<category><![CDATA[User Centered Design]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[UX Design Frameworks]]></category>
+		<guid isPermaLink="false">/?p=15022</guid>
+
+					<description><![CDATA[There&#8217;s many UX Design Frameworks out there, most common among them are Design Thinking Process and the Five Elements. Design thinking process&#160; Design thinking is a user-centered approach to problem-solving. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There&#8217;s many UX Design Frameworks out there, most common among them are <strong>Design Thinking Process</strong> and <strong>the Five Elements</strong>.</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">Design thinking process&nbsp;</h4>
+
+
+
+<p>Design thinking is a user-centered approach to problem-solving. It helps designers create solutions that address a real user problem and are functional and affordable. There are five phases in the design thinking process: empathize, define, ideate, prototype, and test. If these sounds familiar that&#8217;s because it is based on one of the core principles of UX design which is the <strong>Product Design Cycle</strong> which I&#8217;ve mentioned in an <a href="/2021/06/the-product-design-process-or-cycle-to-be-exact/" data-type="post" data-id="15018">earlier post</a>. </p>
+
+
+
+<p>Each phase of the framework answers a specific question.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/ic5tVRp.png" alt="Icons that represent the design thinking process - empathize, define, ideate, prototype, and test." title="Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 40"><figcaption>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 42</figcaption></figure>
+
+
+
+<p>During the <strong>empathize </strong>phase, the goal is to understand users&#8217; needs and how users think and feel. This involves a lot of user research, such as conducting surveys, interviews, and observation sessions, so you can get a clear picture of who your users are and the challenges they are facing.</p>
+
+
+
+<span id="more-15022"></span>
+
+
+
+<p>In the <strong>define </strong>phase, you’ll create a clear problem statement, or a description of the user’s need that your designs will address, based on your research findings.&nbsp;This will drive your team toward a clear goal for the design of the product.&nbsp;&nbsp;</p>
+
+
+
+<p>Once you land on a user problem and establish why it’s an important one to solve, it’s time for the <strong>ideate </strong>phase. During ideation, your team brainstorms solutions to the problem you defined. The goal of ideation is to come up with as many design solutions as possible.</p>
+
+
+
+<p>Once you have an idea of how to solve the problem, you’re ready to enter the <strong>prototype </strong>phase. A prototype is an early model of a product that demonstrates its functionality. Creating prototypes helps your team get a feel for what the product will actually look like and how users will experience the product.</p>
+
+
+
+<p>Finally, with your prototype in hand, you can test your designs with users. During the<strong> test </strong>phase, users provide feedback about your designs, before the product is built by engineers and launched to the public. You can use this feedback to make changes and improvements to your designs, as many times as you need.</p>
+
+
+
+<p>Depending on the feedback from your testing phase, you might need to go back to the beginning of the design thinking process, come up with new ideas for solutions, or develop new prototypes. Eventually, the goal of the design thinking process, like any design framework, is to implement your design, which means building it and sharing it with the world. For more details about the five phases in the design process, check out the guide <a href="https://xd.adobe.com/ideas/guides/ux-design-process-steps/" target="_blank" rel="noreferrer noopener"><u>UX Design Process: Everything You Need to Know</u></a> from Adobe XD Ideas.&nbsp;</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">The five elements of UX design</h4>
+
+
+
+<p>The five elements of UX design is a framework of steps that UX designers take to turn an idea into a working product. The five elements are, from bottom to top: strategy, scope, structure, skeleton, and surface.&nbsp;Think of these as a set of five layers, where each layer is dependent on the one below it.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/Y4g3hZy.png" alt="The 5 elements of UX design, stacked on one another, top to bottom from Surface (most concrete) to Strategy (most abstract).." title="Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 41"><figcaption>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 43</figcaption></figure>
+
+
+
+<ul><li><strong>Strategy:</strong> The bottom layer is strategy, where you lay a foundation of your design goals. These goals are based on user needs and the business objectives for the product.</li><li><strong>Scope:</strong> The next layer is scope, where you determine the type of product you’re building. At this point, you will consider the kind of features and content you want to include in the product.</li><li><strong>Structure:</strong> The middle layer is structure. Here, you’ll figure out how to organize your design and how you want users to interact with the product.</li><li><strong>Skeleton: </strong>The skeleton is the layout of the product. Just like the layout of our bones shapes our skin, the skeleton layer details how your design works – and like a skeleton, users won’t directly see its inner-workings.&nbsp;</li><li><strong>Surface: </strong>The top layer, surface, represents how the product looks to the user. The surface represents the interface that users view and interact with.&nbsp;Think of the surface like the clothes or makeup you wear that are visible to the outside world.</li></ul>
+
+
+
+<p>Want to learn more? Check out this article about <a href="https://medium.com/omarelgabrys-blog/ux-a-quick-glance-about-the-5-elements-of-user-experience-part-2-a0da8798cd52" target="_blank" rel="noreferrer noopener"><u>the five elements of user experience</u></a>, which was originally developed by Jesse James Garrett. Or for a deep dive into the five elements, <a href="https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684" target="_blank" rel="noreferrer noopener"><u>Garrett’s book</u></a> is also an option to explore</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Entry-level UX designers, what do they do exactly?</title>
+		<link>/2021/06/entry-level-ux-designers-what-do-they-do-exactly/</link>
+					<comments>/2021/06/entry-level-ux-designers-what-do-they-do-exactly/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 10:27:30 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[entry level ux designer]]></category>
+		<category><![CDATA[t-shaped]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[ux designer]]></category>
+		<guid isPermaLink="false">/?p=15020</guid>
+
+					<description><![CDATA[As you start out on your path to becoming a UX designer, you’re probably curious about the actual work your new career might involve. In this reading, you can explore [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you start out on your path to becoming a UX designer, you’re probably curious about the actual work your new career might involve. In this reading, you can explore the different responsibilities that entry-level UX designers commonly take on during a project. You&#8217;ll also review the differences between generalist, specialist, and T-shaped UX designers.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Responsibilities of an entry-level UX designer</h5>
+
+
+
+<p>As an entry-level UX designer, you’ll have a lot of exciting opportunities to gain experience. When you first start out, you’ll probably take on a lot of different roles and responsibilities.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/alXuEDf.png" alt="graphic of a person using a laptop, with various icons surrounding them indicating UX design skills" title="Entry-level UX designers, what do they do exactly? 44"><figcaption>Icons include user research (a tablet with magnifying glass over it) Information architecture (a series of 3 colored, numbered bars) Wireframing (a graphic of a wireframe) Protoyping (a graphic of a desktop monitor with protoype of mobile device on screen) Visual design (a mobile phone next to paint swatches) Effective communication (a graphic of two people talking)</figcaption></figure>
+
+
+
+<span id="more-15020"></span>
+
+
+
+<p><strong>User research</strong>: User research is about understanding the people who use your product. Through research, you’ll learn about users’ backgrounds, demographics, motivations, pain points, emotions, and goals. Your research methods might include surveys, observations, and interviews. We’ll explore user research in much more detail in an upcoming course.&nbsp;</p>
+
+
+
+<p><strong>Information architecture:</strong> Information architecture, or IA for short, involves deciding how your product is organized and structured. Think of IA as a skeleton that outlines how users interact with your product. Everything in your product should be organized in ways that make sense to the user and meets their expectations.</p>
+
+
+
+<p><strong>Wireframing</strong>: A wireframe is a basic outline or sketch of a product or a screen, like an app or website. As the name suggests, wireframes look like they were created with wires. They’re mostly lines and shapes, with some text. Wireframes can be drawn by hand or created digitally using software. Wireframing helps you bring your design ideas to life, so other people on your team can provide input and feedback.&nbsp;</p>
+
+
+
+<p><strong>Prototyping</strong>: A prototype is an early model of a product that demonstrates its functionality. Prototypes can be in physical or digital formats and can vary in complexity. Sometimes a prototype is made to demonstrate one specific feature of a product, like the transition between screens or the way the product physically looks and feels. You’ll make multiple prototypes for any given product throughout the design process.</p>
+
+
+
+<p><strong>Visual design: </strong>Visual design focuses on how the product or technology looks. As a UX designer, you need to understand the foundations of visual design in order to communicate the connection between a product’s functionality and its appearance to users. You’ll learn some of the most important principles of visual design throughout this certificate program.&nbsp;</p>
+
+
+
+<p><strong>Effective communication</strong>: Effective communication as a UX designer means connecting with your colleagues through emails, meetings, presentations, and design software. UX design is a very collaborative field, so being able to communicate both digitally and face-to-face with teammates is important. You need to be a good listener, be receptive to feedback, and share your ideas in a clear way.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Specialist and generalist designers</h5>
+
+
+
+<p>As you get further along in your career, you can choose to specialize in a certain area of UX design or keep your skill set more broad. What exactly are the differences between specialist and generalist UX designers? Read on to learn more!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/qlvGuaP.png" alt="Graphic representation of different types of designers." title="Entry-level UX designers, what do they do exactly? 45"><figcaption>Vertical line &#8211; representing a specialist, expert at one thing. Horizontal line &#8211; representing a Generalist, broad number of responsibilities T-shaped &#8211; expert at one thing and capable in a lot of other things</figcaption></figure>
+
+
+
+<p><strong>Specialist</strong>: A specialist dives deep into one type of UX design, like interaction, visual, or motion design, and becomes an expert. Specialist UX designers are more common at large companies that have a lot of designers, like here at Google. Some of the benefits of becoming a specialist include:</p>
+
+
+
+<ul><li>Focusing on one type of design that you enjoy more than others.</li><li>Gaining deep knowledge of one type of design.</li><li>Becoming well-known in the industry for your expertise in a particular type of design.</li></ul>
+
+
+
+<p><strong>Generalist</strong>: A generalist has a broad number of responsibilities. A majority of UX design jobs are generalist positions, especially at companies with fewer UX designers. Typically, entry-level UX designers work in generalist roles, and some people choose to stay in generalist design roles for their entire careers. There are a lot of benefits to being a generalist UX designer, like:&nbsp;</p>
+
+
+
+<ul><li>Expanding your skills in many different types of UX work.</li><li>Trying a variety of responsibilities and finding an area of UX that you’re especially passionate about.&nbsp;</li><li>Keeping your job feeling fresh and new, while doing a variety of tasks.</li></ul>
+
+
+
+<p><strong>T-shaped</strong>: A T-shaped designer is a specialist who also has a lot of capabilities in other areas. T-shaped designers get their name because the stem (or vertical line) of a T represents their expertise in one area, while the top (or horizontal line) symbolizes their related skills in a broad number of areas. T-shaped designers are great to have on your team, since they come with the benefits of both specialists and generalists. The image below highlights some of the skills a T-shaped UX designer might have. In this example, the person is a visual design specialist but also has knowledge in other areas, like coding and prototyping.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/jVlssZW.png" alt="Image depicting a t-shaped designer&#039;s area of expertise" title="Entry-level UX designers, what do they do exactly? 46"><figcaption>Entry-level UX designers, what do they do exactly? 47</figcaption></figure>
+
+
+
+<p>Each designer tends to naturally have a little T-shape in their abilities, even at the beginning of their career. As you start to work on projects, you’ll probably notice where your strengths and interests lie. As you get better at one area of design, you’ll likely find yourself working on that part of design projects more often, which helps you continue to improve in one area.</p>
+
+
+
+<p>You can also decide to direct your T-shape by developing specific skills that will open up future job opportunities. For example, you might work extra hard on your prototyping skills, in addition to your general UX design skills, which can lead to new experiences and professional growth.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Your future as a UX designer</h5>
+
+
+
+<p>There are so many different paths you can take within the field of UX design. After you land your first entry-level job and start working in the field, you’ll get a better idea of whether you want to be a UX design generalist or specialize in one specific type of design. There are plenty of benefits to being a generalist, specialist, or T-shaped designer, so it’s all about finding what works best for you!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/entry-level-ux-designers-what-do-they-do-exactly/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

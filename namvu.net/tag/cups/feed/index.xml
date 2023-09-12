@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>cups &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/cups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 13 Aug 2021 13:00:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>cups &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/</link>
+					<comments>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 25 Jul 2021 14:08:21 +0000</pubDate>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[canon lbp 2900]]></category>
+		<category><![CDATA[cups]]></category>
+		<category><![CDATA[network printing]]></category>
+		<category><![CDATA[raspberry pi]]></category>
+		<guid isPermaLink="false">/?p=19676</guid>
+
+					<description><![CDATA[Ok so after using it as an Media Server (OSMC, Kodi), Audio Server (Volumio, Moode), and most recently a CloudFlare DDNS updater on top of Raspbian Lite, I&#8217;m running out [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/G9SKyOJ.jpg" alt="G9SKyOJ" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 1"><figcaption>Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 7</figcaption></figure>
+
+
+
+<p>Ok so after using it as an Media Server (OSMC, Kodi), Audio Server (Volumio, Moode), and most recently a CloudFlare DDNS updater on top of Raspbian Lite, I&#8217;m running out of things to do with my old RPi. I figure there&#8217;s one thing I haven&#8217;t tried turning it into: a print server. So that&#8217;s what we&#8217;re gonna do today.</p>
+
+
+
+<p>Now this is actually one of the most common usage of the Pi so there&#8217;s already plenty of guides out there, and there&#8217;s really no information in this post that can&#8217;t be found elsewhere on the Internet, but I&#8217;m gonna do a write up anyway, purely for the sake of documenting my process. </p>
+
+
+
+<p>For the software we&#8217;ll be using CUPS running on top of Linux, naturally, since we don&#8217;t have a lot of options on that front. For the hardware, we&#8217;ll be using a first gen Raspberry Pi for the print server part, and Canon LBP 2900 for the actual printing. </p>
+
+
+
+<p>Now this printer is interesting really, because despite being one of the most popular printers here in Vietnam, it&#8217;s not in the list of printer supported by CUPS. I reckon its popularity is fueled by its economical nature, it&#8217;s one of the very few laser printers that fall into the &#8216;cheap to buy, cheap to maintain&#8217; segment (it costs like $150 brand new, and cartridge replacement is like $3.85, which is insane!). So getting it to work with CUPS is going to require a bit more works, but thankfully there&#8217;s an open source driver out there that somebody reverse engineered to our benefits, so we&#8217;ll be using that.</p>
+
+
+
+<span id="more-19676"></span>
+
+
+
+<p>Ok first you need a RPi running a Linux flavor of your choice, I&#8217;m running Ubuntu Server 20.04 for ARM, you can also use Raspbian (use the Lite version if you plan to go headless) or DietPi. I actually tried DietPi first but current internet situation prevents it from reaching the update servers, plus I don&#8217;t like how it forces you to install a desktop environment on first install.</p>
+
+
+
+<p>Once you have everything up and running, start by installing CUPS and the rest of the perquisites:</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">sudo apt install -y build-essential git autoconf libtool cups libcups2-dev libcupsimage2-dev</pre>
+
+
+
+<p>Grab the source code:</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">git clone https://github.com/agalakhov/captdriver.git</pre>
+
+
+
+<p>Compile the driver</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">cd captdriver
+autoreconf -i
+./configure
+make</pre>
+
+
+
+<p>Copy the files to their relevant locations</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">sudo cp src/rastertocapt /usr/lib/cups/filter/
+sudo cp Canon*.ppd /usr/share/ppd/custom/</pre>
+
+
+
+<p>Now go to CUPS WebUI (<em>https://&lt;raspberry-pi-ip&gt;:631/</em>) (if you can&#8217;t access it, see the UPDATE below), go to the <strong>Administration</strong> tab and click on &#8216;Add Printer&#8217;</p>
+
+
+
+<div class="ghostkit-carousel" data-effect="slide" data-speed="0.2" data-autoplay="0" data-slides-per-view="2" data-centered-slides="false" data-loop="false" data-free-scroll="false" data-show-arrows="true" data-show-bullets="true" data-dynamic-bullets="true" data-gap="15"><div class="ghostkit-carousel-items">
+<div class="ghostkit-carousel-slide">
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="670" height="477" src="/wp-content/uploads/2021/07/image-3.png" alt="image 3" class="wp-image-19733" srcset="/wp-content/uploads/2021/07/image-3.png 670w, /wp-content/uploads/2021/07/image-3-300x214.png 300w, /wp-content/uploads/2021/07/image-3-70x50.png 70w, /wp-content/uploads/2021/07/image-3-650x463.png 650w, /wp-content/uploads/2021/07/image-3-50x36.png 50w" sizes="(max-width: 670px) 100vw, 670px" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 2"><figcaption>If you have the printer plugged into your RPi then it should show up under &#8216;Local Printers&#8217;</figcaption></figure>
+</div>
+
+
+
+<div class="ghostkit-carousel-slide">
+<figure class="wp-block-image size-full"><img decoding="async" width="640" height="460" src="/wp-content/uploads/2021/07/image-4.png" alt="image 4" class="wp-image-19734" srcset="/wp-content/uploads/2021/07/image-4.png 640w, /wp-content/uploads/2021/07/image-4-300x216.png 300w, /wp-content/uploads/2021/07/image-4-70x50.png 70w, /wp-content/uploads/2021/07/image-4-50x36.png 50w" sizes="(max-width: 640px) 100vw, 640px" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 3"><figcaption>Give it an easy to remember name, and remember to check &#8216;Share This Printer&#8217;</figcaption></figure>
+</div>
+
+
+
+<div class="ghostkit-carousel-slide">
+<figure class="wp-block-image size-full"><img decoding="async" width="719" height="633" src="/wp-content/uploads/2021/07/image-6.png" alt="image 6" class="wp-image-19737" srcset="/wp-content/uploads/2021/07/image-6.png 719w, /wp-content/uploads/2021/07/image-6-300x264.png 300w, /wp-content/uploads/2021/07/image-6-57x50.png 57w, /wp-content/uploads/2021/07/image-6-650x572.png 650w, /wp-content/uploads/2021/07/image-6-50x44.png 50w" sizes="(max-width: 719px) 100vw, 719px" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 4"><figcaption>Select &#8216;Canon Inc&#8217; here, if you don&#8217;t see it, refer to the &#8216; Copy the files to their relevant locations&#8217; section above</figcaption></figure>
+</div>
+
+
+
+<div class="ghostkit-carousel-slide">
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="697" height="606" src="/wp-content/uploads/2021/07/image-5.png" alt="image 5" class="wp-image-19735" srcset="/wp-content/uploads/2021/07/image-5.png 697w, /wp-content/uploads/2021/07/image-5-300x261.png 300w, /wp-content/uploads/2021/07/image-5-58x50.png 58w, /wp-content/uploads/2021/07/image-5-650x565.png 650w, /wp-content/uploads/2021/07/image-5-50x43.png 50w" sizes="(max-width: 697px) 100vw, 697px" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 5"><figcaption>Select your printer model and you should be good to go</figcaption></figure>
+</div>
+</div><div class="ghostkit-carousel-arrow-prev-icon"><svg class="ghostkit-svg-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.7803 17.7803C14.4874 18.0732 14.0126 18.0732 13.7197 17.7803L8.4697 12.5303C8.1768 12.2374 8.1768 11.7626 8.4697 11.4697L13.7197 6.21967C14.0126 5.92678 14.4874 5.92678 14.7803 6.21967C15.0732 6.51256 15.0732 6.98744 14.7803 7.28033L10.0607 12L14.7803 16.7197C15.0732 17.0126 15.0732 17.4874 14.7803 17.7803Z" fill="currentColor"/></svg></div><div class="ghostkit-carousel-arrow-next-icon"><svg class="ghostkit-svg-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.21967 6.2197C9.51256 5.9268 9.98744 5.9268 10.2803 6.2197L15.5303 11.4697C15.8232 11.7626 15.8232 12.2374 15.5303 12.5303L10.2803 17.7803C9.98744 18.0732 9.51256 18.0732 9.21967 17.7803C8.92678 17.4874 8.92678 17.0126 9.21967 16.7197L13.9393 12L9.21967 7.2803C8.92678 6.9874 8.92678 6.5126 9.21967 6.2197Z" fill="currentColor"/></svg></div></div>
+
+
+
+<p>If everything went correctly, your printer should now be detectable by other computers on the same network. For example, on my Windows PC next room, I could just go to Add a new printer and here it is:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="570" src="/wp-content/uploads/2021/07/image-7-1024x570.png" alt="image 7" class="wp-image-19745" srcset="/wp-content/uploads/2021/07/image-7-1024x570.png 1024w, /wp-content/uploads/2021/07/image-7-300x167.png 300w, /wp-content/uploads/2021/07/image-7-768x428.png 768w, /wp-content/uploads/2021/07/image-7-90x50.png 90w, /wp-content/uploads/2021/07/image-7-650x362.png 650w, /wp-content/uploads/2021/07/image-7-1000x557.png 1000w, /wp-content/uploads/2021/07/image-7-50x28.png 50w, /wp-content/uploads/2021/07/image-7.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 6"><figcaption>Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 8</figcaption></figure>
+
+
+
+<p>Go ahead, add it and print a test page, see if it works.</p>
+
+
+
+<p><strong>UPDATE July 30:</strong> As I was going over this process for a second time, I realize I missed one step: that is setting CUPS up to be remotely accessible. CUPS default configuration only let you access the WebUI from the local machine, which is really dumb IMO, but not a lot of old opensource project can say they put the end user front and center in their design process. Anyway, the point is, if you want to access CUPS WebUI from another machine, you need to edit <mark class="ghostkit-highlight">/etc/cups/cupsd.conf</mark> and modify a few values. Specifically:</p>
+
+
+
+<p>Find <code data-enlighter-language="generic" class="EnlighterJSRAW"># Only listen for connections from the local machine.</code></p>
+
+
+
+<p>Replace <code data-enlighter-language="generic" class="EnlighterJSRAW">listen localhost:631</code> with just <code data-enlighter-language="generic" class="EnlighterJSRAW">Port 631</code></p>
+
+
+
+<p>Find <code data-enlighter-language="generic" class="EnlighterJSRAW"># Show shared printers on the local network.</code></p>
+
+
+
+<p>Change <code data-enlighter-language="generic" class="EnlighterJSRAW">Browsing Off</code> to <code data-enlighter-language="generic" class="EnlighterJSRAW">Browsing On</code></p>
+
+
+
+<p>Find <code data-enlighter-language="generic" class="EnlighterJSRAW"># Restrict access to the server…</code> and <code data-enlighter-language="generic" class="EnlighterJSRAW"># Restrict access to the admin pages…</code></p>
+
+
+
+<p>Add <code data-enlighter-language="generic" class="EnlighterJSRAW">Allow all</code> above <code data-enlighter-language="generic" class="EnlighterJSRAW">Order allow,deny</code></p>
+
+
+
+<p>I&#8217;ve included the entirety of my <mark class="ghostkit-highlight">cupsd.conf</mark> here if you need it:</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">#
+# Configuration file for the CUPS scheduler.  See "man cupsd.conf" for a
+# complete description of this file.
+#
+
+# Log general information in error_log - change "warn" to "debug"
+# for troubleshooting...
+LogLevel warn
+PageLogFormat
+
+# Deactivate CUPS' internal logrotating, as we provide a better one, especially
+# LogLevel debug2 gets usable now
+MaxLogSize 0
+
+# Only listen for connections from the local machine.
+Port 631
+Listen /run/cups/cups.sock
+
+# Show shared printers on the local network.
+Browsing On
+BrowseLocalProtocols dnssd
+
+# Default authentication type, when authentication is required...
+DefaultAuthType Basic
+
+# Web interface setting...
+WebInterface Yes
+
+# Restrict access to the server...
+&lt;Location />
+  Allow all
+  Order allow,deny
+&lt;/Location>
+
+# Restrict access to the admin pages...
+&lt;Location /admin>
+  Allow all
+  Order allow,deny
+&lt;/Location>
+
+# Restrict access to configuration files...
+&lt;Location /admin/conf>
+  AuthType Default
+  Require user @SYSTEM
+  Order allow,deny
+&lt;/Location>
+
+# Restrict access to log files...
+&lt;Location /admin/log>
+  AuthType Default
+  Require user @SYSTEM
+  Order allow,deny
+&lt;/Location>
+
+# Set the default printer/job policies...
+&lt;Policy default>
+  # Job/subscription privacy...
+  JobPrivateAccess default
+  JobPrivateValues default
+  SubscriptionPrivateAccess default
+  SubscriptionPrivateValues default
+
+  # Job-related operations must be done by the owner or an administrator...
+  &lt;Limit Create-Job Print-Job Print-URI Validate-Job>
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit Send-Document Send-URI Hold-Job Release-Job Restart-Job Purge-Jobs Set-Job-Attributes Create-Job-Subscription Renew-Subscription Cancel-Subscription Get-Notifications Reprocess-Job Cancel-Current-Job Suspend-Current-Job Resume-Job Cancel-My-Jobs Close-Job CUPS-Move-Job CUPS-Get-Document>
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All administration operations require an administrator to authenticate...
+  &lt;Limit CUPS-Add-Modify-Printer CUPS-Delete-Printer CUPS-Add-Modify-Class CUPS-Delete-Class CUPS-Set-Default CUPS-Get-Devices>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All printer operations require a printer operator to authenticate...
+  &lt;Limit Pause-Printer Resume-Printer Enable-Printer Disable-Printer Pause-Printer-After-Current-Job Hold-New-Jobs Release-Held-New-Jobs Deactivate-Printer Activate-Printer Restart-Printer Shutdown-Printer Startup-Printer Promote-Job Schedule-Job-After Cancel-Jobs CUPS-Accept-Jobs CUPS-Reject-Jobs>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # Only the owner or an administrator can cancel or authenticate a job...
+  &lt;Limit Cancel-Job CUPS-Authenticate-Job>
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit All>
+    Order deny,allow
+  &lt;/Limit>
+&lt;/Policy>
+
+# Set the authenticated printer/job policies...
+&lt;Policy authenticated>
+  # Job/subscription privacy...
+  JobPrivateAccess default
+  JobPrivateValues default
+  SubscriptionPrivateAccess default
+  SubscriptionPrivateValues default
+
+  # Job-related operations must be done by the owner or an administrator...
+  &lt;Limit Create-Job Print-Job Print-URI Validate-Job>
+    AuthType Default
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit Send-Document Send-URI Hold-Job Release-Job Restart-Job Purge-Jobs Set-Job-Attributes Create-Job-Subscription Renew-Subscription Cancel-Subscription Get-Notifications Reprocess-Job Cancel-Current-Job Suspend-Current-Job Resume-Job Cancel-My-Jobs Close-Job CUPS-Move-Job CUPS-Get-Document>
+    AuthType Default
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All administration operations require an administrator to authenticate...
+  &lt;Limit CUPS-Add-Modify-Printer CUPS-Delete-Printer CUPS-Add-Modify-Class CUPS-Delete-Class CUPS-Set-Default>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All printer operations require a printer operator to authenticate...
+  &lt;Limit Pause-Printer Resume-Printer Enable-Printer Disable-Printer Pause-Printer-After-Current-Job Hold-New-Jobs Release-Held-New-Jobs Deactivate-Printer Activate-Printer Restart-Printer Shutdown-Printer Startup-Printer Promote-Job Schedule-Job-After Cancel-Jobs CUPS-Accept-Jobs CUPS-Reject-Jobs>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # Only the owner or an administrator can cancel or authenticate a job...
+  &lt;Limit Cancel-Job CUPS-Authenticate-Job>
+    AuthType Default
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit All>
+    Order deny,allow
+  &lt;/Limit>
+&lt;/Policy>
+
+# Set the kerberized printer/job policies...
+&lt;Policy kerberos>
+  # Job/subscription privacy...
+  JobPrivateAccess default
+  JobPrivateValues default
+  SubscriptionPrivateAccess default
+  SubscriptionPrivateValues default
+
+  # Job-related operations must be done by the owner or an administrator...
+  &lt;Limit Create-Job Print-Job Print-URI Validate-Job>
+    AuthType Negotiate
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit Send-Document Send-URI Hold-Job Release-Job Restart-Job Purge-Jobs Set-Job-Attributes Create-Job-Subscription Renew-Subscription Cancel-Subscription Get-Notifications Reprocess-Job Cancel-Current-Job Suspend-Current-Job Resume-Job Cancel-My-Jobs Close-Job CUPS-Move-Job CUPS-Get-Document>
+    AuthType Negotiate
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All administration operations require an administrator to authenticate...
+  &lt;Limit CUPS-Add-Modify-Printer CUPS-Delete-Printer CUPS-Add-Modify-Class CUPS-Delete-Class CUPS-Set-Default>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # All printer operations require a printer operator to authenticate...
+  &lt;Limit Pause-Printer Resume-Printer Enable-Printer Disable-Printer Pause-Printer-After-Current-Job Hold-New-Jobs Release-Held-New-Jobs Deactivate-Printer Activate-Printer Restart-Printer Shutdown-Printer Startup-Printer Promote-Job Schedule-Job-After Cancel-Jobs CUPS-Accept-Jobs CUPS-Reject-Jobs>
+    AuthType Default
+    Require user @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  # Only the owner or an administrator can cancel or authenticate a job...
+  &lt;Limit Cancel-Job CUPS-Authenticate-Job>
+    AuthType Negotiate
+    Require user @OWNER @SYSTEM
+    Order deny,allow
+  &lt;/Limit>
+
+  &lt;Limit All>
+    Order deny,allow
+  &lt;/Limit>
+&lt;/Policy>
+</pre>
+
+
+
+<p>That&#8217;s it right? You should be able to access the WebUI and perform the rest of the tasks, right? Well not so fast junior, while you should be able to access the WebUI by now, you&#8217;ll soon realize that you&#8217;re forbidden to add a new printer.  I don&#8217;t know why it needs to be like this but you need to add yourself to the <em>lpadmin</em> group by doing <code data-enlighter-language="generic" class="EnlighterJSRAW">sudo usermod -a -G lpadmin &lt;your-username&gt;</code></p>
+
+
+
+<p>Now you should be done. If that whole process made you feel nostalgic, that&#8217;s probably because it reminds you of how we used to &#8216;install&#8217; plugin for phpBB in the good old days. Who would&#8217;ve thought that 20 years later we&#8217;d still be doing that eh? OSS at its finest.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

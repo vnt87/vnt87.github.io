@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>logos &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/logos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Mon, 27 Aug 2018 15:39:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>logos &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Honest Logos: Vietnamese version</title>
+		<link>/2018/08/honest-logos-vietnamese-version/</link>
+					<comments>/2018/08/honest-logos-vietnamese-version/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2018 15:39:32 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[branding]]></category>
+		<category><![CDATA[logos]]></category>
+		<category><![CDATA[mock design]]></category>
+		<category><![CDATA[parody]]></category>
+		<category><![CDATA[satire]]></category>
+		<guid isPermaLink="false">/?p=3942</guid>
+
+					<description><![CDATA[I just came across Viktor Hertz&#8217;s Honest Logos and I&#8217;m kinda inspired, I&#8217;m thinking of doing a similar series focusing on common brands in Vietnam. But I need some ideas, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" fetchpriority="high" class="aligncenter size-full" src="https://i.imgur.com/6d6Lwo2.jpg" width="1667" height="1250" alt="6d6Lwo2" title="Honest Logos: Vietnamese version 2"></p>
+<p>I just came across <a href="http://viktorhertz.com/portfolio/honest-logos/" target="_blank" rel="noopener">Viktor Hertz&#8217;s Honest Logos</a> and I&#8217;m kinda inspired, I&#8217;m thinking of doing a similar series focusing on common brands in Vietnam. But I need some ideas, any suggestion?</p>
+<p>Off the top of my head, I got:</p>
+<ul>
+<li>VCB: largest bank with worst customer service</li>
+<li>Miniso: Chinese stuffs masquerading as Japanese stuffs</li>
+<li>Mumuso: same as Miniso but masquerading as Korean stuffs instead of JP</li>
+<li>VTV: Vietnam&#8217;s disgrace of a national television network</li>
+<li>FLC Group: <strong>F</strong>uck <strong>L</strong>ife, build <strong>C</strong>able cars</li>
+<li>What else you guys got?</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/08/honest-logos-vietnamese-version/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

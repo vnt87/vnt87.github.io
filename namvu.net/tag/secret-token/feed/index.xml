@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>secret token &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/secret-token/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 29 Jun 2021 14:14:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>secret token &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Integrating Jellyfin with Heimdall: just what the heck is the &#8216;Password (secret token)&#8217;?</title>
+		<link>/2021/04/integrating-jellyfin-with-heimdall-just-what-the-heck-is-the-password-secret-token/</link>
+					<comments>/2021/04/integrating-jellyfin-with-heimdall-just-what-the-heck-is-the-password-secret-token/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 15 Apr 2021 09:03:35 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[Home Networking]]></category>
+		<category><![CDATA[api key]]></category>
+		<category><![CDATA[heimdall]]></category>
+		<category><![CDATA[homenetworking]]></category>
+		<category><![CDATA[jellyfin]]></category>
+		<category><![CDATA[jellyfin heimdall integration]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[secret token]]></category>
+		<guid isPermaLink="false">/?p=14962</guid>
+
+					<description><![CDATA[So you&#8217;re probably in the process of integrating Jellyfin with Heimdall, and you&#8217;re stumped by this little field in the Add application screen in Heimdall: Just what the heck are [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>So you&#8217;re probably in the process of integrating <a href="https://jellyfin.org/" data-type="URL" data-id="https://jellyfin.org/" target="_blank" rel="noreferrer noopener">Jellyfin </a>with <a href="https://heimdall.site/" data-type="URL" data-id="https://heimdall.site/" target="_blank" rel="noreferrer noopener">Heimdall</a>, and you&#8217;re stumped by this little field in the Add application screen in Heimdall:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" fetchpriority="high" width="1004" height="961" src="/wp-content/uploads/2021/04/image-4.png" alt="image 4" class="wp-image-14964" srcset="/wp-content/uploads/2021/04/image-4.png 1004w, /wp-content/uploads/2021/04/image-4-300x287.png 300w, /wp-content/uploads/2021/04/image-4-768x735.png 768w, /wp-content/uploads/2021/04/image-4-52x50.png 52w, /wp-content/uploads/2021/04/image-4-650x622.png 650w, /wp-content/uploads/2021/04/image-4-1000x957.png 1000w, /wp-content/uploads/2021/04/image-4-50x48.png 50w" sizes="(max-width: 1004px) 100vw, 1004px" title="Integrating Jellyfin with Heimdall: just what the heck is the &#039;Password (secret token)&#039;? 1"></figure></div>
+
+
+
+<p>Just what the heck are we supposed to put in there? Neither the username nor password of my Jellyfin account works here, just what the heck is this &#8216;Password (Secret token)&#8217; thing that Heimdall is asking for?</p>
+
+
+
+<p>The more tech savvy among you probably have already figured it out, but if you&#8217;re an idiot like me, you&#8217;re gonna waste a few rage inducing hours searching for it on the Internet to no avail, nobody on the Interweb seems to know what it is. Well I figured it out, and I&#8217;m gonna tell you.</p>
+
+
+
+<span id="more-14962"></span>
+
+
+
+<p>It&#8217;s the friggin&#8217; <strong>API KEY</strong>!</p>
+
+
+
+<p>Yep, I don&#8217;t know who&#8217;s responsible for the wording in Heimdall but if I know he&#8217;s definitely not getting invited to my birthday party. </p>
+
+
+
+<p>If you want the user to input the API Key, just say API Key.</p>
+
+
+
+<p>Not &#8216;Password&#8217;</p>
+
+
+
+<p>Not &#8216;Secret Token&#8217;</p>
+
+
+
+<p><strong>API Fucking Key!</strong></p>
+
+
+
+<p>To make matter worse, there&#8217;s no guide or even a simple reddit post that point you to where you can obtain such key. Lucky for you, I went through that for you.</p>
+
+
+
+<p>In Jellyfin just go to <strong>Dashboard > Advanced > API Keys</strong>, click on the little <strong>(+)</strong> icon, put whatever name you want (mine just says Heimdall) and there you have it.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="720" height="723" src="/wp-content/uploads/2021/04/image-6.png" alt="image 6" class="wp-image-14966" srcset="/wp-content/uploads/2021/04/image-6.png 720w, /wp-content/uploads/2021/04/image-6-300x300.png 300w, /wp-content/uploads/2021/04/image-6-150x150.png 150w, /wp-content/uploads/2021/04/image-6-50x50.png 50w, /wp-content/uploads/2021/04/image-6-650x653.png 650w" sizes="(max-width: 720px) 100vw, 720px" title="Integrating Jellyfin with Heimdall: just what the heck is the &#039;Password (secret token)&#039;? 2"></figure></div>
+
+
+
+<p>Copy that key and paste that into Heimdall&#8217;s Add Application screen, right into that so called &#8216;Password&#8217; field, along with other information and it should now work.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="316" height="115" src="/wp-content/uploads/2021/04/image-8.png" alt="image 8" class="wp-image-14968" srcset="/wp-content/uploads/2021/04/image-8.png 316w, /wp-content/uploads/2021/04/image-8-300x109.png 300w, /wp-content/uploads/2021/04/image-8-137x50.png 137w, /wp-content/uploads/2021/04/image-8-50x18.png 50w" sizes="(max-width: 316px) 100vw, 316px" title="Integrating Jellyfin with Heimdall: just what the heck is the &#039;Password (secret token)&#039;? 3"></figure></div>
+
+
+
+<p><em>Bonus tip: for the &#8216;Stats to show&#8217; option, you can select multiple stats by holding down the Shift key.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/04/integrating-jellyfin-with-heimdall-just-what-the-heck-is-the-password-secret-token/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

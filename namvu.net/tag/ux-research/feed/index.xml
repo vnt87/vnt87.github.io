@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>ux research &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/ux-research/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Mon, 12 Jul 2021 10:10:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>ux research &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Common UX Research Methods</title>
+		<link>/2021/07/common-ux-research-methods/</link>
+					<comments>/2021/07/common-ux-research-methods/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 10:10:00 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[ux research]]></category>
+		<category><![CDATA[ux research types]]></category>
+		<guid isPermaLink="false">/?p=17912</guid>
+
+					<description><![CDATA[Understanding your users is one of the most essential parts of UX design. You’ve already learned about the problems that can come up when designers make assumptions about their users [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Understanding your users is one of the most essential parts of UX design. You’ve already learned about the problems that can come up when designers make assumptions about their users and their needs. So how do you avoid making those assumptions? By doing research! In this reading, you’ll explore some common research methods used by UX designers.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Types of research</h5>
+
+
+
+<p>There are two ways to categorize research: <em>who conducts</em> the research and the <em>type of data</em> collected.</p>
+
+
+
+<p>The first way to categorize research is based on whoconducts the research: primary research and secondary research.</p>
+
+
+
+<p><strong>Primary research</strong> is research <em>you</em> conduct yourself. Information from direct interactions with users, like interviews, surveys, or usability studies, are considered primary research.</p>
+
+
+
+<p><strong>Secondary research</strong> is research that uses information <em>someone else </em>has put together. For example, using information from sources like books, articles, or journals is considered secondary research.</p>
+
+
+
+<p>The second way to categorize research is based on the type of data collected: qualitative or quantitative.</p>
+
+
+
+<p><strong>Qualitative research</strong> is primarily collected<em> through observations and conversations</em>. Qualitative research is based on understanding users’ needs and aims to answer questions like “why” or “how did this happen?”</p>
+
+
+
+<p><strong>Quantitative research</strong> focuses on data that can be <em>gathered by counting or measuring</em>. Quantitative research is based on numerical data that’s often collected from large-scale surveys. This type of research aims to answer questions like “how many?” and “how much?”</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/AWPPz96.png" alt="AWPPz96" title="Common UX Research Methods 1"><figcaption>Common UX Research Methods 5</figcaption></figure>
+
+
+
+<p>All four of these types of research can intermix. Primary and secondary research can be both qualitative and quantitative. For example, an interview is <em>qualitative </em>research. An interview conducted by you is <em>primary </em>research. If you review an article about an interview conducted by someone else, it’s <em>secondary </em>research. It’s important to be able to identify the difference between these types of research because the data you collect forms the basis of your design decisions.</p>
+
+
+
+<span id="more-17912"></span>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Primary research methods</h5>
+
+
+
+<p>Now that you understand the different types of research, let’s review some common primary research methods for gathering information.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/apJ3b0y.png" alt="apJ3b0y" title="Common UX Research Methods 2"><figcaption>Common UX Research Methods 6</figcaption></figure>
+
+
+
+<p><strong>Interviews </strong>are a research method used to collect in-depth information on people&#8217;s opinions, thoughts, experiences, and feelings. Interviews can be performed one-on-one or in a group setting, like a focus group.&nbsp;</p>
+
+
+
+<p>Interviews can take the form of qualitative and quantitative research. A qualitative research method includes open-ended questions that require participants to explain their answers by providing more details.&nbsp;A quantitative research method includes only close-ended questions, like questions that require only “yes”&nbsp; or “no” responses or set multiple choice questions.</p>
+
+
+
+<p>Best practice is to conduct at least five user interviews during your research. As you conduct your interviews, you’ll start to find similarities in the feedback that users provide about what works and what doesn’t work about your product. This is exactly the kind of feedback you want!&nbsp;</p>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Advantages</h6>
+
+
+
+<ul><li>You’re better able to understand what a user thinks and why.</li><li>You can adjust your questions or refocus the discussion based on the user’s answers.</li><li>You have the ability to ask follow-up questions in real time.</li><li>You have the ability to ask questions specific to a user’s needs.</li><li>You’ll receive direct suggestions from the user.&nbsp;</li></ul>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Disadvantages</h6>
+
+
+
+<ul><li>It’s time-consuming to interview each user.&nbsp;</li><li>It’s expensive to pay participants and to rent space for the interviews.</li><li>The sample sizes are smaller, due to time and money constraints.</li><li>Group interviews can be affected by the bandwagon effect, or going along with the group’s opinion instead of thinking creatively, which can discourage open discussion by people who have an opinion that doesn’t align with the majority of the group.&nbsp;</li></ul>
+
+
+
+<p>If you want to learn more about interviews, check out <a href="https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic." target="_blank" rel="noreferrer noopener"><u>an article about user interviews</u></a> from the Nielsen Norman Group.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/sUGgdPU.png" alt="sUGgdPU" title="Common UX Research Methods 3"><figcaption>Common UX Research Methods 7</figcaption></figure>
+
+
+
+<p>A <strong>survey </strong>is an activity where many people are asked the same questions in order to understand what most people think about a product. Surveys are a great way to measure the success of your product, during development and after it’s launched. For example, sending surveys after a product is released can help you measure the effectiveness of your product and provide a foundation for future improvements.&nbsp;</p>
+
+
+
+<p>You can design surveys to include open-ended questions for qualitative research, which allow research participants to clarify their survey responses, as well as close-ended questions for quantitative research, which generate numerical data.</p>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Advantages</h6>
+
+
+
+<ul><li>You can learn more from a larger sample size.</li><li>You are able to gather results and insights quickly.&nbsp;</li><li>Surveys are usually inexpensive because they don’t take as much time for participants to complete, and they can be done remotely.&nbsp;</li></ul>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Disadvantages</h6>
+
+
+
+<ul><li>Surveys often do not allow for in-depth feedback; most questions will have responses drawn from a set of multiple-choice answers.&nbsp;</li><li>There are some types of research questions that won’t work in a survey format.</li><li>Surveys usually do not allow for personalization.</li></ul>
+
+
+
+<p>If you want to learn more about surveys, check out usability.gov&#8217;s <a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html" target="_blank" rel="noreferrer noopener"><u>article about online surveys</u></a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/vLjbm1u.png" alt="vLjbm1u" title="Common UX Research Methods 4"><figcaption>Common UX Research Methods 8</figcaption></figure>
+
+
+
+<p>A <strong>usability study </strong>is a technique used to evaluate a product by testing it on users. Usability studies help demonstrate if a product is on the right track or if the design needs to be adjusted. There are lots of ways to test usability, both in person and online. It’s a good idea to record your usability sessions, either audio or video, so you can reference the user data as you make design decisions later on in the process.&nbsp;</p>
+
+
+
+<p>Qualitative research is based on observations, and a critical part of conducting usability studies is observing how participants interact with the product you’ve designed. Focusing on qualitative research during usability studies can generate more personal insights by assessing the behavior of users as they experience the product. Quantitative research can also be used when conducting usability studies to understand participants’ impressions of the product.</p>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Advantages</h6>
+
+
+
+<ul><li>You can learn from first-hand user interaction and observation.&nbsp;</li><li>Usability studies can challenge your assumptions about your product by demonstrating a completely different result than you were expecting.&nbsp;</li><li>Users can provide in-depth feedback.&nbsp;</li></ul>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Disadvantages</h6>
+
+
+
+<ul><li>Usability studies only measures how easy it is to use a product.</li></ul>
+
+
+
+<ul><li>This type of research can be expensive, especially if it’s conducted in person.&nbsp;</li><li>There can be differences between a “controlled” usability study in a lab versus how a user experiences the product in their real life.&nbsp;</li></ul>
+
+
+
+<p>If you want to learn more about usability tests, check out the Nielsen Norman Group&#8217;s <a href="https://www.nngroup.com/articles/usability-testing-101/" target="_blank" rel="noreferrer noopener"><u>article on usability testing</u></a>.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Secondary research methods</h5>
+
+
+
+<p>Secondary researchcan be completed at any phase of the project, since you’re using information from outside sources. In other words, secondary research is not a direct result of your product or the user you’re designing for. The information you discover during secondary research might lay a foundation for your primary research, so you have a better idea of where to focus your efforts. Or, secondary research might supplement the findings from your primary research for a project, to reiterate or strengthen your conclusions.</p>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Advantages</h6>
+
+
+
+<ul><li>Secondary research is generally cheaper and faster than primary research. This means you’ll save time and money.&nbsp;</li><li>You can often find secondary research via online searches and subscription research publications.</li><li>Secondary research can be a good supplement to findings from your primary research.</li></ul>
+
+
+
+<h6 class="has-black-color has-text-color wp-block-heading">Disadvantages</h6>
+
+
+
+<ul><li>You will not learn from any first-hand user interaction.</li><li>You will not receive user feedback specific to your product.</li><li>Secondary research can be misleading and generalizing if not done appropriately.&nbsp;</li></ul>
+
+
+
+<p>If you want to learn more about secondary research, check out <a href="https://www.formpl.us/blog/secondary-research" target="_blank" rel="noreferrer noopener"><u>an article about secondary research</u></a> from Formplus.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Research in practice</h5>
+
+
+
+<p>As you move forward in your UX design career, you’ll likely get to experience using several different types of research methods. Knowing the advantages and disadvantages of each method, and when to use each, can make your research more effective and can improve your product’s design.&nbsp;</p>
+
+
+
+<p>If you want to explore research further, check out <a href="https://www.nngroup.com/articles/which-ux-research-methods/" target="_blank" rel="noreferrer noopener"><u>this user-experience research methods article</u></a> from NN Group. It will guide you through choosing the best research method for you out of 20 popular options.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/common-ux-research-methods/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Different types of UX researches in the product development cylce</title>
+		<link>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/</link>
+					<comments>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 09:36:20 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[product design cycle]]></category>
+		<category><![CDATA[product development life cycle]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[ux research]]></category>
+		<guid isPermaLink="false">/?p=17892</guid>
+
+					<description><![CDATA[There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all about putting the user first, and research helps designers understand those users.&nbsp;</p>
+
+
+
+<p><strong>UX research</strong> focuses on understanding user behaviors, needs, and motivations through observation and feedback. Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, <em>think</em> the user needs with what the user <em>actually</em> needs.&nbsp;</p>
+
+
+
+<p>Remember the product development life cycle from an earlier course of the program? The <strong><a href="/2021/06/the-product-design-process-or-cycle-to-be-exact/" data-type="post" data-id="15018">product development life cycle</a></strong> has five stages — brainstorm, define, design, test, and launch — that take an idea for an app, website, or product to its launch. </p>
+
+
+
+<p>Let’s check out how research fits into the product development life cycle.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/PEEsHKl.png" alt="Graphic showing the product development lifecycle, represented by a circle" title="Different types of UX researches in the product development cylce 9"><figcaption>Around the circle, there are other icons that represent the phases of the product development lifecycle &#8211; Brainstorm, Define, Design, Test, Launch. New additional phases branch out from the cycle, including Foundational research (from the brainstorm phase), Design research (from the design phase), and post-launch research (from the launch phase)</figcaption></figure>
+
+
+
+<span id="more-17892"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/i1pLuMG.png" alt="icon of a person holding a magnifying glass; text reads: foundational research" title="Different types of UX researches in the product development cylce 10"><figcaption>Different types of UX researches in the product development cylce 13</figcaption></figure>
+
+
+
+<p><strong>Foundational research</strong> is always done <em>before</em> you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories, which you&#8217;ll learn about soon.&nbsp;</p>
+
+
+
+<p>In foundational research, your goal is to figure out what the user needs and how to address those needs with your product. Strong foundational research can contradict your personal perspective on what a good solution might be.&nbsp;</p>
+
+
+
+<p>Questions you might consider during foundational research include:</p>
+
+
+
+<ul><li>What should we build?</li><li>What are the user’s problems?</li><li>How can we solve those problems?</li><li>Am I aware of my own biases, and am I able to filter them as I do research?</li></ul>
+
+
+
+<p>There are lots of research methods for conducting foundational research, but many of them are based on observations. Common foundational research methods include:&nbsp;</p>
+
+
+
+<ul><li><strong>Interviews:</strong> A research method used to collect in-depth information on people&#8217;s opinions, thoughts, experiences, and feelings. You’ll often conduct interviews of your target users themselves.</li><li><strong>Surveys:</strong> An activity where many people are asked the same questions in order to understand what most people think about a product.</li><li><strong>Focus groups:</strong> A small group of people whose reactions are studied. For example, your focus group might bring together eight users to discuss their perspectives about new features in your design. A focus group is usually run by a moderator who guides the group on a certain topic of conversation.&nbsp;</li><li><strong>Competitive audit:</strong> An overview of your competitors’ strengths and weaknesses. You&#8217;ll conduct your own competitive audit later in the course, so you will understand this research method well!&nbsp;</li><li><strong>Field studies:</strong> Research activities that take place in the user&#8217;s context or personal environment, rather than in an office or lab.&nbsp;</li><li><strong>Diary studies:</strong> A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs.&nbsp;</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/wolj3qp.png" alt="icon of a profile of a head with tools and icons coming out of the top; text reads: design research" title="Different types of UX researches in the product development cylce 11"><figcaption>Different types of UX researches in the product development cylce 14</figcaption></figure>
+
+
+
+<p><strong>Design research</strong> is done <em>while</em> you design. Within the product development lifecycle, design research happens during the design stage (stage three) to help inform your designs, to fit the needs of users, and to reduce risk. Each time you create a new version of your design, new research should be done to evaluate what works well and what needs to be changed.&nbsp;</p>
+
+
+
+<p>In design research, your goal is to answer the question: How should we build it?</p>
+
+
+
+<p>The amount of design research you conduct will vary depending on where you work and what you’re building. The most common method used to conduct design research is a <strong>usability study</strong>, which is a technique to evaluate a product by testing it on users. The goal of usability studies is to identify pain points that the user experiences with your prototypes, so the issues can be fixed before the product launches. You’ll conduct your own usability study in the next course of this certificate program.&nbsp;</p>
+
+
+
+<p>Additional research methods that might be used to conduct design research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong>: A research method that evaluates and compares two different aspects of a product to discover which of them is most effective. For example, you might have users evaluate two layouts for the homepage of your app to find out which layout is more effective.&nbsp;</li><li><strong>Cafe or guerrilla studies:</strong> A research method where user feedback is gathered by taking a design or prototype into the public domain and asking passersby for their thoughts. For example, you might sit in a local coffee shop and ask customers if they would be willing to test your app design for a couple of minutes and provide feedback.&nbsp;</li><li><strong>Card sorting: </strong>A research method that instructs study participants to sort individual labels written on notecards into categories that make sense to them. This type of research is largely used to figure out the information architecture of your project, which we’ll discuss in the next course of the program — Course 3: Build Wireframes and Low-Fidelity Designs.</li><li><strong>Intercepts: </strong>A research method that gathers on-site feedback from users as they engage in the activities being researched. Intercepts are often conducted in the field, so this type of research is often considered a subset of field research. An intercept study can provide quick, high-level feedback.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/7RN3kRr.png" alt="icon of a rocket ship in front of a laptop screen; text reads: post-launch research" title="Different types of UX researches in the product development cylce 12"><figcaption>Different types of UX researches in the product development cylce 15</figcaption></figure>
+
+
+
+<p><strong>Post-launch research</strong> is done <em>after</em> the design is complete and your product has launched. Within the product development life cycle, post-launch research happens after the launch stage (stage five) to help validate that the product is meeting user needs through established metrics.</p>
+
+
+
+<p>In post-launch research, your goal is to answer the question: Did we succeed? This research will tell you how your final product is performing based on established metrics, such as adoption, usage, user satisfaction, and more.&nbsp;</p>
+
+
+
+<p>You should use research methods that give insight into what the user thinks of your product and if their experience using your product aligns with how you intended it to function. Research methods you might use to conduct post-launch research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong></li><li><strong>Usability studies</strong></li><li><strong>Surveys</strong></li><li><strong>Logs analysis:</strong> A research method used to evaluate recordings of users while they interact with your design, tools, etc.&nbsp;</li></ul>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">The key to a user-focused product: Research</h5>
+
+
+
+<p>Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/different-types-of-ux-researches-in-the-product-development-cylce/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

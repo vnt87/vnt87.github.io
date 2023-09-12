@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments for Nam Vu Personal Site	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 30 Jul 2023 16:40:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Comment on Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 by htl		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-15146</link>
+
+		<dc:creator><![CDATA[htl]]></dc:creator>
+		<pubDate>Sun, 30 Jul 2023 16:40:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-15146</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8788&quot;&gt;Nam Vũ&lt;/a&gt;.
+
+Yes I can access CUPS WebUI normally. I see Print Jobs queue in WebUI but CAPT Status window on Windows 10 says &quot;Printer Server Error&quot;: &quot;The print server is down. Check the print server&quot;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-8788">Nam Vũ</a>.</p>
+<p>Yes I can access CUPS WebUI normally. I see Print Jobs queue in WebUI but CAPT Status window on Windows 10 says &#8220;Printer Server Error&#8221;: &#8220;The print server is down. Check the print server&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Logic Pro X theme for Audacity by Nam Vũ		</title>
+		<link>/2022/03/logic-pro-x-theme-for-audacity/#comment-15145</link>
+
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 07:43:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21684#comment-15145</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2022/03/logic-pro-x-theme-for-audacity/#comment-15144&quot;&gt;Havier&lt;/a&gt;.
+
+I&#039;m afraid this is only a concept]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2022/03/logic-pro-x-theme-for-audacity/#comment-15144">Havier</a>.</p>
+<p>I&#8217;m afraid this is only a concept</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Logic Pro X theme for Audacity by Havier		</title>
+		<link>/2022/03/logic-pro-x-theme-for-audacity/#comment-15144</link>
+
+		<dc:creator><![CDATA[Havier]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 01:59:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21684#comment-15144</guid>
+
+					<description><![CDATA[It&#039;s a good job, is it available and does it work for windows?]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s a good job, is it available and does it work for windows?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 by Stuart		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-15029</link>
+
+		<dc:creator><![CDATA[Stuart]]></dc:creator>
+		<pubDate>Fri, 24 Feb 2023 15:52:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-15029</guid>
+
+					<description><![CDATA[Thank you, this worked perfectly]]></description>
+			<content:encoded><![CDATA[<p>Thank you, this worked perfectly</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900 by Jesús Molinero		</title>
+		<link>/2021/07/setup-a-family-printer-with-a-raspberry-pi-1-and-canon-lbp-2900/#comment-14773</link>
+
+		<dc:creator><![CDATA[Jesús Molinero]]></dc:creator>
+		<pubDate>Tue, 07 Feb 2023 17:05:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=19676#comment-14773</guid>
+
+					<description><![CDATA[Hi all.
+I followed step-by-step process but I&#039;m struggled with Adding new printer. 
+Canon LBP2900 doesn&#039;t appears as LOCAL Printer.
+
+Just 
+CUPS-BRF (Virtual Braille BRF Printer)
+ VNC Remote Printer (VNC Printer)
+ HP Printer (HPLIP)
+
+Any help to have the Canon LBP2900 listed in Local Printers?
+Thanks in advance.]]></description>
+			<content:encoded><![CDATA[<p>Hi all.<br />
+I followed step-by-step process but I&#8217;m struggled with Adding new printer.<br />
+Canon LBP2900 doesn&#8217;t appears as LOCAL Printer.</p>
+<p>Just<br />
+CUPS-BRF (Virtual Braille BRF Printer)<br />
+ VNC Remote Printer (VNC Printer)<br />
+ HP Printer (HPLIP)</p>
+<p>Any help to have the Canon LBP2900 listed in Local Printers?<br />
+Thanks in advance.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Integrating Jellyfin with Heimdall: just what the heck is the &#8216;Password (secret token)&#8217;? by 11111		</title>
+		<link>/2021/04/integrating-jellyfin-with-heimdall-just-what-the-heck-is-the-password-secret-token/#comment-14408</link>
+
+		<dc:creator><![CDATA[11111]]></dc:creator>
+		<pubDate>Fri, 13 Jan 2023 14:31:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14962#comment-14408</guid>
+
+					<description><![CDATA[thx dude!
+
+damn modern apps with their mobile UIs everytime.]]></description>
+			<content:encoded><![CDATA[<p>thx dude!</p>
+<p>damn modern apps with their mobile UIs everytime.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on October 24, 2022 by Nam Vũ		</title>
+		<link>/2022/10/october-24-2022/#comment-14240</link>
+
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sat, 31 Dec 2022 06:36:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21890#comment-14240</guid>
+
+					<description><![CDATA[Thank you for your kind words, they already made my days better.
+And my mom&#039;s health is already improving thanks to the new diet regimen that my and my sister made for her.]]></description>
+			<content:encoded><![CDATA[<p>Thank you for your kind words, they already made my days better.<br />
+And my mom&#8217;s health is already improving thanks to the new diet regimen that my and my sister made for her.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on October 24, 2022 by Issam		</title>
+		<link>/2022/10/october-24-2022/#comment-14218</link>
+
+		<dc:creator><![CDATA[Issam]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 23:50:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21890#comment-14218</guid>
+
+					<description><![CDATA[Hope you and your mom are okay! Eat healthy and give her a lot of love! Hopefully she will be fine and live a long life!]]></description>
+			<content:encoded><![CDATA[<p>Hope you and your mom are okay! Eat healthy and give her a lot of love! Hopefully she will be fine and live a long life!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Hosting my own Netflix on an ancient Mac Mini 2011 by Phimhub Major Update - Nam Vu Personal Site		</title>
+		<link>/2021/02/hosting-my-own-netflix-on-an-ancient-mac-mini-2011/#comment-14075</link>
+
+		<dc:creator><![CDATA[Phimhub Major Update - Nam Vu Personal Site]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 09:14:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=14873#comment-14075</guid>
+
+					<description><![CDATA[[&#8230;] run a little movie club, which started out as a Netflix group buy a year ago, which later led to me setting up my own Netflix (with Jellyfin) eventually leading to me going down the /r/selfhosted rabbit hole, learning a ton [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] run a little movie club, which started out as a Netflix group buy a year ago, which later led to me setting up my own Netflix (with Jellyfin) eventually leading to me going down the /r/selfhosted rabbit hole, learning a ton [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Guess which hobby I picked up in 2021 by Nam Vu&#039;s curated list of 18 excellent services you can self-host - Nam Vu Personal Site		</title>
+		<link>/2021/12/guess-which-hobby-i-picked-up-in-2021/#comment-14074</link>
+
+		<dc:creator><![CDATA[Nam Vu&#039;s curated list of 18 excellent services you can self-host - Nam Vu Personal Site]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 09:13:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21621#comment-14074</guid>
+
+					<description><![CDATA[[&#8230;] is no secret that I am a major self-hosting fanatic, but people have been asking specifically about what it is that I host my home &#8220;server&#8221; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] is no secret that I am a major self-hosting fanatic, but people have been asking specifically about what it is that I host my home &#8220;server&#8221; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

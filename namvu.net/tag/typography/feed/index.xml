@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>typography &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/typography/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Thu, 16 Feb 2017 11:18:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>typography &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Just an update&#8230;</title>
+		<link>/2017/02/just-an-update/</link>
+					<comments>/2017/02/just-an-update/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2017 11:18:26 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[quotes]]></category>
+		<category><![CDATA[teespring]]></category>
+		<category><![CDATA[tshirt]]></category>
+		<category><![CDATA[typography]]></category>
+		<guid isPermaLink="false">/?p=3844</guid>
+
+					<description><![CDATA[If you’re wondering what I’ve been up to lately (well you probably aren’t, but whatever), well, I’m getting into tee shirts sale! These are the first designs to roll out, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img decoding="async" fetchpriority="high" width="859" height="572" src="/wp-content/uploads/2018/08/thirty-2.jpg" alt="thirty 2" class="wp-image-3847" srcset="/wp-content/uploads/2018/08/thirty-2.jpg 859w, /wp-content/uploads/2018/08/thirty-2-300x200.jpg 300w, /wp-content/uploads/2018/08/thirty-2-768x511.jpg 768w" sizes="(max-width: 859px) 100vw, 859px" title="Just an update... 1"></figure>
+
+
+
+<p>If you’re wondering what I’ve been up to lately (well you probably 
+aren’t, but whatever), well, I’m getting into tee shirts sale!</p>
+
+
+
+<p>These are the first designs to roll out, get ‘em while they’re still available.</p>
+
+
+
+<figure class="wp-block-embed">
+https://teespring.com/shop/quitters-never-win
+</figure>
+
+
+
+<figure class="wp-block-embed">
+https://teespring.com/shop/gustwind
+</figure>
+
+
+
+<p>Also, bookmark this storefront link for future awesomeness: <a href="https://t.umblr.com/redirect?z=https%3A%2F%2Fteespring.com%2Fstores%2Funiq-world&amp;t=ZmViOTNhNDkyNTZkMTZjYmY1NThmOWQ0ODg5YzEwNzFmMGYxOWQ5OSxJTFZMalB5cQ%3D%3D&amp;b=t%3AefT8odu0coOM88IlgB9uCQ&amp;p=http%3A%2F%2Fnamvu.tumblr.com%2Fpost%2F157308330249%2Fif-youre-wondering-what-ive-been-up-to-lately&amp;m=1" target="_blank" rel="noreferrer noopener">https://teespring.com/stores/uniq-world</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/02/just-an-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Simple Wedding Card Design done for my wife&#8217;s friend</title>
+		<link>/2016/09/simple-wedding-card-design-done-for-my-wifes-friend/</link>
+					<comments>/2016/09/simple-wedding-card-design-done-for-my-wifes-friend/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sat, 24 Sep 2016 14:06:57 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[card design]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[typography]]></category>
+		<category><![CDATA[wedding card design]]></category>
+		<guid isPermaLink="false">/?p=5534</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://i.imgur.com/O7VRqms.jpg" alt="O7VRqms" title="Simple Wedding Card Design done for my wife&#039;s friend 3"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2016/09/simple-wedding-card-design-done-for-my-wifes-friend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

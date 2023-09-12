@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Randomness &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/category/randomness/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 21 Mar 2023 04:28:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>Randomness &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Good bye VNPT, hello FPT</title>
+		<link>/2023/03/good-bye-vnpt-hello-fpt/</link>
+					<comments>/2023/03/good-bye-vnpt-hello-fpt/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 03:28:23 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=22194</guid>
+
+					<description><![CDATA[We (our family) have been using VNPT as our primary ISP for years. They are the largest ISP in Vietnam and generally we have been happy with their services. That [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="785" height="404" src="/wp-content/uploads/2023/03/image-1.png" alt="image 1" class="wp-image-22195" srcset="/wp-content/uploads/2023/03/image-1.png 785w, /wp-content/uploads/2023/03/image-1-300x154.png 300w, /wp-content/uploads/2023/03/image-1-768x395.png 768w, /wp-content/uploads/2023/03/image-1-97x50.png 97w, /wp-content/uploads/2023/03/image-1-650x335.png 650w, /wp-content/uploads/2023/03/image-1-50x26.png 50w" sizes="(max-width: 785px) 100vw, 785px" title="Good bye VNPT, hello FPT 1"><figcaption class="wp-element-caption">Gigabit Internet AND TV Streaming service for $12/mo? Yes, Please</figcaption></figure>
+
+
+
+<p>We (our family) have been using VNPT as our primary ISP for years. They are the largest ISP in Vietnam and generally we have been happy with their services. That rapidly changed during the last year. </p>
+
+
+
+<p>Here&#8217;s my list of complaint with VNPT:</p>
+
+
+
+<ul>
+<li><strong>Unreliable Connection:</strong> constant disconnection and inability to access the CDNs of some of the most popular websites including Shopee, Facebook, TikTok (as of Mar 2023, only Shopee is still affected, and mostly during night time). This started to become a problem around Covid19 lockdown time, they probably had a customer base explosion and their infrastructure couldn&#8217;t keep up. I get it, but 2 years? Letting that lasting as long as it does is a clear sign of incompetency.</li>
+
+
+
+<li><strong>Website Blocking:</strong> so they have this habit of straight up disabling access to certain websites, completely without their customer&#8217;s consent. I don&#8217;t have a comprehensive list of blocked websites but it include most of the pornographic websites like Pornhub, Xvideos etc. which I guess can&#8217;t be helped because they were mandated by the government (FPT also blocks these). But they also block 2 websites that doesn&#8217;t serve any adult content at all: <a href="https://medium.com/" data-type="URL" data-id="https://medium.com/" target="_blank" rel="noreferrer noopener">Medium </a>(where most of the UX editorial articles reside), and most recently, <a href="https://www.behance.net/" data-type="URL" data-id="https://www.behance.net/" target="_blank" rel="noopener">Behance </a>(where people come for UI showcases when Dribbble shots don&#8217;t cut it). Naturally, you can see why I, as an UI/UX Designer, would have a major problem with this. I don&#8217;t want to have 1.1.1.1 running at startup just because I&#8217;m using a pussy ass ISP.<br>Now to be clear, FPT doesn&#8217;t block Medium and Behance, I have checked. And yes, I am aware that the lawmakers who are responsible for these blocks are incompetent short-sighted pieces of shit but remember, it was us (the people), who allow these people to hold these positions. So in the end it&#8217;s essentially our fault. My expectation for government officials of a developing country like VN was already extremely low to begin with but&#8230;holy shit.</li>
+
+
+
+<li><strong>Shit Equipment:</strong> VNPT provided a 2-port modem on their first installation. Yep you read that right, 2-fucking-port excluding the WAN port. You can plug in a computer and a NAS and&#8230;that&#8217;s about it. You can of course phone up customer support and ask for a 4-port version, which I did, but com one. If they&#8217;re gonna cheap out on end users like that, what else are they cheaping out in the back? Perhaps that&#8217;s why their connection keeps going on and off intermittently. And also, the firmware on these modems though, holy shit I&#8217;ve probably haven&#8217;t seen such shitty software since the 90s, perhaps because they were probably made during that time. The UI <em>and</em> UX was straight up 90s-esque. They were ugly as shit and unintuitive to use. Took me way too long (and a lot of help from the WiFi community group on FB) to figure out which part do what. Who the fuck refer to port forwarding as &#8216;virtual server&#8217; really?<br>Anyway by the time I switched to FPT, the WebUI console of the VNPT modem has become completely inaccessible. Some kind of SSL error blocks access to it completely. I could probably phone up customer support for the 100th time and let them send another technician my way. But I&#8217;ve decided the next time I&#8217;m picking up the phone and calling them, it&#8217;d be for informing them that I&#8217;m dumping them.</li>
+</ul>
+
+
+
+<p>For reference, for the same price I&#8217;m paying ($10/mo) I&#8217;m getting more or less the same speed (150Mbps) on FPT <em>but</em> with a free Android box and a subscription to their TV service FPT Play. (VNPT also has MyTV, but it doesn&#8217;t come with the internet package). This puts FPT values way above VNPT even for the base package. But things start to get interesting once you get to the next package tier. For an additional $2/mo, FPT buffs your downstream speed all the way to Gigabit! That&#8217;s absolutely crazy.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="471" height="159" src="/wp-content/uploads/2023/03/image-2.png" alt="image 2" class="wp-image-22196" srcset="/wp-content/uploads/2023/03/image-2.png 471w, /wp-content/uploads/2023/03/image-2-300x101.png 300w, /wp-content/uploads/2023/03/image-2-148x50.png 148w, /wp-content/uploads/2023/03/image-2-50x17.png 50w" sizes="(max-width: 471px) 100vw, 471px" title="Good bye VNPT, hello FPT 2"><figcaption class="wp-element-caption">I can download some stuffs at the same speed that I&#8217;m copying files from my local NAS now!</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/03/good-bye-vnpt-hello-fpt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Subscription Hell</title>
+		<link>/2023/03/subscription-hell/</link>
+					<comments>/2023/03/subscription-hell/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 05:30:02 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=22183</guid>
+
+					<description><![CDATA[So in the last 2 short months I&#8217;ve subscribed to: And that is on top of my existing subscriptions: I need help.]]></description>
+										<content:encoded><![CDATA[
+<p>So in the last 2 short months I&#8217;ve subscribed to:</p>
+
+
+
+<ul>
+<li>Voicemod (lifetime)</li>
+
+
+
+<li>FaceApp</li>
+
+
+
+<li>NextDNS</li>
+
+
+
+<li>Midjourney</li>
+
+
+
+<li>ChatGPT+</li>
+
+
+
+<li>FPT Play</li>
+
+
+
+<li>VieOn (basically means suscribing to K+ and HBO Go also)</li>
+</ul>
+
+
+
+<p>And that is on top of my existing subscriptions:</p>
+
+
+
+<ul>
+<li>Netflix</li>
+
+
+
+<li>Adobe Creative Cloud</li>
+</ul>
+
+
+
+<p>I need help.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/03/subscription-hell/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>October 24, 2022</title>
+		<link>/2022/10/october-24-2022/</link>
+					<comments>/2022/10/october-24-2022/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 09:03:19 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21890</guid>
+
+					<description><![CDATA[Just learned that my mom got diabetes today. I know it&#8217;s not like cancer, but still, why does it get me down so much. Old age are catching up to [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Just learned that my mom got diabetes today.</p>
+
+
+
+<p>I know it&#8217;s not like cancer, but still, why does it get me down so much.</p>
+
+
+
+<p>Old age are catching up to us all.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/10/october-24-2022/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nam Vu&#8217;s curated list of 18 excellent services you can self-host</title>
+		<link>/2022/07/nam-vus-curated-list-of-18-excellent-services-you-can-self-host/</link>
+					<comments>/2022/07/nam-vus-curated-list-of-18-excellent-services-you-can-self-host/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 11:10:41 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21789</guid>
+
+					<description><![CDATA[It is no secret that I am a major self-hosting fanatic, but people have been asking specifically about what it is that I host my home &#8220;server&#8221; (which is a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It is no secret that I am a <a href="/2021/12/guess-which-hobby-i-picked-up-in-2021/" data-type="post" data-id="21621">major self-hosting fanatic</a>, but people have been asking specifically about what it is that I host my home &#8220;server&#8221; (which is a glorified term really, it&#8217;s only an old Pavillion laptop running a 4th gen core i5 and 8GB of DDR3 memory). Still </p>
+
+
+
+<h2 class="wp-block-heading">1. <a href="https://www.authelia.com/" target="_blank" data-type="URL" data-id="https://www.authelia.com/" rel="noreferrer noopener">Authelia</a> (Authentication and Authorization gateway)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="515" src="/wp-content/uploads/2022/07/image-1024x515.png" alt="image" class="wp-image-21794" srcset="/wp-content/uploads/2022/07/image-1024x515.png 1024w, /wp-content/uploads/2022/07/image-300x151.png 300w, /wp-content/uploads/2022/07/image-768x386.png 768w, /wp-content/uploads/2022/07/image-1536x772.png 1536w, /wp-content/uploads/2022/07/image-99x50.png 99w, /wp-content/uploads/2022/07/image-650x327.png 650w, /wp-content/uploads/2022/07/image-1000x503.png 1000w, /wp-content/uploads/2022/07/image-50x25.png 50w, /wp-content/uploads/2022/07/image.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 3"><figcaption>There&#8217;s not much to Authelia&#8217;s interface except for the login screen.</figcaption></figure>
+
+
+
+<p>Authelia is an authentication gateway. You only need to sign in once and you&#8217;ll get access to the whole server, but it&#8217;s not really SSO. You still need separate accounts for their respective applications. Still, having an additional layer of security in front of your services does provide peace of mind, especially when you combine it with Duo Security as a MFA method.</p>
+
+
+
+<h2 class="wp-block-heading">2. <a href="https://nginxproxymanager.com/" target="_blank" data-type="URL" data-id="https://nginxproxymanager.com/" rel="noreferrer noopener">NGINX Proxy Manager</a> (Reverse proxy)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="526" src="/wp-content/uploads/2022/07/npm-1024x526.jpg" alt="npm" class="wp-image-21796" srcset="/wp-content/uploads/2022/07/npm-1024x526.jpg 1024w, /wp-content/uploads/2022/07/npm-300x154.jpg 300w, /wp-content/uploads/2022/07/npm-768x394.jpg 768w, /wp-content/uploads/2022/07/npm-1536x789.jpg 1536w, /wp-content/uploads/2022/07/npm-97x50.jpg 97w, /wp-content/uploads/2022/07/npm-650x334.jpg 650w, /wp-content/uploads/2022/07/npm-1000x513.jpg 1000w, /wp-content/uploads/2022/07/npm-50x26.jpg 50w, /wp-content/uploads/2022/07/npm.jpg 1903w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 4"><figcaption>NPM is my reverse proxy of choice, and is central to my whole setup.</figcaption></figure>
+
+
+
+<p>There&#8217;s many reverse proxies out there, like Traefik and Caddy, which is actually what I started it. But I choose NPM due to its simplicity. Sure Traefik and Caddy may offer more fine tune controls and is more suitable for power users, but NPM just works<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> with minimal configuration. It also handles SSL (via Let&#8217;s Encrypt) and its default configuration covers most of my need.</p>
+
+
+
+<h2 class="wp-block-heading">3. <a href="https://jellyfin.org/" target="_blank" data-type="URL" data-id="https://jellyfin.org/" rel="noreferrer noopener">Jellyfin</a> (Media Server)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="517" src="/wp-content/uploads/2022/07/image-1-1024x517.png" alt="image 1" class="wp-image-21797" srcset="/wp-content/uploads/2022/07/image-1-1024x517.png 1024w, /wp-content/uploads/2022/07/image-1-300x151.png 300w, /wp-content/uploads/2022/07/image-1-768x388.png 768w, /wp-content/uploads/2022/07/image-1-1536x775.png 1536w, /wp-content/uploads/2022/07/image-1-99x50.png 99w, /wp-content/uploads/2022/07/image-1-650x328.png 650w, /wp-content/uploads/2022/07/image-1-1000x505.png 1000w, /wp-content/uploads/2022/07/image-1-50x25.png 50w, /wp-content/uploads/2022/07/image-1.png 1912w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 5"><figcaption>Among all the services that I selfhost, Jellyfin is by far the most frequently used. (Pictured here is the <a href="https://jf-vue.pages.dev/" target="_blank" data-type="URL" data-id="https://jf-vue.pages.dev/" rel="noreferrer noopener">VueJS frontend</a>)</figcaption></figure>
+
+
+
+<p>This is it, this is what sent me down this self-hosting rabbit hole. Those who followed me would remember that I run a small movie club called Phimhub, and I started out with a WordPress website much like namvu.net, that listed (NOT hosted) a number of interesting movie titles for our group. Much to our dismay Google, in their infinite wisdom, decided they didn&#8217;t like the site and axed my account (no specific reason given). So I did what any reasonable person would do, and host my own media server, with blackjack and hookers.</p>
+
+
+
+<span id="more-21789"></span>
+
+
+
+<p>I initially made the foolish mistake of choosing Plex, even went as far as purchasing a Plex pass for Android, before realizing I&#8217;m effectively running an ads platform WHILE paying them to shove ads into my face. The transition to Jellyfin was quick and painless. It&#8217;s perfect by any mean, as there&#8217;s a lot of technical debt leftover from the Emby codebase that people are working hard to work around, but it&#8217;s definitely the best among the current available media servers.</p>
+
+
+
+<h2 class="wp-block-heading">4. <a href="http://Lamborghini/ và Ferrari" target="_blank" rel="noreferrer noopener">Xpenology</a> + Synology Disk Station Manager</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="514" src="/wp-content/uploads/2022/07/image-4-1024x514.png" alt="image 4" class="wp-image-21801" srcset="/wp-content/uploads/2022/07/image-4-1024x514.png 1024w, /wp-content/uploads/2022/07/image-4-300x150.png 300w, /wp-content/uploads/2022/07/image-4-768x385.png 768w, /wp-content/uploads/2022/07/image-4-1536x770.png 1536w, /wp-content/uploads/2022/07/image-4-100x50.png 100w, /wp-content/uploads/2022/07/image-4-650x326.png 650w, /wp-content/uploads/2022/07/image-4-1000x502.png 1000w, /wp-content/uploads/2022/07/image-4-50x25.png 50w, /wp-content/uploads/2022/07/image-4.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 6"><figcaption>Xpenology bootloader allows you to run Synology&#8217;s excellent DSM as a drop in for a in-browser OS. </figcaption></figure>
+
+
+
+<p>DSM gives you a file manager, a Docker manager (although far inferior to Portainer), a Download manager (with torrent support), photo viewer, camera monitor, system monitor and analysis tools, and tons of other addons. You could even deploy a full LAMP stack, or a Tailscale node. It&#8217;s the main reason why I don&#8217;t have Nextcloud installed on my server even though it&#8217;s massively popular among selfhosters. It&#8217;s the only one in this list that isn&#8217;t free and opensource, and the legalities around the bootloader is questionable, but I can&#8217;t give two shits about that, I just use whatever work best.</p>
+
+
+
+<h2 class="wp-block-heading">5. <a href="https://www.portainer.io/" target="_blank" data-type="URL" data-id="https://www.portainer.io/" rel="noreferrer noopener">Portainer </a>(Docker manager)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="519" src="/wp-content/uploads/2022/07/image-5-1024x519.png" alt="image 5" class="wp-image-21802" srcset="/wp-content/uploads/2022/07/image-5-1024x519.png 1024w, /wp-content/uploads/2022/07/image-5-300x152.png 300w, /wp-content/uploads/2022/07/image-5-768x389.png 768w, /wp-content/uploads/2022/07/image-5-1536x779.png 1536w, /wp-content/uploads/2022/07/image-5-99x50.png 99w, /wp-content/uploads/2022/07/image-5-650x330.png 650w, /wp-content/uploads/2022/07/image-5-1000x507.png 1000w, /wp-content/uploads/2022/07/image-5-50x25.png 50w, /wp-content/uploads/2022/07/image-5.png 1903w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 7"><figcaption>Portainer Business Edition 2.14.1 with Dark Mode enabled</figcaption></figure>
+
+
+
+<p>Almost everything I run is containerized with Docker, and with over 30 containers running on 3 different machines, it&#8217;s nice to have a GUI to manage them from a single place. I choose Portainer due to its ease of use, and better UI than <a href="https://yacht.sh/" data-type="URL" data-id="https://yacht.sh/" target="_blank" rel="noreferrer noopener">Yacht</a>. For personal use I recommend deploying the Business Edition since it&#8217;s free for 5 users for less. Honestly I don&#8217;t notice any difference between it and the Community edition, but they splatters the Community version with ads for the BE so I just went with it.</p>
+
+
+
+<h2 class="wp-block-heading">6. <a href="https://www.netdata.cloud/" target="_blank" data-type="URL" data-id="https://www.netdata.cloud/" rel="noreferrer noopener">NetData</a> (System monitoring)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="519" src="/wp-content/uploads/2022/07/image-6-1024x519.png" alt="image 6" class="wp-image-21803" srcset="/wp-content/uploads/2022/07/image-6-1024x519.png 1024w, /wp-content/uploads/2022/07/image-6-300x152.png 300w, /wp-content/uploads/2022/07/image-6-768x389.png 768w, /wp-content/uploads/2022/07/image-6-1536x779.png 1536w, /wp-content/uploads/2022/07/image-6-99x50.png 99w, /wp-content/uploads/2022/07/image-6-650x330.png 650w, /wp-content/uploads/2022/07/image-6-1000x507.png 1000w, /wp-content/uploads/2022/07/image-6-50x25.png 50w, /wp-content/uploads/2022/07/image-6.png 1903w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 8"><figcaption>NetData gorgeous interface</figcaption></figure>
+
+
+
+<p>When it comes to server monitoring, many people opt for options like Grafana, which admittedly looks amazing if you spend enough time playing with it. For people that just want something that works<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />, NetData is an awesome tool. A single install command one-liner and you&#8217;re good to go.</p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="bash" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">wget -O /tmp/netdata-kickstart.sh https://my-netdata.io/kickstart.sh &amp;&amp; sh /tmp/netdata-kickstart.sh</pre>
+
+
+
+<p>In reality though, I find myself using btop over SSH a lot more than netadata, but I do like having something that doesn&#8217;t require a client, which brings us to the next one.</p>
+
+
+
+<h2 class="wp-block-heading">7. <a href="https://guacamole.apache.org/" data-type="URL" data-id="https://guacamole.apache.org/" target="_blank" rel="noreferrer noopener">Apache Guacamole<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a> (Clientless desktop gateway)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="515" src="/wp-content/uploads/2022/07/image-18-1024x515.png" alt="image 18" class="wp-image-21829" srcset="/wp-content/uploads/2022/07/image-18-1024x515.png 1024w, /wp-content/uploads/2022/07/image-18-300x151.png 300w, /wp-content/uploads/2022/07/image-18-768x386.png 768w, /wp-content/uploads/2022/07/image-18-1536x772.png 1536w, /wp-content/uploads/2022/07/image-18-99x50.png 99w, /wp-content/uploads/2022/07/image-18-650x327.png 650w, /wp-content/uploads/2022/07/image-18-1000x503.png 1000w, /wp-content/uploads/2022/07/image-18-50x25.png 50w, /wp-content/uploads/2022/07/image-18.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 9"><figcaption>Main Guacamole window</figcaption></figure>
+
+
+
+<p>Guacamole allows you to open a SSH or VNC or even RDP session to any computer on the network right from the browser (ie. clientless, as you don&#8217;t need a SSH or VNC client to use it, just a browser). Needless to say this is something that I imagine most sefl-hosters would not need, or even wanted in their service stack</p>
+
+
+
+<h2 class="wp-block-heading">8. <a href="https://github.com/louislam/uptime-kuma" target="_blank" data-type="URL" data-id="https://github.com/louislam/uptime-kuma" rel="noreferrer noopener">Uptime Kuma</a> (Uptime monitor)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="519" src="/wp-content/uploads/2022/07/image-10-1024x519.png" alt="image 10" class="wp-image-21807" srcset="/wp-content/uploads/2022/07/image-10-1024x519.png 1024w, /wp-content/uploads/2022/07/image-10-300x152.png 300w, /wp-content/uploads/2022/07/image-10-768x389.png 768w, /wp-content/uploads/2022/07/image-10-1536x779.png 1536w, /wp-content/uploads/2022/07/image-10-99x50.png 99w, /wp-content/uploads/2022/07/image-10-650x330.png 650w, /wp-content/uploads/2022/07/image-10-1000x507.png 1000w, /wp-content/uploads/2022/07/image-10-50x25.png 50w, /wp-content/uploads/2022/07/image-10.png 1903w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 10"><figcaption>Uptime Kuma screenshot</figcaption></figure>
+
+
+
+<p>I have 5 websites on my Linode VPS, plus over 2 dozens other services that I selfhost on various place. Needless to say I&#8217;m not able to check all of them on a daily basis. Luckily there&#8217;s a tool that does that for me. This pairs very nicely with #17 (gotify) for mobile push notifications. Even without Gotify, you can already push your notifications to dozens of service like Telegram, Mattermost, Whatsapp etc.</p>
+
+
+
+<h2 class="wp-block-heading">9. <a href="https://github.com/deepch/RTSPtoWeb" target="_blank" data-type="URL" data-id="https://github.com/deepch/RTSPtoWeb" rel="noreferrer noopener">RTSPtoWEB</a> (CCTV Camera Viewer)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="515" src="/wp-content/uploads/2022/07/image-3-1024x515.png" alt="image 3" class="wp-image-21800" srcset="/wp-content/uploads/2022/07/image-3-1024x515.png 1024w, /wp-content/uploads/2022/07/image-3-300x151.png 300w, /wp-content/uploads/2022/07/image-3-768x386.png 768w, /wp-content/uploads/2022/07/image-3-1536x772.png 1536w, /wp-content/uploads/2022/07/image-3-99x50.png 99w, /wp-content/uploads/2022/07/image-3-650x327.png 650w, /wp-content/uploads/2022/07/image-3-1000x503.png 1000w, /wp-content/uploads/2022/07/image-3-50x25.png 50w, /wp-content/uploads/2022/07/image-3.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 11"><figcaption>Security Camera Viewer</figcaption></figure>
+
+
+
+<p>So my cheapo Chinese analog CCTV system relies on Internet Fucking Explorer to operate, and to add insult to injury it requires an old NPAPI plugin to boot. With Windows trying hard to kill off IE, I have to find a different solution to view my camera feed. RTSPtoWeb is the perfect solution for this, not to mention it integrates well with #13 Home Assistant</p>
+
+
+
+<h2 class="wp-block-heading">10. <a href="https://mattermost.com/" target="_blank" data-type="URL" data-id="https://mattermost.com/" rel="noreferrer noopener">Mattermost </a>(Team chat)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="560" src="/wp-content/uploads/2022/07/image-9-1024x560.png" alt="image 9" class="wp-image-21806" srcset="/wp-content/uploads/2022/07/image-9-1024x560.png 1024w, /wp-content/uploads/2022/07/image-9-300x164.png 300w, /wp-content/uploads/2022/07/image-9-768x420.png 768w, /wp-content/uploads/2022/07/image-9-1536x840.png 1536w, /wp-content/uploads/2022/07/image-9-91x50.png 91w, /wp-content/uploads/2022/07/image-9-650x356.png 650w, /wp-content/uploads/2022/07/image-9-1000x547.png 1000w, /wp-content/uploads/2022/07/image-9-50x27.png 50w, /wp-content/uploads/2022/07/image-9.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 12"><figcaption>Mattermost Team edition 7.1.2-rc1</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">11. <a href="https://penpot.app/" target="_blank" data-type="URL" data-id="https://penpot.app/" rel="noreferrer noopener">Penpot</a> (UI Design tool)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="515" src="/wp-content/uploads/2022/07/image-8-1024x515.png" alt="image 8" class="wp-image-21805" srcset="/wp-content/uploads/2022/07/image-8-1024x515.png 1024w, /wp-content/uploads/2022/07/image-8-300x151.png 300w, /wp-content/uploads/2022/07/image-8-768x386.png 768w, /wp-content/uploads/2022/07/image-8-1536x772.png 1536w, /wp-content/uploads/2022/07/image-8-99x50.png 99w, /wp-content/uploads/2022/07/image-8-650x327.png 650w, /wp-content/uploads/2022/07/image-8-1000x503.png 1000w, /wp-content/uploads/2022/07/image-8-50x25.png 50w, /wp-content/uploads/2022/07/image-8.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 13"><figcaption>Penpot gorgeous UI (Yes, I&#8217;m redesigning GIMP&#8217;s interface, again)</figcaption></figure>
+
+
+
+<p>Y&#8217;all know I design user interfaces for a living, and thus my life depends on Figma. Now I don&#8217;t have a problem with Figma at all, including both the way the app work and the way their business operate. But as a self-hoster, I&#8217;ve always wanted </p>
+
+
+
+<h2 class="wp-block-heading">12. <a href="https://heimdall.site/" target="_blank" data-type="URL" data-id="https://heimdall.site/" rel="noreferrer noopener">Heimdall </a>(Application dashboard)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="505" src="/wp-content/uploads/2022/07/image-15-1024x505.png" alt="image 15" class="wp-image-21815" srcset="/wp-content/uploads/2022/07/image-15-1024x505.png 1024w, /wp-content/uploads/2022/07/image-15-300x148.png 300w, /wp-content/uploads/2022/07/image-15-768x379.png 768w, /wp-content/uploads/2022/07/image-15-1536x758.png 1536w, /wp-content/uploads/2022/07/image-15-101x50.png 101w, /wp-content/uploads/2022/07/image-15-650x321.png 650w, /wp-content/uploads/2022/07/image-15-1000x493.png 1000w, /wp-content/uploads/2022/07/image-15-50x25.png 50w, /wp-content/uploads/2022/07/image-15.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 14"><figcaption>My Heimdall dashboard</figcaption></figure>
+
+
+
+<p>App dashboards are a dime a dozen among self-hoster, mainly due to how easy it is to setup. There&#8217;s literally dozens of apps in this category: Heimdall, Homer, Dashy, Flame just to name a few. But not all of them are configurable from the frontend. Some of them requires you to fuck around with either a YAML file or something else. I just go with the least complicated one, Heimdall, which allows you to add apps from the front end and even pull some data from the ingrated app.</p>
+
+
+
+<h2 class="wp-block-heading">13. <a href="https://www.home-assistant.io/" target="_blank" data-type="URL" data-id="https://www.home-assistant.io/" rel="noreferrer noopener">HomeAssistant </a>(Smart home &amp; automation)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="505" src="/wp-content/uploads/2022/07/image-14-1024x505.png" alt="image 14" class="wp-image-21814" srcset="/wp-content/uploads/2022/07/image-14-1024x505.png 1024w, /wp-content/uploads/2022/07/image-14-300x148.png 300w, /wp-content/uploads/2022/07/image-14-768x379.png 768w, /wp-content/uploads/2022/07/image-14-1536x758.png 1536w, /wp-content/uploads/2022/07/image-14-101x50.png 101w, /wp-content/uploads/2022/07/image-14-650x321.png 650w, /wp-content/uploads/2022/07/image-14-1000x493.png 1000w, /wp-content/uploads/2022/07/image-14-50x25.png 50w, /wp-content/uploads/2022/07/image-14.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 15"><figcaption>Hass home dashboard with iOS theme (dark)</figcaption></figure>
+
+
+
+<p>The only reason this is this far down the list is not because it&#8217;s not good, but because it&#8217;s so good that I still haven&#8217;t been able to work out the best workflow for it yet</p>
+
+
+
+<h2 class="wp-block-heading">14. <a href="https://www.navidrome.org/" target="_blank" data-type="URL" data-id="https://www.navidrome.org/" rel="noreferrer noopener">Navidrome </a>(HQ music streaming server)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="505" src="/wp-content/uploads/2022/07/image-11-1024x505.png" alt="image 11" class="wp-image-21810" srcset="/wp-content/uploads/2022/07/image-11-1024x505.png 1024w, /wp-content/uploads/2022/07/image-11-300x148.png 300w, /wp-content/uploads/2022/07/image-11-768x379.png 768w, /wp-content/uploads/2022/07/image-11-1536x758.png 1536w, /wp-content/uploads/2022/07/image-11-101x50.png 101w, /wp-content/uploads/2022/07/image-11-650x321.png 650w, /wp-content/uploads/2022/07/image-11-1000x493.png 1000w, /wp-content/uploads/2022/07/image-11-50x25.png 50w, /wp-content/uploads/2022/07/image-11.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 16"><figcaption>Nam Vu's curated list of 18 excellent services you can self-host 20</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">15. <a href="https://github.com/Tzahi12345/YoutubeDL-Material" target="_blank" data-type="URL" data-id="https://github.com/Tzahi12345/YoutubeDL-Material" rel="noreferrer noopener">YoutubeDL</a> Material</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="505" src="/wp-content/uploads/2022/07/image-12-1024x505.png" alt="image 12" class="wp-image-21811" srcset="/wp-content/uploads/2022/07/image-12-1024x505.png 1024w, /wp-content/uploads/2022/07/image-12-300x148.png 300w, /wp-content/uploads/2022/07/image-12-768x379.png 768w, /wp-content/uploads/2022/07/image-12-1536x758.png 1536w, /wp-content/uploads/2022/07/image-12-101x50.png 101w, /wp-content/uploads/2022/07/image-12-650x321.png 650w, /wp-content/uploads/2022/07/image-12-1000x493.png 1000w, /wp-content/uploads/2022/07/image-12-50x25.png 50w, /wp-content/uploads/2022/07/image-12.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 17"><figcaption>YoutubeDL-Material screenshot</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">16. <a href="https://github.com/timvisee/send" target="_blank" data-type="URL" data-id="https://github.com/timvisee/send" rel="noreferrer noopener">Send</a> (File transfer)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="515" src="/wp-content/uploads/2022/07/image-19-1024x515.png" alt="image 19" class="wp-image-21835" srcset="/wp-content/uploads/2022/07/image-19-1024x515.png 1024w, /wp-content/uploads/2022/07/image-19-300x151.png 300w, /wp-content/uploads/2022/07/image-19-768x386.png 768w, /wp-content/uploads/2022/07/image-19-1536x772.png 1536w, /wp-content/uploads/2022/07/image-19-99x50.png 99w, /wp-content/uploads/2022/07/image-19-650x327.png 650w, /wp-content/uploads/2022/07/image-19-1000x503.png 1000w, /wp-content/uploads/2022/07/image-19-50x25.png 50w, /wp-content/uploads/2022/07/image-19.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 18"><figcaption>The all familiar Firefox Send interface. You&#8217;ll notice that its interface is significantly more slick than other apps in this list, clearly a UI designer was presented in the making of this app.</figcaption></figure>
+
+
+
+<p>A fork of Firefox Send, which was <a href="https://support.mozilla.org/en-US/kb/what-happened-firefox-send" data-type="URL" data-id="https://support.mozilla.org/en-US/kb/what-happened-firefox-send" target="_blank" rel="noreferrer noopener">officially retired</a> by the Mozilla foundation. I wanted something super simple </p>
+
+
+
+<h4 class="wp-block-heading">Alternative choice:</h4>
+
+
+
+<p><a href="https://file.pizza/" data-type="URL" data-id="https://file.pizza/" target="_blank" rel="noreferrer noopener">FilePizza</a> excellent p2p file sharing tool, very simple to setup, however the lack of custom styling turned me to Firefox Send</p>
+
+
+
+<h2 class="wp-block-heading">17. <a href="https://gotify.net/" data-type="URL" data-id="https://gotify.net/" target="_blank" rel="noreferrer noopener">Gotify </a>(Push notification)</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="505" src="/wp-content/uploads/2022/07/image-13-1024x505.png" alt="image 13" class="wp-image-21813" srcset="/wp-content/uploads/2022/07/image-13-1024x505.png 1024w, /wp-content/uploads/2022/07/image-13-300x148.png 300w, /wp-content/uploads/2022/07/image-13-768x379.png 768w, /wp-content/uploads/2022/07/image-13-1536x758.png 1536w, /wp-content/uploads/2022/07/image-13-101x50.png 101w, /wp-content/uploads/2022/07/image-13-650x321.png 650w, /wp-content/uploads/2022/07/image-13-1000x493.png 1000w, /wp-content/uploads/2022/07/image-13-50x25.png 50w, /wp-content/uploads/2022/07/image-13.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="Nam Vu&#039;s curated list of 18 excellent services you can self-host 19"><figcaption>Gotify very primitive interface</figcaption></figure>
+
+
+
+<p>Excellent tool for delivering notifications to your mobile device. Pair very nicely with #8 (Uptime Kuma)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/07/nam-vus-curated-list-of-18-excellent-services-you-can-self-host/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Logic Pro X theme for Audacity</title>
+		<link>/2022/03/logic-pro-x-theme-for-audacity/</link>
+					<comments>/2022/03/logic-pro-x-theme-for-audacity/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 29 Mar 2022 15:02:36 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[audacity]]></category>
+		<guid isPermaLink="false">/?p=21684</guid>
+
+					<description><![CDATA[If you recall I actually attempted to touch on this subject once in the past. That was back when I still used Photoshop for UI design, so that little screenshot [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>If you recall I actually <a href="/portfolio/audacity-interface-redesign-2/" target="_blank" rel="noreferrer noopener" data-schema-attribute="mentions">attempted to touch on this subject once in the past</a>. That was back when I still used Photoshop for UI design, so that little screenshot took me like 3 days or something. Today I&#8217;m attempting to do it again but in Figma and see if I could do something similar in 3 hours.</p>
+
+
+
+<p>What if Audacity has a theme that used the same design language as Apple&#8217;s Logic Pro X?</p>
+
+
+
+<figure class="ghostkit-image-compare ghostkit-custom-1glDvk ghostkit-custom-1glDvk"><div class="ghostkit-image-compare-images"><div class="ghostkit-image-compare-image-before"><img decoding="async" loading="lazy" src="/wp-content/uploads/2022/03/before-1024x576.png" alt="before" class="wp-image-21685" width="1024" height="576" srcset="/wp-content/uploads/2022/03/before-1024x576.png 1024w, /wp-content/uploads/2022/03/before-300x169.png 300w, /wp-content/uploads/2022/03/before-768x432.png 768w, /wp-content/uploads/2022/03/before-89x50.png 89w, /wp-content/uploads/2022/03/before-650x365.png 650w, /wp-content/uploads/2022/03/before-1000x562.png 1000w, /wp-content/uploads/2022/03/before-50x28.png 50w, /wp-content/uploads/2022/03/before.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" title="Logic Pro X theme for Audacity 21"></div><div class="ghostkit-image-compare-image-after"><img decoding="async" loading="lazy" src="/wp-content/uploads/2022/03/Audacity-Pro-1-1024x576.png" class="wp-image-21690" width="1024" height="576" srcset="/wp-content/uploads/2022/03/Audacity-Pro-1-1024x576.png 1024w, /wp-content/uploads/2022/03/Audacity-Pro-1-300x169.png 300w, /wp-content/uploads/2022/03/Audacity-Pro-1-768x432.png 768w, /wp-content/uploads/2022/03/Audacity-Pro-1-89x50.png 89w, /wp-content/uploads/2022/03/Audacity-Pro-1-650x365.png 650w, /wp-content/uploads/2022/03/Audacity-Pro-1-1000x562.png 1000w, /wp-content/uploads/2022/03/Audacity-Pro-1-50x28.png 50w, /wp-content/uploads/2022/03/Audacity-Pro-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" alt="Audacity Pro 1" title="Logic Pro X theme for Audacity 22"></div><div class="ghostkit-image-compare-images-divider"><div class="ghostkit-image-compare-images-divider-button-arrow-left"><svg class="ghostkit-svg-icon" width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.7803 17.7803C14.4874 18.0732 14.0126 18.0732 13.7197 17.7803L8.4697 12.5303C8.1768 12.2374 8.1768 11.7626 8.4697 11.4697L13.7197 6.21967C14.0126 5.92678 14.4874 5.92678 14.7803 6.21967C15.0732 6.51256 15.0732 6.98744 14.7803 7.28033L10.0607 12L14.7803 16.7197C15.0732 17.0126 15.0732 17.4874 14.7803 17.7803Z" fill="currentColor"></path></svg></div><div class="ghostkit-image-compare-images-divider-button-arrow-right"><svg class="ghostkit-svg-icon" width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.21967 6.2197C9.51256 5.9268 9.98744 5.9268 10.2803 6.2197L15.5303 11.4697C15.8232 11.7626 15.8232 12.2374 15.5303 12.5303L10.2803 17.7803C9.98744 18.0732 9.51256 18.0732 9.21967 17.7803C8.92678 17.4874 8.92678 17.0126 9.21967 16.7197L13.9393 12L9.21967 7.2803C8.92678 6.9874 8.92678 6.5126 9.21967 6.2197Z" fill="currentColor"></path></svg></div></div></div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/03/logic-pro-x-theme-for-audacity/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CODEX has left the scene</title>
+		<link>/2022/02/codex-has-left-the-scene/</link>
+					<comments>/2022/02/codex-has-left-the-scene/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 04:16:24 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[codex]]></category>
+		<category><![CDATA[fitgirl]]></category>
+		<category><![CDATA[flt]]></category>
+		<category><![CDATA[goodbye]]></category>
+		<category><![CDATA[reloaded]]></category>
+		<category><![CDATA[scene group]]></category>
+		<category><![CDATA[skidrow]]></category>
+		<guid isPermaLink="false">/?p=21664</guid>
+
+					<description><![CDATA[Even though I don&#8217;t really have time to play video games anymore these days, I still deeply respect these scene groups and what they did to make life enjoyable for [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-resized" data-ghostkit-sr="zoom"><img decoding="async" loading="lazy" src="https://i4.imageban.ru/out/2022/02/24/71ba8f811ca9bb13a35db182f6729f35.png" alt="71ba8f811ca9bb13a35db182f6729f35" width="733" height="1516" title="CODEX has left the scene 23"><figcaption>CODEX has left the scene 24</figcaption></figure>
+
+
+
+<p>Even though I don&#8217;t really have time to play video games anymore these days, I still deeply respect these scene groups and what they did to make life enjoyable for millions of underprivileged children.</p>
+
+
+
+<p>For those who didn&#8217;t get the subtle callouts in the text:</p>
+
+
+
+<span id="more-21664"></span>
+
+
+
+<p><em>&#8220;The blade has been dull for a long time.&#8221;</em> = <strong>RAZOR 1911</strong></p>
+
+
+
+<p><em>&#8220;Quality, tradition and pride was slowly fading to darkness&#8221;</em> = <strong>FLT </strong>(QUALITY, TRADITION AND PRIDE is the slogan in <a href="https://imgur.com/9fo8hWX" target="_blank" rel="noreferrer noopener">their NFO</a>)</p>
+
+
+
+<p><em>&#8220;there is a particular group that uses an old name without permission.&#8221;</em> = <strong>SKIDROW </strong>(when they were reborn in 2007, there was <a href="https://nfomation.net/info/1645650034.skidrow.nfo" target="_blank" rel="noreferrer noopener">drama surrounding the use of the SKIDROW name</a>)</p>
+
+
+
+<p><em>&#8220;they really should have closed down years ago after all the spectacular fuckups they are responsible for&#8221;</em> = also <strong>SKIDROW </strong>(for years, they had a history of releasing <a href="https://nfomation.net/info/1645656111.flt.nfo" target="_blank" rel="noreferrer noopener">bad cracks</a>, <a href="https://nfomation.net/info/1645656169.reloaded.nfo" target="_blank" rel="noreferrer noopener">stolen cracks</a>, <a href="https://nfomation.net/info/1645656238.flt.nfo" target="_blank" rel="noreferrer noopener">incorrectly nuking/propering other groups</a>, <a href="https://nfomation.net/info/1645656310.flt.nfo" target="_blank" rel="noreferrer noopener">etc</a>)</p>
+
+
+
+<p><em>&#8220;people resurrecting and adopting old names from previously busted groups&#8221;</em> = <strong>HOODLUM </strong>(busted during <a href="https://www.justice.gov/archive/opa/pr/2005/June/05_crm_353.htm" target="_blank" rel="noreferrer noopener">Operation Site Down in 2005</a>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/02/codex-has-left-the-scene/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A decade of employment: A personal reflection</title>
+		<link>/2022/01/a-decade-of-employment-a-personal-reflection/</link>
+					<comments>/2022/01/a-decade-of-employment-a-personal-reflection/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 23 Jan 2022 10:09:00 +0000</pubDate>
+				<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21648</guid>
+
+					<description><![CDATA[So 2021 was over, a year I believe most of us couldn&#8217;t wait to forget. So much time staying under lockdown, so many losses. I can no longer count with [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>So 2021 was over, a year I believe most of us couldn&#8217;t wait to forget. So much time staying under lockdown, so many losses. I can no longer count with my fingers the number of my friends on FB who&#8217;s using a black avatar (a symbol of grievances where I come from).</p>
+
+
+
+<p>But, sad pandemic stories aside, this year also marks the 10 year anniversary of me working professionally in the graphic design field, and I guess it&#8217;s a good time as any to take a look back and see how things have changed, and reminisce about people whom I&#8217;ve met along the way, how they helped shaping the man I am today. I will not be censoring company names, as they are publicly available in my resume, as well as my LinkedIn.</p>
+
+
+
+<span id="more-21648"></span>
+
+
+
+<h2 class="wp-block-heading">2011-2013: the FiM era</h2>
+
+
+
+<p>So the first company I ever work for (officially), was kind of a bust. Pay was low, the daily commute was long, work was unrewarding. They were liquidated very shortly after I quit, and eventually ghosted me of my insurance benefit, I suspect they committed fraud and didn&#8217;t pay the employee insurance they were legally required to, despite deducting it from our salaries every month. I eventually had to have the next company redo my whole insurance book for me because of that. None of that actually surprised me though, having seen the head honcho guy, some real shady mofo who resided in Hong Kong, masquerading as a venture capitalist.</p>
+
+
+
+<p>Point is, from a work perspective, it was kinda shit.</p>
+
+
+
+<p>But from a personal perspective though, there was&#8230;quite a lot to remember. I owe a lot to my former boss, Ms. O.  Before FiM, I was unemployed for over half a year, struggling to find my place in the world. When I came back from the States, I deeply regretted the decision to spend the previous 3 years in the States, achieving almost nothing. You know what I did during those years in the States? Half of it was spent indoors playing Counter-Strike: Source with my best friend, some of it was spent busing tables at Thai Son Noodles, serving along side people who couldn&#8217;t even read (that&#8217;s a true story I&#8217;d like to tell some other time), and flipping electronics on eBay, Craigslist and fucking Amazon. </p>
+
+
+
+<p>During that time, my peers had moved on to work in banks and financial institutions (which is the natural career path for people with degrees like me), even though who chose a different path had at least attempted something else, something they could put down as real work experience. </p>
+
+
+
+<p>Meanwhile, I had nothing in my CV despite having left college for over 3 years, who would take me then? </p>
+
+
+
+<p>Ms. O took me in and offered me a place as the in house graphic designer, without even so much as asking for a CV. She heard about me from my sister, having initially tried to recruit her. And for that, I am grateful. I don&#8217;t know if she was ever involved with KS&#8217;s (the big boss) shady business practice that eventually led to everyone losing their insurance books or not, I think she might at least have some idea, given that she was the second in command, but even if she was, I&#8217;d never resent her.</p>
+
+
+
+<p>Having said that though, I wouldn&#8217;t work for or with her again, not because of what happened with FiM, but because of her skills as a leader/mentor, or more precisely, the lack of it. I can tell she was really passionate about the business, and cared a great deal about building a strong team to back it up. Problem was, she didn&#8217;t possess the talent to do so. It wasn&#8217;t until I left FiM and met some really inspiring leader that I realized I didn&#8217;t learn anything during the 1 year and a half that I was there. At least nothing useful to my profession anyway.</p>
+
+
+
+<p>On the personal front however, I made some major milestones during this time period. I got intimate for the first time with a girl from the office (also found out that sleeping nude with another person for a whole night wasn&#8217;t as comfortable as what the movies had led us to believe). We never made it all the way though, because we were never each other&#8217;s type anyway, it was loneliness and most likely pheromones that draw us together. But thanks to her I became a lot more emotionally mature, something that helped me greatly in later days when I meet the girl whom I would eventually marry. She also worked, albeit very briefly, at FiM. Like 2 weeks or something, but that was enough time for us to click. She was married at the time but unhappily, and I patiently waited. We&#8217;re still together now, and I can&#8217;t imagine being with anybody but her, I believe it was the most correct choice I&#8217;ve made in my life.</p>
+
+
+
+<p>Toward the end of this era, FiM was stagnating. My job wasn&#8217;t largely unchanged for the last year and a half. Being the only &#8216;graphic design&#8217; guy in the company, I was tasked with literally everything related to graphic. From website design, logo design for potential clients (sometime provided free of charge as an addon to attract customers), to beautifying presentation decks to account managers, to designing company catalogue. I knew the end was near, but I too, was stagnating in looking for a new job. After all, I didn&#8217;t have any experience in that front, FiM was my first job, and the experience I gathered there wasn&#8217;t enough to fill a resume page. I was afraid, but eventually pulled the trigger anyway, after many of the old people left.</p>
+
+
+
+<h2 class="wp-block-heading">2014-2018: the Punch Era (DeNA + EVA)</h2>
+
+
+
+<p>This transition was memorable for me, mainly because there was so many &#8216;first&#8217; involved.</p>
+
+
+
+<ul><li>First time switching job.</li><li>First time experience with a headhunting agency (Harvey Nash, which as fate would have it, would become my next employer).</li><li>First career path adjustment (from general graphic design to Game UI Design)</li><li>First time having a real team (by that I mean people who also works in graphic design</li><li>First time working in an A-class office building (IPH)</li><li>First time having a foreigner as my direct supervisor (I always wanted a job where my English would be of use)</li><li>First time being sent to another country on a professional capacity (it was only Singapore, which was like a stone throw away, but still)</li></ul>
+
+
+
+<p>I was initially interested in Punch because its wiki entry said it was an American company. It wasn&#8217;t until I joined the company that I realized it was bought by DeNA, a rather large Japanese corporation (it was one of the better ones too, as I later found out after Punch got sold yet again).</p>
+
+
+
+<p>I had the time of my life at Punch, there was no work-life balance. For the first 2 years or so, work was life, and life was work. The company would provide each employee with around $5 for dinner if they choose to stay at the company after 7pm. &#8216;$5 for dinner&#8217; may not sound like much (redditards antiworkers would probably lose their mind at the sight of that), but it was actually quite sufficient for an average takeaway meal in Vietnam back in &#8217;14. Considering how most of the young employees actually spend less than $3 for their dinners, coupled with the fact that the company didn&#8217;t specify that you have to do company works when they stay the evening, they were pretty much feeding a third of their work force and provide them with an opportunity to have LAN party, doing personal works or just generally horsing around with their friends while all the electricity and AC is paid for.</p>
+
+
+
+<p>It was a great time indeed.</p>
+
+
+
+<p>It was also during my stay there that I actually know what it&#8217;s like to go on a real business trip abroad. DeNA has this policy to send random people that they deem potential to their office in Singapore for&#8230;uh to be honest I still don&#8217;t know what for. But they&#8217;d routinely send people to Singapore for a 3 to 8 weeks period. I was only on my 4th day at Punch when they slapped an airplane ticket on the table and said that I&#8217;d be leaving next Monday. It was a culture shock indeed but I ain&#8217;t complaining, it was like a free traveling opportunity with all expenses paid for.</p>
+
+
+
+<p>It&#8217;s not like the days we spent in Singapore was a leisure trip anyway. We were cramped into these super tiny hotel suites that you barely have enough space to put your luggage down. Also I found out the reason why Singaporeans were so much more productive than Vietnamese. I&#8217;d usually leave the office</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/01/a-decade-of-employment-a-personal-reflection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Phimhub Major Update</title>
+		<link>/2022/01/phimhub-major-update/</link>
+					<comments>/2022/01/phimhub-major-update/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sat, 15 Jan 2022 16:30:35 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21650</guid>
+
+					<description><![CDATA[As you may know, I run a little movie club, which started out as a Netflix group buy a year ago, which later led to me setting up my own [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you may know, I run a little <a href="https://www.facebook.com/groups/phimhub" target="_blank" rel="noreferrer noopener">movie club</a>, which started out as a Netflix group buy a year ago, which later led to me <a href="/2021/02/hosting-my-own-netflix-on-an-ancient-mac-mini-2011/" data-type="post" data-id="14873">setting up my own Netflix</a> (with Jellyfin) eventually leading to me going down the <a href="https://www.reddit.com/r/selfhosted/" target="_blank" rel="noreferrer noopener">/r/selfhosted</a> rabbit hole, learning a ton of stuffs about personal server deployment along the way.</p>
+
+
+
+<p>It served us well, albeit with some annoyances. For starter, it only runs from 8am to 11.30pm everyday, mainly because I hosted it from my personal desktop, which is only powered on during those period. Another drawback of running it from my personal PC is the lack of space. I only had a single 3TB HDD installed, and Phimhub&#8217;s library had long exceeded that. I tried to work around it by using Google Drive File Stream (now simply known as Google Drive) to keep only a fraction of the files offline, and leave the rest on the cloud. This effectively means that only around 30% of Phimhub&#8217;s library was ready to play at any time.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="/wp-content/uploads/2022/01/image-1024x768.png" alt="image" class="wp-image-21651" srcset="/wp-content/uploads/2022/01/image-1024x768.png 1024w, /wp-content/uploads/2022/01/image-300x225.png 300w, /wp-content/uploads/2022/01/image-768x576.png 768w, /wp-content/uploads/2022/01/image-1536x1152.png 1536w, /wp-content/uploads/2022/01/image-2048x1536.png 2048w, /wp-content/uploads/2022/01/image-67x50.png 67w, /wp-content/uploads/2022/01/image-650x487.png 650w, /wp-content/uploads/2022/01/image-1000x750.png 1000w, /wp-content/uploads/2022/01/image-50x37.png 50w" sizes="(max-width: 1024px) 100vw, 1024px" title="Phimhub Major Update 25"><figcaption>So much room for activities!</figcaption></figure>
+
+
+
+<p>Well, today I&#8217;m proud to say those annoyances should be gone. I&#8217;ve finished building a DIY NAS running Xpenology with a whopping 64TB of storage (2x WD Ultrastar 16Tb, 2x Seagate Exos 16Tb, all enterprise class, datacenter ready drives). I&#8217;ve also procured a more powerful laptop to act as the resident server, hosting every single services in one place (containerized of course). A bump from N3060 to an i5-4200M means now I can move Jellyfin to the laptop itself instead of running it from my PC. While the i5 does consume quite a bit more power than the Celeron (37w vs 6w), but it&#8217;s still better than running my power hungry desktop PC for 16 hours a day for sure.</p>
+
+
+
+<p>Essentially, instead of hosting Jellyfin AND the media library on my own PC, now Jellyfin will be moved into a docker container on my laptop server, and the media library will reside on the family NAS. You do need to mount the SMB share as a local mount on your server of course. One drawback of this approach is that you can no longer delete media from the Web UI, since I didn&#8217;t give the docker container write permission to the SMB share. I could do that but I figure it&#8217;s better this way, since I&#8217;ll be the only one managing the media files anyway, I can just do it from my local computer.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/01/phimhub-major-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Guess which hobby I picked up in 2021</title>
+		<link>/2021/12/guess-which-hobby-i-picked-up-in-2021/</link>
+					<comments>/2021/12/guess-which-hobby-i-picked-up-in-2021/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 10 Dec 2021 05:47:53 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21621</guid>
+
+					<description><![CDATA[Reddit knows!]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="958" height="671" src="/wp-content/uploads/2021/12/image.png" alt="image" class="wp-image-21622" srcset="/wp-content/uploads/2021/12/image.png 958w, /wp-content/uploads/2021/12/image-300x210.png 300w, /wp-content/uploads/2021/12/image-768x538.png 768w, /wp-content/uploads/2021/12/image-71x50.png 71w, /wp-content/uploads/2021/12/image-650x455.png 650w, /wp-content/uploads/2021/12/image-50x35.png 50w" sizes="(max-width: 958px) 100vw, 958px" title="Guess which hobby I picked up in 2021 26"><figcaption>Guess which hobby I picked up in 2021 27</figcaption></figure>
+
+
+
+<p>Reddit knows!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/guess-which-hobby-i-picked-up-in-2021/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why testing is important even for UI design</title>
+		<link>/2021/10/why-testing-is-important-even-for-ui-design/</link>
+					<comments>/2021/10/why-testing-is-important-even-for-ui-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 18 Oct 2021 09:24:40 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=21585</guid>
+
+					<description><![CDATA[I was gonna post this on my Linkedin by decided against it, trying to keep it professional, ya know.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/10/image-2.png" alt="image 2" class="wp-image-21586" width="297" height="612" srcset="/wp-content/uploads/2021/10/image-2.png 466w, /wp-content/uploads/2021/10/image-2-146x300.png 146w, /wp-content/uploads/2021/10/image-2-24x50.png 24w, /wp-content/uploads/2021/10/image-2-50x103.png 50w" sizes="(max-width: 297px) 100vw, 297px" title="Why testing is important even for UI design 28"><figcaption>Why truncations can lead to unwanted results when it comes to localization</figcaption></figure>
+
+
+
+<p>I was gonna post this on my Linkedin by decided against it, trying to keep it professional, ya know.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/10/why-testing-is-important-even-for-ui-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

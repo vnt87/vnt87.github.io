@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>html &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/html/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 22 Oct 2021 02:40:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>html &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Electron Toolbelt</title>
+		<link>/2019/08/my-electron-toolbelt/</link>
+					<comments>/2019/08/my-electron-toolbelt/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2019 04:26:35 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[cross-platform]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[desktop apps]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[electron]]></category>
+		<category><![CDATA[electronjs]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[linux]]></category>
+		<guid isPermaLink="false">/?p=6048</guid>
+
+					<description><![CDATA[Love it or hate it, Electron is now an important part of your everyday life. For those who haven&#8217;t heard of it by now, Electron is a software framework that [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Love it or hate it, Electron is now an important part of your everyday life. For those who haven&#8217;t heard of it by now, Electron is a software framework that enable developers to create desktop applications using web technologies (HTML, CSS, JS). It garnered a lot of attention in recently years.</p>
+
+
+
+<p>Sure, many elitist developers have publicly spoken against it. They argue that their performance is sub par comparing to native applications, even go as far as <a href="https://medium.com/commitlog/electron-is-cancer-b066108e6c32" target="_blank" rel="noopener">calling Electron apps &#8220;web pages&#8221;</a>. In reality, they were correct, and also completely missed the point. What Electron brings to the table isn&#8217;t performance, but availability. Electron massively lowered the barrier-to-entry in desktop software development, and cut the cost of porting applications across platforms to almost nothing at all. Truth is, I think what the elitist developers are so pissed off about is that fact Electron enabled &#8216;lesser devs&#8217; to build beautiful, functional apps that work cross-platform, something that would take decades for them to achieve.</p>
+
+
+
+<p>While I can see why the old devs are unhappy with these changes, as an end user I couldn&#8217;t be happier with Electron. It&#8217;s a godsend.</p>
+
+
+
+<p>Anyway here&#8217;s my list of Electron-based apps that I couldn&#8217;t live without</p>
+
+
+
+<span id="more-6048"></span>
+
+
+
+<h3 class="wp-block-heading">Figma &#8211; Screen Design Tool</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2020/04/Screenshot-2020-04-02-14.15.27.png" alt="Screenshot 2020 04 02 14.15.27" title="My Electron Toolbelt 1"><figcaption>Figma Screenshot</figcaption></figure>
+
+
+
+<p>Given that I am a front-end UI designer, this one obviously tops the list. Unlike most other items in this list though, Figma is not just a &#8216;multi-platform alternative&#8217; to its competitors, it&#8217;s actually THE best tool available in its field. And with its recent addition of plugin support, it&#8217;s only getting better</p>
+
+
+
+<h3 class="wp-block-heading">Visual Studio Code &#8211; General Text Editor</h3>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="550" src="/wp-content/uploads/2021/10/image-3-1024x550.png" alt="image 3" class="wp-image-21595" srcset="/wp-content/uploads/2021/10/image-3-1024x550.png 1024w, /wp-content/uploads/2021/10/image-3-300x161.png 300w, /wp-content/uploads/2021/10/image-3-768x413.png 768w, /wp-content/uploads/2021/10/image-3-1536x825.png 1536w, /wp-content/uploads/2021/10/image-3-93x50.png 93w, /wp-content/uploads/2021/10/image-3-650x349.png 650w, /wp-content/uploads/2021/10/image-3-1000x537.png 1000w, /wp-content/uploads/2021/10/image-3-50x27.png 50w, /wp-content/uploads/2021/10/image-3.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" title="My Electron Toolbelt 2"><figcaption>VS Code screenshot</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Brackets &#8211; HTML/CSS/JS Editor</h3>
+
+
+
+<p>To be honest you can just use VS Code for everything Brackets does, but since they&#8217;re both free, why do you have to choose? Sure at its core, it&#8217;s only a text editor, but out of the box it&#8217;s just work so much better for web development. It&#8217;s capable of editing CSS from within the HTML document just like they&#8217;re in-line, and they comes with a neat little server that lets you preview your webpage in real-time using Chrome (you can actually pick elements from Chrome and Brackets will jump to the correct code section, it&#8217;s just like using Code Inspector!)</p>
+
+
+
+<p>Update 2021: Adobe killed it :((</p>
+
+
+
+<h3 class="wp-block-heading">Mattermost &#8211; Team Chat</h3>
+
+
+
+<p>Unless you&#8217;re a lone wolf, you&#8217;ll most likely need to use some sort of teamchat for internal communication. Now there&#8217;s plenty of choices in this area, and Slack used to be my go to choice in this field. But ever since I joined r/selfhosted, I&#8217;ve joined the great movement to segregate from big corps data, and now I host my own team chat</p>
+
+
+
+<h3 class="wp-block-heading">Telegram &#8211; General Messaging</h3>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="577" height="715" src="/wp-content/uploads/2021/10/image-4.png" alt="image 4" class="wp-image-21596" srcset="/wp-content/uploads/2021/10/image-4.png 577w, /wp-content/uploads/2021/10/image-4-242x300.png 242w, /wp-content/uploads/2021/10/image-4-40x50.png 40w, /wp-content/uploads/2021/10/image-4-50x62.png 50w" sizes="(max-width: 577px) 100vw, 577px" title="My Electron Toolbelt 3"><figcaption>Telegram screenshot</figcaption></figure>
+
+
+
+<p>For general messaging, nothing beats Telegram. It looks and feels consistent across all devices and platforms. Rock solid application.</p>
+
+
+
+<h3 class="wp-block-heading">Bootstrap Studio &#8211; Visual HTML Editor using Bootstrap</h3>
+
+
+
+<p>This is the odd one among my choices, due to the fact that it&#8217;s not free. If you haven&#8217;t noticed yet, I&#8217;m a sucker for free softwares, and I usually populate my toolbelt with such, not because of some ideology or anything, I&#8217;m just a cheapskate. But once it a while there&#8217;s proprietary softwares that just blow you away. Bootstrap Studio is one of those.</p>
+
+
+
+<h3 class="wp-block-heading">Balena Etcher &#8211; Bootmaker</h3>
+
+
+
+<p>Formerly known as only Etcher, this is a USB boot drive creator, which is something I use far more than an average person (I manage like 60+ computers, TeamViewer actually flagged my account as a commercial one). If you&#8217;ve ever used other USB bootmaker like Rufus or YUMI, you&#8217;d understand why Etcher prevail. (hint: it has something with other bootmakers UI looking like garbage)</p>
+
+
+
+<h3 class="wp-block-heading">Git Kraken</h3>
+
+
+
+<p>Git is an amazing version control application, and Github is the best Git service provider out there, and of course, they have their own Github client to manage any repositories you have. But in their infinite wisdom, they&#8217;ve decided to make that application available to Windows and OS X only. Can you imagine it? Official client of the largest open source repositories in the world not being available on Linux? That&#8217;s just bad taste.</p>
+
+
+
+<p>Thankfully, we have Git Kraken to fill that void.</p>
+
+
+
+<h3 class="wp-block-heading">Fontbase</h3>
+
+
+
+<p>Sure when it comes to a font manager, cross-platform isn&#8217;t one of the highest priorities unless you&#8217;re capable of syncing your fonts across platform (ideally anyway, but we have TypeKit for that). Still, Fontba.se is one of my most essential app as a designer, mostly because it allows you to enable/disable folders of font without permanently installing them on your system, avoiding overtaxing your computer, and most importantly it&#8217;s capable of doing that WITHOUT administrative right. If you ever work in a corporate environment with tight security policies, you&#8217;d understand why this is necessary.</p>
+
+
+
+<h3 class="wp-block-heading">Mail Spring</h3>
+
+
+
+<p>Yo</p>
+
+
+
+<h1 class="wp-block-heading">Honorable mentions</h1>
+
+
+
+<p class="has-text-align-center">These are also Electron-based apps that I use frequently but didn&#8217;t get added to my crucial list since they are either A. Sloppily implemented or B. Unnecessary</p>
+
+
+
+<h3 class="wp-block-heading">Skype</h3>
+
+
+
+<p>This is one of those apps that you install out of necessity instead of actual usefulness. You use Skype because your client/colleagues/everyone else is using it, not because it&#8217;s a great messaging app. Microsoft made a right decision going Electron with their popular messaging service, but the product was released way too prematurely. So many bugs that sometimes render the app damn near impossible to use. Like c&#8217;mon, I only need to see the last message in a conversation, which was cached, why the fuck do you need to blank out the page while you load previous conversations? Why?</p>
+
+
+
+<h3 class="wp-block-heading">Tusk</h3>
+
+
+
+<p>Tusk is a desktop wrapper for the popular note-taking application Evernote. See, Evernote is one of those service where a simple desktop wrappers actually works better than a full-blown desktop application, mainly because a desktop wrappers does not count toward your 3-device restriction. &#8220;But I could do that myself with Nativefier already though&#8221; -is what you&#8217;re probably thinking. Well, Tusk differ from your average homebrew Nativefier app in that it actually adds some value to Evernote, like the ability to change theme to Dark mode or Sepia mode, and uh, well that&#8217;s about it I guess. All in all if you still use Evernote for some reason, and don&#8217;t know what to choose from dozens of near identical desktop client, go with Tusk.</p>
+
+
+
+<h3 class="wp-block-heading">Xmind</h3>
+
+
+
+<h3 class="wp-block-heading">Postman</h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/08/my-electron-toolbelt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Freebies: Arkenea HTML Template</title>
+		<link>/2019/05/freebies-arkenea-html-template/</link>
+					<comments>/2019/05/freebies-arkenea-html-template/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 17 May 2019 09:33:59 +0000</pubDate>
+				<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[freebies]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[psd template]]></category>
+		<category><![CDATA[resources]]></category>
+		<guid isPermaLink="false">/?p=6020</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><div  class="tatsu-g37xu8p0zy3l9qry tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"15px 0px 15px 0px"}' data-padding-top='15px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-g37xu8p11s18jg1v" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-g37xu8p13e5ke4ya" data-animation="fadeIn"   data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-g37xu8p14t6eunld  "><div class="tatsu-text-inner tatsu-align-center  clearfix" data-animation="fadeIn"  ><style>.tatsu-g37xu8p14t6eunld.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;text-align: left;}</style></p>
+<p>As you may know, I&#8217;m an avid Linux user. I still need to use Windows at work but I run Deepin Linux at home, so naturally I build my workflow around cross-platform tools. In this regards, the <a href="https://electronjs.org/" target="_blank" rel="noopener">ElectronJS</a> project had been a godsend. Likely half of my current workflow is made up of Electron powered apps: <strong>Figma, Zeplin, Fontbase, Gravit</strong> (before they sold out to Corel), <strong>Brackets, XMind</strong> just to name a few off the top of my head.</p>
+<p>I recently discovered <a href="https://bootstrapstudio.io/" target="_blank" rel="noopener">Bootstrap Studio</a>, an excellent visual HTML/CSS editor that is also developed with Electron (though for some reason they weren&#8217;t listed on <a href="https://electronjs.org/" target="_blank" rel="noopener">Electron&#8217;s website</a>).</p>
+<p>I spent 3 days learning my way around the app (would&#8217;ve taken less time if I was more familiar with Bootstrap, which I am now). To learn it I picked out a random PSD template called <strong>Arkenea</strong> (generously provided by <strong>Prashant Dwivedi</strong>)  and attempt to convert it to HTML using BS. The end result is pretty satisfactory IMO. I figure I should share it for those who might find it useful.</p>
+<p></div></div><div  class="tatsu-module tatsu-button-group align-center tatsu-B1bDCCgxpV  "  ><div  class="tatsu-module tatsu-normal-button tatsu-button-wrap   tatsu-S1w0Reg6E   "><a class="tatsu-shortcode mediumbtn tatsu-button left-icon circular   bg-animation-none  " href="https://vnt87.github.io/arkenea/" style="" data-animation="fadeIn" aria-label="Demo" target="_blank" rel="noopener">Demo</a><style>.tatsu-S1w0Reg6E .tatsu-button{background-color: #000000;color: rgba(255,255,255,1) ;}</style></div><div  class="tatsu-module tatsu-normal-button tatsu-button-wrap   tatsu-Hygw0RelT4   "><a class="tatsu-shortcode mediumbtn tatsu-button left-icon circular   bg-animation-none  " href="https://dribbble.com/shots/2218540-Arkenea" style="" data-animation="fadeIn" aria-label="Original PSD (Dribbble)" target="_blank" rel="noopener">Original PSD (Dribbble)</a><style>.tatsu-Hygw0RelT4 .tatsu-button{background-color: #000000;color: rgba(255,255,255,1) ;}</style></div><div  class="tatsu-module tatsu-normal-button tatsu-button-wrap   tatsu-rJdRAgeaV   "><a class="tatsu-shortcode mediumbtn tatsu-button left-icon circular   bg-animation-none  " href="https://vnt87.github.io/arkenea/arkenea.zip" style="" data-animation="fadeIn" aria-label="HTML/CSS (ZIP)" target="_blank" rel="noopener">HTML/CSS (ZIP)</a><style>.tatsu-rJdRAgeaV .tatsu-button{background-color: #000000;color: rgba(255,255,255,1) ;}</style></div><div  class="tatsu-module tatsu-normal-button tatsu-button-wrap   tatsu-rJFRCgeaV   "><a class="tatsu-shortcode mediumbtn tatsu-button left-icon circular   bg-animation-none  " href="https://vnt87.github.io/arkenea/arkenea.bsdesign" style="" data-animation="fadeIn" aria-label=".BSDesign" target="_blank" rel="noopener">.BSDesign</a><style>.tatsu-rJFRCgeaV .tatsu-button{background-color: #000000;color: rgba(255,255,255,1) ;}</style></div></div><style>.tatsu-B1bDCCgxpV.tatsu-button-group{margin: 0px 0px 20px 0px;}</style><div  class="tatsu-module tatsu-text-block-wrap tatsu-S1jRXbgpE  "><div class="tatsu-text-inner tatsu-align-center  clearfix" data-animation="fadeIn"  ><style>.tatsu-S1jRXbgpE.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;text-align: left;}</style></p>
+<p>Hope you guys like it, enjoy <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p></div></div></div></div><div class = "tatsu-column-bg-image-wrap"><div class = "tatsu-column-bg-image" ></div></div></div><style>.tatsu-row > .tatsu-g37xu8p13e5ke4ya.tatsu-column{width: 100%;}.tatsu-g37xu8p13e5ke4ya.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay{mix-blend-mode: none;}.tatsu-g37xu8p13e5ke4ya > .tatsu-column-inner > .tatsu-top-divider{z-index: 9999;}.tatsu-g37xu8p13e5ke4ya > .tatsu-column-inner > .tatsu-bottom-divider{z-index: 9999;}.tatsu-g37xu8p13e5ke4ya > .tatsu-column-inner > .tatsu-left-divider{z-index: 9999;}.tatsu-g37xu8p13e5ke4ya > .tatsu-column-inner > .tatsu-right-divider{z-index: 9999;}.tatsu-g37xu8p13e5ke4ya.tatsu-column{transform: translate3d(0px,0px, 0);}</style></div></div></div></div><div class="tatsu-section-background-wrap"><div class = "tatsu-section-background" ></div></div><style>.tatsu-g37xu8p0zy3l9qry .tatsu-section-pad{padding: 15px 0px 15px 0px;}.tatsu-g37xu8p0zy3l9qry > .tatsu-bottom-divider{z-index: 9999;}.tatsu-g37xu8p0zy3l9qry > .tatsu-top-divider{z-index: 9999;}</style></div></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/05/freebies-arkenea-html-template/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

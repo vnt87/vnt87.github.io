@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>dashboard &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/dashboard/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sat, 11 May 2019 10:33:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>dashboard &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Full Dark-mode: ya or na?</title>
+		<link>/2019/05/full-dark-mode-ya-or-na/</link>
+					<comments>/2019/05/full-dark-mode-ya-or-na/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sat, 11 May 2019 10:33:47 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[dark mode]]></category>
+		<category><![CDATA[dashboard]]></category>
+		<category><![CDATA[dashboard design]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[light mode]]></category>
+		<category><![CDATA[prototype]]></category>
+		<category><![CDATA[template]]></category>
+		<category><![CDATA[ui design]]></category>
+		<guid isPermaLink="false">/?p=5992</guid>
+
+					<description><![CDATA[So if you&#8217;ve been following my works recently you&#8217;d notice that for the last couple of months I&#8217;ve been working with nothing but dashboards. And for most of them I [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>So if you&#8217;ve been following my works recently you&#8217;d notice that for the last couple of months I&#8217;ve been working with nothing but dashboards. And for most of them I tend to use bright, vivid colors. Why? Well because they&#8217;re considered safe for most clients.</p>
+<p>But during recent years, dark mode seems to be all the rage. Everybody started implementing it, Telegram, Slack, Skype. So when tasked with creating yet another crypto dashboard design, I thought to myself: &#8220;how about jumping on the bandwagon?&#8221;</p>
+<p>So I quickly whipped up some screens, what do you guys think?</p>
+<div style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" fetchpriority="high" class="size-medium" src="https://i.imgur.com/18esOwd.png" alt="Main Dashboard: Dark" width="1366" height="768" title="Full Dark-mode: ya or na? 1"><p class="wp-caption-text">Main Dashboard: Dark</p></div>
+<p>&nbsp;</p>
+<div style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" class="size-medium" src="https://i.imgur.com/Klh0Onk.png" alt="Main Dashboard: Light" width="1366" height="768" title="Full Dark-mode: ya or na? 2"><p class="wp-caption-text">Main Dashboard: Light</p></div>
+<p>&nbsp;</p>
+<div style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" class="size-medium" src="https://i.imgur.com/QQv02o7.png" alt="Table view: Dark" width="1366" height="768" title="Full Dark-mode: ya or na? 3"><p class="wp-caption-text">Table view: Dark</p></div>
+<p>&nbsp;</p>
+<div style="width: 1376px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="size-medium" src="https://i.imgur.com/F1kpF1W.png" alt="Table view: Light" width="1366" height="768" title="Full Dark-mode: ya or na? 4"><p class="wp-caption-text">Table view: Light</p></div>
+<p>&nbsp;</p>
+<p>I&#8217;m still kinda on the fence about this though. I guess it&#8217;s best to make it a toggle.</p>
+<p>What do you guys think I should choose? Leave a comment below.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/05/full-dark-mode-ya-or-na/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

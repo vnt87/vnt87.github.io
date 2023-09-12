@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>autodesk &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/autodesk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 02 Apr 2019 11:11:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>autodesk &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Installing Autodesk Mudbox 2018 on Deepin Linux 15.6</title>
+		<link>/2018/08/installing-autodesk-mudbox-2018-on-deepin-linux-15-6/</link>
+					<comments>/2018/08/installing-autodesk-mudbox-2018-on-deepin-linux-15-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2018 10:55:02 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[autodesk]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[mudbox 2018]]></category>
+		<category><![CDATA[working]]></category>
+		<category><![CDATA[working on linux]]></category>
+		<guid isPermaLink="false">/?p=3829</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div  class="tatsu-fuf8c529yqdtczfi tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"15px 0px 15px 0px"}' data-padding-top='15px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-fuf8c52a7h824i3g" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image- tatsu-column-effect-  tatsu-fuf8c52afc2zil5a" data-animation="fadeIn"   data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-fuf8c52amrbmz6qn  "><div class="tatsu-text-inner tatsu-align-center  clearfix" data-animation="fadeIn"  ><style>.tatsu-fuf8c52amrbmz6qn.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;}</style>
+
+<figure class="wp-block-image"><img decoding="async" fetchpriority="high" width="1918" height="1012" class="wp-image-3830" src="/wp-content/uploads/2018/08/DeepinScreenshot_mudbox_20180819174722.png" alt="" srcset="/wp-content/uploads/2018/08/DeepinScreenshot_mudbox_20180819174722.png 1918w, /wp-content/uploads/2018/08/DeepinScreenshot_mudbox_20180819174722-300x158.png 300w, /wp-content/uploads/2018/08/DeepinScreenshot_mudbox_20180819174722-768x405.png 768w, /wp-content/uploads/2018/08/DeepinScreenshot_mudbox_20180819174722-1024x540.png 1024w" sizes="(max-width: 1918px) 100vw, 1918px" title="Installing Autodesk Mudbox 2018 on Deepin Linux 15.6 1">
+<figcaption>Mudbox 2018 running on Deepin Linux 15.6</figcaption>
+</figure>
+
+
+
+<p class="has-drop-cap">Following my <a href="/2018/08/17/installing-autodesk-maya-2018-update-3-on-deepin-linux-15-6/">previous post on how to install Maya 2018 on Linux</a>, today I&#8217;m gonna be installing Mudbox 2018. But instead of forcing you to go through all that craps, I&#8217;m just going to condense the steps into this simple script. Just run this thing and be done with it. (If you need the installer, you can grab it <a href="http://trial2.autodesk.com/NET18SWDLD/2018/MBXPRO/ESD/Autodesk_Mudbox_2018_EFGJ_Linux64.tgz" target="_blank" rel="noopener">directly from Autodesk</a>, for some reasons they try to hide the 2018 version from my account, only showing 2017 and older, I had to dig up half the server to hunt down this link) <span id="more-3829"></span></p>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="shell">#!/bin/bash
+#2018 Nam Vu aka envigraphy
+#envigraphy@gmail.com
+
+# This script assumes that you have downloaded your copy of the mudbox.tgz to /home/namvu/Downloads/Autodesk/$MUDBOXINSTALL, and that it is named: Autodesk_Mudbox_2018_EFGJ_Linux64.tgz
+
+
+#Setup a few vars (Change the file name here if your .tgz file has a different name)
+#Also change the PRODUCTID if you are not installing Mudbox 2018 (for example, Mudbox 2016 has a PRODUCTID 498G1)
+export MUDBOXINSTALL='Mudbox_2018_Installer'
+export INSTALLFILE="Autodesk_Mudbox_2018_EFGJ_Linux64.tgz"
+export RPM_INSTALL_PREFIX=/usr
+export LD_LIBRARY_PATH=/opt/Autodesk/Adlm/R12/lib64/
+PRODUCTID="498J1"
+
+
+if [ `whoami` != root ]; then
+    echo Please run this script using sudo
+    echo Just type “sudo !!”
+    exit
+fi
+#Check for 64-bit arch
+if [/bin/uname -m != x86_64]; then
+    echo Mudbox will only run on 64-bit linux. 
+    echo Please install a 64-bit Linux distro and try again.
+    exit
+fi
+
+
+#Install Message
+echo "You’re about to install Autodesk Mudbox 2018"
+echo ""
+echo "Do you wish to continue [Y/n]?"
+read RESPONSE
+case "$RESPONSE" in
+  n*|N*)
+  echo "Install Terminated"
+  exit 0;
+esac
+
+#Get serial number
+echo "Enter the serial number"
+read SERIALNUMBER
+echo ""
+
+export INSTALLDIR=/home/namvu/Downloads/Autodesk/$MUDBOXINSTALL
+cd $INSTALLDIR
+chmod -R 777 $INSTALLDIR
+
+# Install Dependencies
+apt-get install csh tcsh libaudiofile-dev libglw1-mesa elfutils gamin libglw1-mesa-dev mesa-utils xfstt ttf-liberation ttf-mscorefonts-installer xfonts-100dpi xfonts-75dpi alien libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev libtiff5 openssl
+sleep 3s
+
+
+# Extract Mudbox Install Files
+tar xvf $INSTALLDIR/$INSTALLFILE
+# Convert rpms to debs
+for i in $INSTALLDIR/*.rpm; do alien -cv $i; done
+sleep 2s
+#install the debs
+dpkg -i --force-overwrite $INSTALLDIR/*.deb
+
+#Required for license to install
+cp libadlmPIT.so.11 /usr/lib/libadlmPIT.so.11
+cp libadlmutil.so.11 /usr/lib/libadlmutil.so.11
+ln -s /usr/lib/libadlmPIT.so.11 /usr/lib/libadlmPIT.so
+ln -s /usr/lib/libadlmutil.so.11 /usr/lib/libadlmutil.so
+
+# License Setup:
+echo -e 'MUDBOX_LICENSE=unlimitednMUDBOX_LICENSE_METHOD=standalone' &gt; /usr/autodesk/mudbox2018/bin/License.env
+
+/usr/autodesk/mudbox2018/bin/adlmreg -i S $PRODUCTID $PRODUCTID 2018.0.0.F $SERIALNUMBER /var/opt/Autodesk/Adlm/Mudbox2018/MudboxConfig.pit
+ 
+# symbolic links:
+# libtiff
+ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.5.2.0 /usr/lib/libtiff.so.3
+sleep 2s
+
+# check to see if libtiff.so.3 exists
+if [ ! -e /usr/lib/x86_64-linux-gnu/libtiff.so.3 ]; then
+  if [ ! -e /usr/lib/x86_64-linux-gnu/libtiff.so.5 ]; then
+    echo "=========================================================================================="
+    echo "Cannot locate libtiff.so.3 OR libtiff.so.5"
+    echo "You will need to find a version of libtiff somewhere and make a symlink from /usr/lib/x86_64-linux-gnu/libtiff.so.3 to point to that file."
+    echo "Normally libtiff libraries live in /usr/lib/x86_64-linux-gnu/"
+    echo "So, go to that dir and see if you can find a version of libtiff.so."
+    echo "Then make a symlink to that file by using the command:"
+    echo "sudo ln -s  /usr/lib/x86_64-linux-gnu/libtiff.so.3"
+    echo "For example: sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.5 /usr/lib/x86_64-linux-gnu/libtiff.so.3"
+    echo "Good luck!"
+    echo "=========================================================================================="
+  else
+    ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.5 /usr/lib/x86_64-linux-gnu/libtiff.so.3
+  fi
+fi
+ 
+#Everything should work now... 
+echo "Installation Complete."
+echo ""
+echo "Start Mudbox Now?"
+read RUNNOW
+case "$RUNNOW" in
+  n*|N*)
+  echo "You can run mudbox any time by typing mudbox into the terminal"
+  exit 0;
+esac
+mudbox</pre>
+<p>&nbsp;</p>
+
+</div></div></div></div><div class = "tatsu-column-bg-image-wrap"><div class = "tatsu-column-bg-image" ></div></div></div><style>.tatsu-fuf8c52afc2zil5a.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay{mix-blend-mode: none;}.tatsu-fuf8c52afc2zil5a > .tatsu-column-inner > .tatsu-top-divider{z-index: 9999;}.tatsu-fuf8c52afc2zil5a > .tatsu-column-inner > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fuf8c52afc2zil5a > .tatsu-column-inner > .tatsu-left-divider{z-index: 9999;}.tatsu-fuf8c52afc2zil5a > .tatsu-column-inner > .tatsu-right-divider{z-index: 9999;}.tatsu-fuf8c52afc2zil5a.tatsu-column{transform: translate3d(0px,0px, 0);}</style></div></div></div></div><div class="tatsu-section-background-wrap"><div class = "tatsu-section-background" ></div></div><style>.tatsu-fuf8c529yqdtczfi .tatsu-section-pad{padding: 15px 0px 15px 0px;}.tatsu-fuf8c529yqdtczfi.tatsu-section{margin: 0px 0px 0px 0px;}.tatsu-fuf8c529yqdtczfi > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fuf8c529yqdtczfi > .tatsu-top-divider{z-index: 9999;}</style></div>]]></content:encoded>
+					
+					<wfw:commentRss>/2018/08/installing-autodesk-mudbox-2018-on-deepin-linux-15-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

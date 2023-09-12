@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>hacking &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/hacking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Wed, 15 Aug 2018 07:16:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>hacking &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Working on Linux: Restore Firefox&#8217;s normal behavior</title>
+		<link>/2018/08/working-on-linux-restore-firefoxs-normal-behavior/</link>
+					<comments>/2018/08/working-on-linux-restore-firefoxs-normal-behavior/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 07:16:06 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[linux]]></category>
+		<guid isPermaLink="false">/?p=3769</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div  class="tatsu-fugjj0q5vd3h8zhg tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"15px 0px 15px 0px"}' data-padding-top='15px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-fugjj0q643adc6fb" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image- tatsu-column-effect-  tatsu-fugjj0q6btau6ooy" data-animation="fadeIn"   data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-fugjj0q6ixkey8k  "><div class="tatsu-text-inner tatsu-align-center  clearfix" data-animation="fadeIn"  ><style>.tatsu-fugjj0q6ixkey8k.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;}</style><p></p><p><img decoding="async" fetchpriority="high" class="aligncenter size-full" src="https://cdn.pcsteps.com/wp-content/uploads/2015/04/Configure-Firefox-without-About-Config-with-an-Add-on-01.png" width="600" height="340" alt="Configure Firefox without About Config with an Add on 01" title="Working on Linux: Restore Firefox&#039;s normal behavior 1"></p><p>One of my main gripe when switching from Windows to Linux is that my favorite web browser Firefox doesn&#8217;t behave exactly the same way it does on Windows. Specifically, 2 things that bother me the most are:</p><p></p><p></p><ul><li>The Backspace button doesn&#8217;t go back to the previous page</li><li>Clicking on the url address bar doesn&#8217;t automatically highlight the entire line.</li></ul><p></p><p></p><p>Fortunately, it&#8217;s possible to change those behaviors simply by fiddling around with the settings a little bit. You&#8217;d want to go to your <strong><em>about:config </em></strong>page and change the following values:</p><p></p><p></p><ul><li>Find <strong>browser.backspace_action</strong> and set the value to <strong>0</strong> (default is 2 or something). This will make the backspace button behave as it does in Windows.</li><li>Find <strong>browser.urlbar.clickSelectAll </strong>and set the value to <strong>True</strong></li></ul><p></p><p></p><p>And that&#8217;s about it. Personally I can&#8217;t understand why the developer would choose to keep these little annoyances. If it was just for a versions or two then we could accept it as bug but it&#8217;s been many years since these behaviors were implemented. The fact they&#8217;re still there mean that they are intended. Maybe they were made by Mozilla devs who are actually Microsoft moles who want to low-key diminish the user experience in Linux, I guess we&#8217;ll probably never know.</p><p></p></div></div></div></div><div class = "tatsu-column-bg-image-wrap"><div class = "tatsu-column-bg-image" ></div></div></div><style>.tatsu-fugjj0q6btau6ooy.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay{mix-blend-mode: none;}.tatsu-fugjj0q6btau6ooy > .tatsu-column-inner > .tatsu-top-divider{z-index: 9999;}.tatsu-fugjj0q6btau6ooy > .tatsu-column-inner > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fugjj0q6btau6ooy > .tatsu-column-inner > .tatsu-left-divider{z-index: 9999;}.tatsu-fugjj0q6btau6ooy > .tatsu-column-inner > .tatsu-right-divider{z-index: 9999;}.tatsu-fugjj0q6btau6ooy.tatsu-column{transform: translate3d(0px,0px, 0);}</style></div></div></div></div><div class="tatsu-section-background-wrap"><div class = "tatsu-section-background" ></div></div><style>.tatsu-fugjj0q5vd3h8zhg .tatsu-section-pad{padding: 15px 0px 15px 0px;}.tatsu-fugjj0q5vd3h8zhg.tatsu-section{margin: 0px 0px 0px 0px;}.tatsu-fugjj0q5vd3h8zhg > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fugjj0q5vd3h8zhg > .tatsu-top-divider{z-index: 9999;}</style></div>]]></content:encoded>
+					
+					<wfw:commentRss>/2018/08/working-on-linux-restore-firefoxs-normal-behavior/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

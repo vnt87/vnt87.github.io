@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>stupid ux &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/stupid-ux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 06 Nov 2018 05:20:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>stupid ux &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sites with Bad UX Ep01</title>
+		<link>/2018/11/sites-with-bad-ux-ep01/</link>
+					<comments>/2018/11/sites-with-bad-ux-ep01/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 05:20:08 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[bad ux]]></category>
+		<category><![CDATA[dumb ux]]></category>
+		<category><![CDATA[stupid ux]]></category>
+		<guid isPermaLink="false">/?p=5569</guid>
+
+					<description><![CDATA[Skype: • Chat screen disabled while the app load latest message. What the actual fuck, I just want to scroll up like 3 lines to copy a phone number that [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h4>Skype:</h4>
+<div>• <strong>Chat screen disabled while the app load latest message.</strong></div>
+<div>What the actual fuck, I just want to scroll up like 3 lines to copy a phone number that I forgot to jot down, motherfucker. Why I have to wait for the latest message to load?</div>
+<div>• Instance of the app embedded in Franz or Station <strong>won&#8217;t be able to view full sized image unless you have Skype Web logged in AND get this, open in a tab in your browser!</strong> Who the stupid fuck thought it&#8217;s a good idea?</div>
+<div></div>
+<h4>Microsoft:</h4>
+<div>• <strong>Toast message uses an arrows instead of the timeless cross symbol</strong>, holy motherfuckingshit, one of the biggest tech companies in the world and still couldn&#8217;t afford a single UX designer.</div>
+<div>• If you use Windows 10 you know they come with a malware masquerading as an AV called <strong>Windows Defender</strong>. Since it&#8217;s an OS-bundled malware, it&#8217;s worse than other malwares in that it cannot be removed, only temporarily disabled. Just like their stupid motherfucking Update prompts (I guess, because I&#8217;ve never personally been bothered by one of those prompts before, but I&#8217;ve seen people raging about it on the Interwebs)</div>
+<div></div>
+<div></div>
+<p><span id="more-5569"></span></p>
+<h4>Alot of Windows installers:</h4>
+<div>• It&#8217;s 2018, stop fucking telling people to <strong>restart their computers</strong> to run your stupid motherfucking software after installation. Either find a way to have it function without restarting or get the fuck out of the software development industry.</div>
+<div></div>
+<div></div>
+<h4>Deepin Linux:</h4>
+<div>• Ok it&#8217;s probably not fair to pick on UX faults in a Linux operating system, but c&#8217;mon, it&#8217;s 2018, Linux deserves an equal chance. I dare say some Linux distros like Deepin had even surpassed Windows in term of UX (take the &#8216;disable touchpad when typing&#8217; and &#8216;disable touchpad when external mouse is plugged&#8217; for example, nobody working at Mountain View could&#8217;ve ever be good enough to come up with something like that).</div>
+<div>Having said that, the fact that the whole setting area is made into a sidebar instead of a dedicate dialog is just, well, dumb. I mean, who thought it a good idea to <strong>have your settings disappear whenever you switch to a different windows?</strong></div>
+<div>• This one is not Deepin but Linux&#8217;s quirk. It&#8217;s an unfixabled bug (or as most Linux fanatics would put it, a feature) that&#8217;s directly tied to the way permissions are handled under Linux. Say you downloaded a zip file, which contains a file that you&#8217;d need to drop into one of the folders located outside your own home folder, which would obviosly requires elevated admin rights, what would happen? In OS X, they prompt you to enter your admin password, which is exactly the same on Windows. This is the intuitive behavior that one would expect from a smart operating system. But Linux doesn&#8217;t think so, Linux thinks it&#8217;s just gonna<strong> throw out an error message saying you don&#8217;t have permission and terminate your action altogether, with no additional information to first timer on how to get the desired action done, or how to get elevated admin rights</strong>. This is why Linux fails as a mainstream operating systems, it lacks a smart, intuitive user flow. It&#8217;s shameful to think that even MS Windows, even though super late to the permission game, and is the slowest kid in the group, still managed to get it right before Linux)</div>
+<div></div>
+<div></div>
+<h4>Paypal:</h4>
+<div>• Me: hi there</div>
+<div>&#8211; PP: hey welcome to the world&#8217;s leading e-payment platform</div>
+<div>• Me: ooh, nice, so where can I add my credit card or my bank account to your platform?</div>
+<div>&#8211; PP: eh, what?</div>
+<div>• Me: how to add a credit card or a bank account to your system? You know, the most basic function that an e-payment platform provide?</div>
+<div>&#8211; PP: oh yeah we have that, but you&#8217;re not have to find it lol</div>
+<div>
+<div>• Me: what? But you have a bunch of easy access links here, surely it has to be one of these</div>
+<div>&#8211; PP: oh yeah, Paypal button, Paypal logo, tax calculator, API credentials, Invoice, the ability to pay 5,000 people at a time, all crucial stuffs</div>
+<div>• Me: and the ability to add a credit card or a bank account is not crucial enough to be listed here? Even though you literally have to do it before doing any of those shits?</div>
+<div>&#8211; PP: lol nah why would it be</div>
+<div>• Me: Ok fine I&#8217;ll find it myself</div>
+<div>*20 minutes later*</div>
+<div>
+<div>• Me: &#8230;I found it&#8230;</div>
+</div>
+<div>&#8211; PP: Bingo! Gratz!</div>
+<div>
+<div>• Me: &#8230;but why is it here?&#8230;</div>
+<div>&#8211; PP: isn&#8217;t it obvious? Any user who wants to add their credit card or bank account to our system would obviously want to <strong>click on the text that says Profile at the top of the page, and then click on their own name to be redirected to their own profile, and then click on the link that says Financial information on the tab opposite the screen, where they will find buttons to link their account</strong>?</div>
+<div>• Me: what the actual fuck? What the hell is wrong with your UX designer?</div>
+<div>&#8211; PP: What&#8217;s an UX designer?</div>
+<div>• Me: ???</div>
+<div>&#8211; PP: My boss did it all lol</div>
+<div>• Me: motherfucking stupid fucking little cocksucking piece of mother fucking dipshit</div>
+</div>
+<div></div>
+<div>
+<h4>Behance:</h4>
+<div>• On most sites, when you click on the little search icon, you either get a text field that you could use to search immediately, or a tiny little popup that contains said field. On Behance, one of the world&#8217;s premier sharing platform for UI/UX designers, how do they implement it? You never gonna guess.</div>
+<div><strong>The search icon takes you to a motherfucking new page!</strong></div>
+<div>I&#8217;m not kidding, check it out yourself, go to Behance homepage and click on the little searching glass icon on the top right corner and see for yourself.</div>
+<div>And it doesn&#8217;t simply present you with a blank, simple search page either, this &#8216;search&#8217; page has like 90% of its contends filled with various works, with feature images, like views and page views, you know, the same motherfucking view that you get on the front page. Basically they reload the front page but add a search field on the top instead of the Today&#8217;s WIP widget. I guess nobody informed Behance&#8217;s web designer that it&#8217;s no longer 1995.</div>
+<div></div>
+</div>
+</div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/11/sites-with-bad-ux-ep01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

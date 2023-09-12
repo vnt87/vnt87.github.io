@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Tips &amp; Tricks &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/category/tips-tricks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 22 Apr 2022 09:08:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>Tips &amp; Tricks &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About UX Research</title>
+		<link>/2022/04/about-ux-research/</link>
+					<comments>/2022/04/about-ux-research/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 22 Apr 2022 09:08:40 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<guid isPermaLink="false">/?p=21750</guid>
+
+					<description><![CDATA[There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There are two key parts to every UX design project: conducting research to learn about the users you’re designing for, and gathering feedback about their perspectives. UX design is all about putting the user first, and research helps designers understand those users.&nbsp;</p>
+
+
+
+<p><strong>UX research</strong> focuses on understanding user behaviors, needs, and motivations through observation and feedback. Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, <em>think</em> the user needs with what the user <em>actually</em> needs.&nbsp;</p>
+
+
+
+<p>Remember the product development life cycle from an earlier course of the program? The <strong>product development life cycle</strong> has five stages — brainstorm, define, design, test, and launch — that take an idea for an app, website, or product to its launch.&nbsp;</p>
+
+
+
+<p>Let’s check out how research fits into the product development life cycle.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/JHw9ulJ.png" alt="JHw9ulJ" title="About UX Research 1"><figcaption>About UX Research 5</figcaption></figure>
+
+
+
+<span id="more-21750"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/PlnIgEj.png" alt="icon of a person holding a magnifying glass; text reads: foundational research" title="About UX Research 2"><figcaption>About UX Research 6</figcaption></figure>
+
+
+
+<p><strong>Foundational research</strong> is always done <em>before</em> you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories, which you&#8217;ll learn about soon.&nbsp;</p>
+
+
+
+<p>In foundational research, your goal is to figure out what the user needs and how to address those needs with your product. Strong foundational research can contradict your personal perspective on what a good solution might be.&nbsp;</p>
+
+
+
+<p>Questions you might consider during foundational research include:</p>
+
+
+
+<ul><li>What should we build?</li><li>What are the user’s problems?</li><li>How can we solve those problems?</li><li>Am I aware of my own biases, and am I able to filter them as I do research?</li></ul>
+
+
+
+<p>There are lots of research methods for conducting foundational research, but many of them are based on observations. Common foundational research methods include:&nbsp;</p>
+
+
+
+<ul><li><strong>Interviews:</strong> A research method used to collect in-depth information on people&#8217;s opinions, thoughts, experiences, and feelings. You’ll often conduct interviews of your target users themselves.</li><li><strong>Surveys:</strong> An activity where many people are asked the same questions in order to understand what most people think about a product.</li><li><strong>Focus groups:</strong> A small group of people whose reactions are studied. For example, your focus group might bring together eight users to discuss their perspectives about new features in your design. A focus group is usually run by a moderator who guides the group on a certain topic of conversation.&nbsp;</li><li><strong>Competitive audit:</strong> An overview of your competitors’ strengths and weaknesses. You&#8217;ll conduct your own competitive audit later in the course, so you will understand this research method well!&nbsp;</li><li><strong>Field studies:</strong> Research activities that take place in the user&#8217;s context or personal environment, rather than in an office or lab.&nbsp;</li><li><strong>Diary studies:</strong> A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs.&nbsp;</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/X3SCz9i.png" alt="icon of a profile of a head with tools and icons coming out of the top; text reads: design research" title="About UX Research 3"><figcaption>About UX Research 7</figcaption></figure>
+
+
+
+<p><strong>Design research</strong> is done <em>while</em> you design. Within the product development lifecycle, design research happens during the design stage (stage three) to help inform your designs, to fit the needs of users, and to reduce risk. Each time you create a new version of your design, new research should be done to evaluate what works well and what needs to be changed.&nbsp;</p>
+
+
+
+<p>In design research, your goal is to answer the question: How should we build it?</p>
+
+
+
+<p>The amount of design research you conduct will vary depending on where you work and what you’re building. The most common method used to conduct design research is a <strong>usability study</strong>, which is a technique to evaluate a product by testing it on users. The goal of usability studies is to identify pain points that the user experiences with your prototypes, so the issues can be fixed before the product launches. You’ll conduct your own usability study in the next course of this certificate program.&nbsp;</p>
+
+
+
+<p>Additional research methods that might be used to conduct design research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong>: A research method that evaluates and compares two different aspects of a product to discover which of them is most effective. For example, you might have users evaluate two layouts for the homepage of your app to find out which layout is more effective.&nbsp;</li><li><strong>Cafe or guerrilla studies:</strong> A research method where user feedback is gathered by taking a design or prototype into the public domain and asking passersby for their thoughts. For example, you might sit in a local coffee shop and ask customers if they would be willing to test your app design for a couple of minutes and provide feedback.&nbsp;</li><li><strong>Card sorting: </strong>A research method that instructs study participants to sort individual labels written on notecards into categories that make sense to them. This type of research is largely used to figure out the information architecture of your project, which we’ll discuss in the next course of the program — Course 3: Build Wireframes and Low-Fidelity Designs.</li><li><strong>Intercepts: </strong>A research method that gathers on-site feedback from users as they engage in the activities being researched. Intercepts are often conducted in the field, so this type of research is often considered a subset of field research. An intercept study can provide quick, high-level feedback.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/htAJImN.png" alt="icon of a rocket ship in front of a laptop screen; text reads: post-launch research" title="About UX Research 4"><figcaption>About UX Research 8</figcaption></figure>
+
+
+
+<p><strong>Post-launch research</strong> is done <em>after</em> the design is complete and your product has launched. Within the product development life cycle, post-launch research happens after the launch stage (stage five) to help validate that the product is meeting user needs through established metrics.</p>
+
+
+
+<p>In post-launch research, your goal is to answer the question: Did we succeed? This research will tell you how your final product is performing based on established metrics, such as adoption, usage, user satisfaction, and more.&nbsp;</p>
+
+
+
+<p>You should use research methods that give insight into what the user thinks of your product and if their experience using your product aligns with how you intended it to function. Research methods you might use to conduct post-launch research include:</p>
+
+
+
+<ul><li><strong>A/B testing</strong></li><li><strong>Usability studies</strong></li><li><strong>Surveys</strong></li><li><strong>Logs analysis:</strong> A research method used to evaluate recordings of users while they interact with your design, tools, etc.&nbsp;</li></ul>
+
+
+
+<h2 class="wp-block-heading">The key to a user-focused product: Research</h2>
+
+
+
+<p>Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/04/about-ux-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Invalid Location&#8221; error when trying to add SynoCommunity Repo</title>
+		<link>/2021/10/invalid-location-error-when-trying-to-add-synocommunity-repo/</link>
+					<comments>/2021/10/invalid-location-error-when-trying-to-add-synocommunity-repo/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2021 03:57:48 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<guid isPermaLink="false">/?p=21578</guid>
+
+					<description><![CDATA[I presume you&#8217;re here from Google, trying to find a solution on why Synology DSM is not accepting SynoCommunity&#8216;s repo, returning a cryptic &#8220;Invalid Location&#8221; error. You&#8217;re probably running DSM [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>I presume you&#8217;re here from Google, trying to find a solution on why Synology DSM is not accepting <a href="https://synocommunity.com/" target="_blank" rel="noreferrer noopener">SynoCommunity</a>&#8216;s repo, returning a cryptic &#8220;<strong>Invalid Location</strong>&#8221; error. You&#8217;re probably running DSM 6.2.4 or older, and currently unable to upgrade to DSM due to uh, various considerations (*cough*xpenology*cough*).</p>
+
+
+
+<p>Turns out it&#8217;s a SSL error, not sure if it&#8217;s related to Let&#8217;s Encrypt&#8217;s root certificate <a href="https://techcrunch.com/2021/09/21/lets-encrypt-root-expiry/" target="_blank" data-type="URL" data-id="https://techcrunch.com/2021/09/21/lets-encrypt-root-expiry/" rel="noreferrer noopener">expiring a few weeks ago</a> knocking out a sizable chunk of the web, but thanks to @publicarray over on SynoCommunity&#8217;s Discord, we have a solution</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="142" src="/wp-content/uploads/2021/10/image-1024x142.png" alt="Publicarray&#039;s solution from Discord" class="wp-image-21579" srcset="/wp-content/uploads/2021/10/image-1024x142.png 1024w, /wp-content/uploads/2021/10/image-300x41.png 300w, /wp-content/uploads/2021/10/image-768x106.png 768w, /wp-content/uploads/2021/10/image-362x50.png 362w, /wp-content/uploads/2021/10/image-650x90.png 650w, /wp-content/uploads/2021/10/image-1000x138.png 1000w, /wp-content/uploads/2021/10/image-50x7.png 50w, /wp-content/uploads/2021/10/image.png 1360w" sizes="(max-width: 1024px) 100vw, 1024px" title="&quot;Invalid Location&quot; error when trying to add SynoCommunity Repo 9"><figcaption>Publicarray&#8217;s solution from Discord</figcaption></figure>
+
+
+
+<p>Here&#8217;s the SSH command for your convenience:</p>
+
+
+
+<span id="more-21578"></span>
+
+
+
+<pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">sudo mv /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/ca-certificates.crt.bak &amp;&amp; sudo curl -Lko /etc/ssl/certs/ca-certificates.crt https://curl.se/ca/cacert.pem</pre>
+
+
+
+<p>Obviously if you don&#8217;t have SSH access, you could always turn back the clock as he suggested. Either way it works!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="489" src="/wp-content/uploads/2021/10/image-1-1024x489.png" alt="SynoCommunity Packages" class="wp-image-21580" srcset="/wp-content/uploads/2021/10/image-1-1024x489.png 1024w, /wp-content/uploads/2021/10/image-1-300x143.png 300w, /wp-content/uploads/2021/10/image-1-768x366.png 768w, /wp-content/uploads/2021/10/image-1-1536x733.png 1536w, /wp-content/uploads/2021/10/image-1-105x50.png 105w, /wp-content/uploads/2021/10/image-1-650x310.png 650w, /wp-content/uploads/2021/10/image-1-1000x477.png 1000w, /wp-content/uploads/2021/10/image-1-50x24.png 50w, /wp-content/uploads/2021/10/image-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" title="&quot;Invalid Location&quot; error when trying to add SynoCommunity Repo 10"><figcaption>SynoCommunity Packages</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Update Oct 22, 2021</strong>:</p>
+
+
+
+<p>I&#8217;ve recently received a great tip from Freeman from <a href="https://jotographer.com/" target="_blank" data-type="URL" data-id="https://jotographer.com/" rel="noreferrer noopener">Jotographer</a> for executing the script without SSH access and NOT having to turn back the clock, here&#8217;s an excerpt from his email:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Simply &#8220;<strong>Create&#8221; > &#8220;Scheduled Task</strong>&#8221; > &#8220;<strong>User-defined script</strong>&#8220;. In the &#8220;<strong>General</strong>&#8221; tab, it doesn&#8217;t matter if the task is enable or not, but make sure the user is root. Then in the &#8220;<strong>Task Settings</strong>&#8221; tab, paste the script into the &#8220;<strong>User-defined script</strong>&#8221; field w/o sudo. Then click &#8220;<strong>OK</strong>&#8221; button to finish creating the task. Right click on the newly created task and select &#8220;<strong>Run</strong>&#8220;. After that the task can now be deleted.</p><cite>freeman@jotographer.com</cite></blockquote>
+
+
+
+<p>Thanks Freeman, and I apologize for the broken comment system on my site, I&#8217;m still working on it :D.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/10/invalid-location-error-when-trying-to-add-synocommunity-repo/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Install Photoshop CC on Linux</title>
+		<link>/2021/08/install-photoshop-cc-on-linux/</link>
+					<comments>/2021/08/install-photoshop-cc-on-linux/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 18 Aug 2021 02:35:52 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[adobe linux]]></category>
+		<category><![CDATA[adobe photoshop]]></category>
+		<category><![CDATA[adobe photoshop linux]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[photoshop cc]]></category>
+		<category><![CDATA[photoshop linux]]></category>
+		<guid isPermaLink="false">/?p=21544</guid>
+
+					<description><![CDATA[No, this is not GIMPShop or any other dirty hacks that attempt to make GIMP/Krita look or feel like Photoshop. This is the real Photoshop. And no, Adobe hasn&#8217;t changed [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" src="https://raw.githubusercontent.com/Gictorbit/photoshopCClinux/master/images/Screenshot.png" alt="Screenshot" title="Install Photoshop CC on Linux 11"><figcaption>Install Photoshop CC on Linux 12</figcaption></figure>
+
+
+
+<p>No, this is not GIMPShop or any other dirty hacks that attempt to make GIMP/Krita look or feel like Photoshop. This is the real Photoshop. And no, Adobe hasn&#8217;t changed their mind about making a native Linux version available either. As you may have guessed, despite the fancy new splash screen, this is just Photoshop CC running on Wine, but it has been repacked so the installer does everything for you. If you already have a PS + Wine in place there&#8217;s no need to read this.</p>
+
+
+
+<p>Bits of warning though, I&#8217;m not entirely sure this is legal since the authentication part appears to be bypassed also. While I do have an active subscription to Adobe CC, I haven&#8217;t been able to find a way to sign in with this. If this repo gets popular Adobe might kill it, so just keep that in mind.</p>
+
+
+
+<p>Anyway, you can find the instruction here in <a href="https://github.com/Gictorbit/photoshopCClinux" target="_blank" rel="noreferrer noopener">this Github</a>, I&#8217;m not going to mirror the instruction in this blog post (unless the repo goes down for some reason, in which case, let me know in a comment below)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/08/install-photoshop-cc-on-linux/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước</title>
+		<link>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/</link>
+					<comments>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 30 Jul 2021 07:41:28 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[shark]]></category>
+		<category><![CDATA[slow apt update]]></category>
+		<category><![CDATA[sources.list]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[ubuntu mirror]]></category>
+		<guid isPermaLink="false">/?p=20302</guid>
+
+					<description><![CDATA[The following post content will be written in Vietnamese since it addresses a specific problem that only affect Ubuntu users currently residing in Vietnam Mấy ngày hôm nay mấy anh [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><em>The following post content will be written in Vietnamese since it addresses a specific problem that only affect Ubuntu users currently residing in Vietnam</em></p>
+
+
+
+<p>Mấy ngày hôm nay mấy anh em dùng Ubuntu như tôi chắc khốn khổ vì chạy cái apt update cũng phải mất cả nửa ngày. Lí do thì vẫn như thường lệ, <a href="https://tienphong.vn/cap-quang-aag-gap-su-co-internet-di-quoc-te-bi-anh-huong-post1357028.tpo" data-type="URL" data-id="https://tienphong.vn/cap-quang-aag-gap-su-co-internet-di-quoc-te-bi-anh-huong-post1357028.tpo" target="_blank" rel="noreferrer noopener">cá mập cắn cáp AAG</a>, chuyện năm nào cũng xảy ra đều như vắt chanh mỗi năm khi đất nước có ngày hội lớn. Chúng ta bất lực với cá mập nhưng không có nghĩa chúng ta không có cách khác để giải quyết. Nếu các bạn check danh sách mirrors của Ubuntu sẽ thấy VN là 1 trong những nước có tương đối nhiều mirrors với 9 cái:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="190" src="/wp-content/uploads/2021/07/image-8-1024x190.png" alt="image 8" class="wp-image-20303" srcset="/wp-content/uploads/2021/07/image-8-1024x190.png 1024w, /wp-content/uploads/2021/07/image-8-300x56.png 300w, /wp-content/uploads/2021/07/image-8-768x143.png 768w, /wp-content/uploads/2021/07/image-8-269x50.png 269w, /wp-content/uploads/2021/07/image-8-650x121.png 650w, /wp-content/uploads/2021/07/image-8-1000x186.png 1000w, /wp-content/uploads/2021/07/image-8-50x9.png 50w, /wp-content/uploads/2021/07/image-8.png 1412w" sizes="(max-width: 1024px) 100vw, 1024px" title="Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 13"><figcaption>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 15</figcaption></figure>
+
+
+
+<p>Điều này có nghĩa chúng ta hoàn toàn có thể sử dụng mirrors trong nước để gia tăng tốc độ cho apt. Trong những phiên bản gần đây của Ubuntu chức năng tìm mirror đã được build luôn vào trong apt get nhưng ko được enable mặc định. Vì vậy để enable features này chúng ta cần thêm những dòng sau vào file <mark class="ghostkit-highlight">/etc/apt/sources.list</mark></p>
+
+
+
+<pre class="wp-block-preformatted">deb mirror://mirrors.ubuntu.com/mirrors.txt focal main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-updates main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-backports main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-security main restricted universe multiverse</pre>
+
+
+
+<p>(Lưu ý VD trên là dành cho Ubuntu 20.04, nếu các bạn dùng Ubuntu bản khác thì nhớ thay thế code name <em>focal </em>bằng code name của version tương ứng <em>Lucid, Precise</em> etc.)</p>
+
+
+
+<p>Chạy lại apt update và chứng kiến sự thay đổi kinh hoàng trong tốc độ:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="784" height="537" src="/wp-content/uploads/2021/07/image-9.png" alt="image 9" class="wp-image-20305" srcset="/wp-content/uploads/2021/07/image-9.png 784w, /wp-content/uploads/2021/07/image-9-300x205.png 300w, /wp-content/uploads/2021/07/image-9-768x526.png 768w, /wp-content/uploads/2021/07/image-9-73x50.png 73w, /wp-content/uploads/2021/07/image-9-650x445.png 650w, /wp-content/uploads/2021/07/image-9-50x34.png 50w" sizes="(max-width: 784px) 100vw, 784px" title="Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 14"><figcaption>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 16</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Overcoming impostor syndrome</title>
+		<link>/2021/07/overcoming-impostor-syndrome/</link>
+					<comments>/2021/07/overcoming-impostor-syndrome/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 12:54:33 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[imposter syndrome]]></category>
+		<guid isPermaLink="false">/?p=16742</guid>
+
+					<description><![CDATA[Have you ever felt like you aren’t quite good enough, even though you actually are? Feeling like you aren’t good enough to do a certain job or mingle with certain [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Have you ever felt like you aren’t quite good enough, even though you actually are? Feeling like you aren’t good enough to do a certain job or mingle with certain people happens to more people than you might think. In fact, feeling this way is so common that it even has a name: impostor syndrome.</p>
+
+
+
+<p><strong>Impostor syndrome</strong> is the belief that you’re unskilled, inferior to others, or bad at your job, despite your successes. We’ve all felt impostor syndrome at some point in our lives. If you’re feeling impostor syndrome, you’re certainly not alone!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/YhebYBq.png" alt="YhebYBq" title="Overcoming impostor syndrome 17"><figcaption>Overcoming impostor syndrome 19</figcaption></figure>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Effects of impostor syndrome</h5>
+
+
+
+<p>Impostor syndrome can cause anxiety and low confidence that can stop you from becoming the most successful version of yourself. Impostor syndrome can manifest in many ways, and each person’s experience is unique. You might have seen or personally experienced impostor syndrome in situations like:&nbsp;</p>
+
+
+
+<span id="more-16742"></span>
+
+
+
+<ul><li>Not applying to jobs unless you meet every requirement (even though you totally don’t have to!).</li><li>Taking on extra work to make sure you’re “doing it all” and to look more capable in front of your peers.</li><li>Not attending networking events or career fairs because you’re nervous or anxious.</li><li>Downplaying your abilities during conversations.</li><li>Shrugging off compliments because you don’t believe them.</li></ul>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Manage impostor syndrome</h5>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/ySPqdCv.png" alt="ySPqdCv" title="Overcoming impostor syndrome 18"><figcaption>Overcoming impostor syndrome 20</figcaption></figure>
+
+
+
+<p>We want you to meet new people with confidence and without letting impostor syndrome get in the way. Here are a few pro tips to manage those anxious feelings:</p>
+
+
+
+<ul><li><strong>Acknowledge your thoughts.</strong> Recognize how you’re feeling, and try to pinpoint why you’re feeling that way. This will help you figure out what triggers your impostor syndrome, so that you can better manage it in the future.</li><li><strong>Own your accomplishments. </strong>You have your own unique perspectives and experiences. Think of all of the accomplishments and skills that make you different from the next person. Write them down in a list so that you can see just how much you have to talk about when you network. You have plenty to offer, so go into conversations with confidence!</li><li><strong>Be honest with yourself. </strong>Do a realistic evaluation of your strengths and weaknesses. Finding areas that create the feeling of not “being good enough” and working to improve them will help you feel more confident in yourself. <em>Everyone</em> has areas where they can improve, and there’s always more to learn, so don’t let your weaknesses hold you back.</li><li><strong>Have a conversation.</strong> Ask a trusted mentor, friend, or seasoned professional how they handle impostor syndrome.</li><li><strong>Wear something that makes you feel confident.</strong> Looking good helps you feel good. If you’re going to an in-person networking event, put on your favorite professional attire so that you feel like the best version of yourself.</li><li><strong>Help someone else. </strong>Sharing the knowledge that you have with others helps you feel more valuable. This could be giving advice to someone less experienced than you or sharing a unique experience with one of your peers. If you think you don’t have anything to offer anyone else, refer back to the list you made earlier.</li><li><strong>Fake it till you make it. </strong>Even if you don’t feel confident in your abilities as a designer, if you <em>act </em>confident for long enough, eventually it will become second nature to you. People are naturally drawn to confident individuals, so acting confidently will likely help you make even more connections within your workplace and the UX community.&nbsp;</li><li><strong>Go with a friend.</strong> Attending networking events with someone you know can help you feel less overwhelmed and nervous.</li><li><strong>Get to know people.</strong> Becoming more familiar with other UX professionals will make you feel less out of place. You’ll come to realize that experienced UX designers aren’t as intimidating as they may initially seem! This will help you feel less nervous in the future when you meet other people.&nbsp;</li><li><strong>Know that you&#8217;re not alone.</strong> If you’re going to a networking event, or you’re starting a group project with people you don’t know, you won’t be the only one who feels they don’t belong. Being around experienced professionals can be intimidating, even if you’re one yourself! Plus, even the most experienced UX designers were once in your shoes. We all started somewhere.&nbsp;</li></ul>
+
+
+
+<p>Networking and growing your career is all about learning, <em>not</em> about being perfect. Don’t hold yourself to unreasonable standards. Instead, work to be the best designer you can be, be confident in who you are, and keep growing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/overcoming-impostor-syndrome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What is a retrospective?</title>
+		<link>/2021/06/what-is-a-retrospective/</link>
+					<comments>/2021/06/what-is-a-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:53:46 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[retro]]></category>
+		<category><![CDATA[retro questions]]></category>
+		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[sprint]]></category>
+		<guid isPermaLink="false">/?p=16188</guid>
+
+					<description><![CDATA[If you operate in an Agile/Scrum work pipeline, at the end of each sprint you&#8217;ll be asked to participate in a &#8216;retrospective&#8217; meeting (or &#8216;retro&#8217;, for short). A retrospective is [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>If you operate in an Agile/Scrum work pipeline, at the end of each sprint you&#8217;ll be asked to participate in a &#8216;retrospective&#8217; meeting (or &#8216;retro&#8217;, for short). </p>
+
+
+
+<p>A <strong>retrospective</strong> is a collaborative critique of the design sprint. The goal of a retrospective is to make sure everyone who took part in the sprint has the chance to give feedback and think about opportunities for improvement.&nbsp;</p>
+
+
+
+<p>The key questions to ask during a retrospective are:&nbsp;</p>
+
+
+
+<ol><li>What went well?&nbsp;</li><li>What can be improved?&nbsp;</li></ol>
+
+
+
+<p>Answering these questions will help you work better as a team and as an individual. Make sure everyone feels empowered to share their experiences, and that personal identifiers, like race or gender, don’t prevent members from being honest. Before the retrospective begins, tell the group that any feedback provided will be used to reflect on the experience and improve the process for the next sprint.&nbsp;</p>
+
+
+
+<span id="more-16188"></span>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/huLUCs7.png" alt="A graphic of a shining trophy with the text &quot;what went well?&quot; written underneath" title="What is a retrospective? 21"><figcaption>What is a retrospective? 24</figcaption></figure>
+
+
+
+<p>Start the retrospective by discussing the parts of the design sprint that were successful and areas where the team did well. Maybe a new process was created that could be applied to future sprints. Or maybe the addition of a new digital tool enhanced the team’s productivity. Analyze your team’s wins, and think about how they could be applied to future sprints.</p>
+
+
+
+<p>Questions you might ask during this part of the retrospective include:</p>
+
+
+
+<ul><li>Which tools saved you the most time and effort?</li><li>When did you feel the most satisfaction?</li><li>What helped you make your best contribution to the team during this sprint?</li></ul>
+
+
+
+<p>This is also a good time to acknowledge a team member’s strong performance. Celebrating successes builds relationships and increases cohesion and harmony within the team!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/fBxL8qQ.png" alt="" title="What is a retrospective? 22"><figcaption>What is a retrospective? 25</figcaption></figure>
+
+
+
+<p>After highlighting everything that went well, it’s time to shift gears and think about areas for improvement. Your team will want to know what went wrong, so that you all can do better next time.&nbsp;</p>
+
+
+
+<p>Encourage everyone to participate in sharing areas for improvement. You might even take turns going around a circle and adding challenges to a shared list. If anyone is nervous about speaking up, invite each person to write their thoughts anonymously on individual sticky notes. Then, all of the improvements can be reviewed together. This eliminates concerns about causing offense and reduces the chance of groupthink. <strong>Groupthink </strong>can occur in a group discussion when one person shares an opinion and everyone immediately agrees with the opinion, instead of sharing their own feelings about a topic. Groupthink prevents each person from having an equal say, and it might mean certain areas for improvement are overlooked.</p>
+
+
+
+<p>Consider each phase of the design sprint to structure the feedback: understand, ideate, decide, prototype, and test. At what point were there missteps? What caused those challenges? Share your perspective if a phase or two didn’t go according to plan.&nbsp;</p>
+
+
+
+<p>Questions you might ask during this part of the retrospective include:</p>
+
+
+
+<ul><li>What went wrong that caught you off guard?</li><li>Which problems came up the most often?</li><li>When do you think we experienced the biggest challenge as a team?</li></ul>
+
+
+
+<p>Then, examine the sprint’s outcome or final product, and ask questions like:</p>
+
+
+
+<ul><li>Did the team overestimate or underestimate the work required to complete the design?</li><li>Did an external factor derail your productivity?</li><li>And most importantly, does the final design actually solve the user problem?</li></ul>
+
+
+
+<p>Identify ways that the team could have ended up with a better solution.&nbsp;</p>
+
+
+
+<p>Keep in mind, retrospectives are about empowering, not shaming. This is not the time to call out an individual for poor performance. If you have issues with a team member’s work, it’s best to address it with that person privately, not during a team-wide retrospective.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/9a98S4Y.png" alt="An icon of a file, a piece of paper and a pencil. Text underneath reads &quot;lessons learned&quot;" title="What is a retrospective? 23"><figcaption>What is a retrospective? 26</figcaption></figure>
+
+
+
+<p>By the end of the retrospective meeting, your team will have a better understanding of what went well and what could be improved. Naturally, you’ll want to take lessons learned into your next design sprint.&nbsp;</p>
+
+
+
+<p>Before your next sprint, review the conclusions you reached at the end of the last retrospective. Your conclusions should inform how you conduct the next sprint. Perhaps you need to include a more diverse team, allow more time for ideating, or test with additional users before moving forward with a design.</p>
+
+
+
+<p>Questions you might ask include:</p>
+
+
+
+<ul><li>What did you discover during the sprint that you’re still wondering about?</li><li>How could the current process be holding the team back from creating better solutions?</li></ul>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Takeaways</h5>
+
+
+
+<p>Remember: Speak up and share your suggestions for how the next design sprint could be better. Don’t be afraid to suggest anything you think will improve the project or next sprint. The only bad suggestion is the one not shared!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/what-is-a-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Designing for Multiple Platforms: The Four Cs Principle</title>
+		<link>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/</link>
+					<comments>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 14:18:21 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[4cs]]></category>
+		<category><![CDATA[design for multiple platforms]]></category>
+		<category><![CDATA[four cs]]></category>
+		<category><![CDATA[multiplatform]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">/?p=15666</guid>
+
+					<description><![CDATA[Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs account for and take full advantage of the unique features of each platform. When preparing to design across platforms, it’s helpful to keep in mind the four Cs: consistency, continuity, context, and complementary. &nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/K7Mm2uf.png" alt="Graphic from the point of view of someone looking at their hands on a laptop. They are holding a phone and wearing a watch." title="Designing for Multiple Platforms: The Four Cs Principle 27"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 31</figcaption></figure>
+
+
+
+<p><strong>Consistency</strong>: Most companies have specific design guidelines that need to be followed in order to stay consistent with their brand identity, which refers to the visual appearance and voice of a company. When designing a product, it’s essential to stay true to the company’s brand guidelines in order to maintain consistency across platforms and drive brand awareness. Maintaining a consistent design helps improve the user experience and build trust, because users can expect the design to feel familiar across platforms and products.</p>
+
+
+
+<span id="more-15666"></span>
+
+
+
+<p>Take Google, for example. No matter which Google product or platform you use, you’ll find the colors red, blue, yellow, and green incorporated throughout the design. These visual design details are an essential part of building consistency, trust, and user loyalty.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/anDZpkx.png" alt="A graphic of a laptop and a phone next to each other. On the laptop, there&#039;s an email draft. Same draft is on the phone." title="Designing for Multiple Platforms: The Four Cs Principle 28"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 32</figcaption></figure>
+
+
+
+<p><strong>Continuity</strong>: To provide users with a seamless experience as they move between platforms, UX designers also have to prioritize continuity. Continuity in design means that users can maintain their progress as they move from one platform to the next. The user experience for each platform might be slightly different, but the product’s functionality should still be connected. Without continuity, users can become frustrated if the progress of their experience does not carry across platforms.</p>
+
+
+
+<p>For example, imagine you’re designing a website and app for emails. A user should be able to start writing an email on their laptop, save it as a draft, and finish that email later on their mobile phone.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/SVmWy8S.png" alt="A graphic of a laptop screen next to a smart watch screen. Email appears on laptop, notification appears on the watch." title="Designing for Multiple Platforms: The Four Cs Principle 29"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 33</figcaption></figure>
+
+
+
+<p><strong>Context</strong>: It’s also important to consider the context of each platform you’re designing for. This means thinking about when and how users prefer to interact with certain features on different platforms.&nbsp;</p>
+
+
+
+<p>For example, imagine that a user has an email app on both their laptop and smartwatch. They’re probably not going to compose an entire email on their small smartwatch screen, but they might still want to get notifications about new emails or read important messages. Designers have to take into account the context of the user’s situation and adapt the design for each platform accordingly.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/gZPHxAm.png" alt="A graphic of a laptop next to a phone screen. On the laptop, hands are typing an email. On the phone, they are adding images" title="Designing for Multiple Platforms: The Four Cs Principle 30"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 34</figcaption></figure>
+
+
+
+<p><strong>Complementary</strong>: One way to create a great cross-platform user experience is to make sure that the design of each platform adds something new for the user.&nbsp;</p>
+
+
+
+<p>For example, imagine you have a family member who lives abroad that you keep in touch with over email. You might write most of your emails to them through the desktop version of the product, but you might build on those emails using the product’s mobile app, which has features like adding photos directly from your phone. Taking into account how each platform could uniquely enrich the overall user experience is the best way to create complementary UX designs.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Examples of cross-platform experiences</h5>
+
+
+
+<p>Now that you have the hang of designing across platforms, check out some real-world examples of products with stellar cross-platform user experiences.&nbsp;&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">YouTube&nbsp;</h5>
+
+
+
+<p>For a lot of people, <a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener"><u>YouTube</u></a> is a go-to source for watching endless hours of video content. The YouTube mobile viewing experience complements and smoothly transitions from a desktop browser. For example, the mobile app elevates YouTube’s “‘Watch History” feature, which allows users to continue watching from the place they left off in videos, on any device. In the mobile phone app, users can also access all of their playlists and upload videos directly to their channel, just like they would on a computer.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">WebMD</h5>
+
+
+
+<p><a href="https://www.webmd.com/" target="_blank" rel="noreferrer noopener"><u>WebMD</u></a> is a healthcare website where users can learn about the symptoms, diagnosis, and treatments related to a wide variety of medical conditions. The WebMD “Symptom Checker” allows users to click on certain areas of a body map and get a list of possible symptoms associated with those body parts. For example, a user can indicate that they’re experiencing heartburn as a symptom by clicking on the chest of the virtual body, and selecting “heartburn” from the provided list. On a mobile phone, this feature is simplified to account for the smaller screen size, but still provides the same basic functionality. On a desktop or laptop computer, this feature is more in-depth and extensive, and lays out the content differently.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Airbnb</h5>
+
+
+
+<p><a href="https://www.airbnb.com/" target="_blank" rel="noreferrer noopener"><u>Airbnb</u></a> is an online rental platform where users can list their own space to rent or book a stay in someone else’s space. Think of Airbnb like a hotel, but you stay in actual homes, instead of a commercial building. The Airbnb user experience on a desktop computer is straightforward and similar to other rental sites, where you can filter your search based on your needs. The mobile app seamlessly integrates these same features and allows for continuity throughout the booking process. You can even get Airbnb notifications on your smartwatch, which is really handy as you’re traveling to your destination.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My UX Design Toolbox</title>
+		<link>/2021/06/my-ux-design-toolbox/</link>
+					<comments>/2021/06/my-ux-design-toolbox/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 09:25:40 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[adobe after effects]]></category>
+		<category><![CDATA[adobe xd]]></category>
+		<category><![CDATA[Design Toolbelts]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[UX Design Tools]]></category>
+		<guid isPermaLink="false">/?p=15627</guid>
+
+					<description><![CDATA[Just like carpenters rely on different tools for different tasks, so do UX designers. Start adding some tools to your digital toolbox and explore a few of the most popular [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Just like carpenters rely on different tools for different tasks, so do UX designers. Start adding some tools to your digital toolbox and explore a few of the most popular programs that you might use as an entry-level UX designer.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/9RMZiVf.png" alt="A person with long hair stands in front of toolbox holding a laptop. Text above reads wireframing and prototyping tools" title="My UX Design Toolbox 35"><figcaption>My UX Design Toolbox 39</figcaption></figure>
+
+
+
+<p>Early in your UX design career, you’ll likely spend a lot of time creating wireframes and prototypes.</p>
+
+
+
+<ul><li>A <strong>wireframe</strong> is an outline or a sketch of a product or a screen. Wireframes help designers figure out how a page is arranged, where each piece of a product fits in with the others, and how users will likely interact with the product.</li><li>A <strong>prototype</strong> is an early model of a product that demonstrates functionality.</li></ul>
+
+
+
+<p>You’ll learn much more about wireframes and prototypes, and create your own, as you progress through this certificate program.&nbsp;</p>
+
+
+
+<p>There are tons of digital tools available to help you design wireframes and prototypes. The most popular tools among them are Figma and Adobe XD due to their availability:</p>
+
+
+
+<span id="more-15627"></span>
+
+
+
+<ul><li><a href="https://www.figma.com/design/" target="_blank" rel="noreferrer noopener"><strong><u>Figma</u></strong></a> is a widely used, all-in-one wireframing and prototyping tool that allows for real-time collaboration among multiple team members. This makes Figma ideal for designers working remotely and for teams with members in different locations. Figma is versatile and customizable, with plenty of features to speed up the design process. The greatest thing about Figma is its availability. Being a web app, Figma is capable of running on pretty much every computer in existence, regardless of its operating systems (even Linuxes), as long as it is capable of running a modern browser.</li><li><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer noopener"><strong><u>Adobe XD</u></strong></a> is great for editing graphics, building prototypes, and collaborating with other people on your team. It has particularly robust features for tasks that happen during the later stages of UX design, as you get into what we call high-fidelity designs. Unlike Figma which was built on web technologies, Adobe XD is still a traditional desktop application which mean you will need to be running the latest version of either OS X or Windows to be able to use it.</li><li><a href="https://www.sketch.com/" target="_blank" rel="noreferrer noopener"><strong><u>Sketch</u></strong></a> was formerly an extremely popular wireframing and prototyping tool in the UX community. However Sketch can only run on Mac OS X, which means most UX designers will not be able to use it even if they want to (although they recently added a web version to alleviate that somewhat). This couples with the fact that Sketch does not have a free version like Figma or Adobe XD has caused Sketch&#8217;s popularity to crumble in recent years. This was a situation similarly faced by <a href="https://www.framer.com/why-framer/" target="_blank" rel="noreferrer noopener"><strong><u>Framer</u></strong></a>, arguably one of the most advanced UX design tools. Framer used to be a paid-only Mac application just like Sketch, but their development team quickly realized such high barrier to entry will severely limit their user base and eventually fade from existence like Sketch. Today Framer is available on both Mac (even the new M1 variant) and Windows, with a free tier similar to Figma.</li></ul>
+
+
+
+<p>And of course, there are other tools like UXPin, InVision, MarvelApp that you can discover on your own</p>
+
+
+
+<p>Keep in mind that the UX design industry changes often, and so do design tools. Many of the skills we’ll explore as part of this program are transferable, meaning once you know the basics in one tool, like Figma or Adobe XD, that knowledge will transfer to other design tools that look and feel quite similar.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/pUcKZM7.png" alt="A person holding a megaphone stands in front of a toolbox. Text above reads &quot;presentation tools&quot;" title="My UX Design Toolbox 36"><figcaption>My UX Design Toolbox 40</figcaption></figure>
+
+
+
+<p>During the early, conceptual phases of the design process, you don’t always need to use tools that were specifically made for UX design. In fact, some designers prefer working within the relative simplicity of presentation programs, especially when they’re creating wireframes. Most presentation tools also have live collaboration features, so team members can interact with each other and collaborate on the designs. Here are three of the most popular presentation tools from Google, Microsoft, and Apple:</p>
+
+
+
+<ul><li><a href="https://slides.com/" target="_blank" rel="noreferrer noopener"><strong>Slides.com</strong></a> (or <strong><a href="https://slid.es/" target="_blank" data-type="URL" data-id="https://slid.es/" rel="noreferrer noopener">slid.es</a></strong>) is my top choice. It&#8217;s dead simple. It&#8217;s available everywhere. Use it.</li><li><a href="https://workspace.google.com/products/slides/" target="_blank" rel="noreferrer noopener"><strong><u>Google Slides</u></strong></a> is a web-based presentation program included in Google Workspace, Google’s suite of productivity software. Google Slides is free, and anyone with a Google account can create or edit Slides presentations.</li><li><a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer noopener"><strong><u>Microsoft PowerPoint</u></strong></a> was one of the first presentation programs created, and it’s still very widely used. PowerPoint is part of the Microsoft 365 program package and comes in both offline and online versions. Although anyone can view a PowerPoint presentation online, you have to own the product to create or edit a presentation.</li><li><a href="https://www.apple.com/keynote/" target="_blank" rel="noreferrer noopener"><strong><u>Keynote</u></strong></a> is Apple’s presentation program, and a lot of people consider its templates to be the most visually appealing. It’s also available both online and offline. Although Keynote was created for Apple devices like Macs and iPads, it can be used on a PC, as well. Similar to PowerPoint, you have to own the product to make edits or create new presentations in Keynote.</li></ul>
+
+
+
+<p>In many instances, presentation tools are a matter of preference. Feel free to try out many of them, and pick whichever you feel most comfortable working with!</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/flUQ67q.png" alt="A person holding a camera and scissors and standing in front of a toolbox. Text above: image creation and manipulation tools" title="My UX Design Toolbox 37"><figcaption>My UX Design Toolbox 41</figcaption></figure>
+
+
+
+<p>As you develop your designs, you might need to use tools to create, manipulate, and integrate images and illustrations. Here are two of the most popular image creation and manipulation tools:&nbsp;</p>
+
+
+
+<ul><li><a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer noopener"><strong><u>Affinity Designer</u></strong></a> is primarily used for drawing vector images. <strong>Vector images </strong>(or SVGs) are images created using points, curves, lines, and shapes to produce perfectly smooth lines. This makes it easy to edit and resize images in Illustrator. As an entry-level UX designer, you can use Adobe Illustrator to draw prototypes and illustrations for your designs.</li><li><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer noopener"><strong><u>Affinity Photo</u></strong></a> works primarily with photos, known as raster images. These images are composed of thousands, or even millions, of pixels, the smallest unit of display on a computer screen. While its cousin Illustrator is a better tool for creating an image from scratch, Photoshop has more uses, including image manipulation across file types, saving images for digital publishing, and even presentations.</li></ul>
+
+
+
+<p>Now you might be confused with those familiar names. Normally you&#8217;d expect to see Adobe Illustrator and Adobe Photoshop filling those slots, and for good reasons. They are decidedly better tools. However Adobe&#8217;s decision to put them in a subscription model had effectively killed them for the smaller independent designers like myself. I&#8217;m not sponsored by them or anything, it&#8217;s just that compare to Adobe, I like Affinity&#8217;s perpetual pricing model MUCH better.</p>
+
+
+
+<p>There&#8217;s also Gravit Design which was a great project back in the day. It works with both vector and raster images, and it runs on the web! Just like Figma, it can be configured to be used as a desktop application with Electron. Unfortunately it was bought out by Corel, which means it will eventually meet the same fate as Ulead PhotoImpact or JASC Paint Shop Pro. It was a shame really, seeing how it could&#8217;ve overtaken GIMP and Krita as the de facto image editor on Linux.</p>
+
+
+
+<p>In all honesty though, most basic image manipulation can already be done in your screen design tool. Figma can handle both SVG Vector and raster images just fine. It can cut, crop, resize, even do basic color correction there. Only use AI and PS if you want to create something more hardcore, because let&#8217;s face it, they are massive resource hogs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/OOjd7BE.png" alt="A person holding a slate while standing in front of a toolbox. Text above reads: animation tools" title="My UX Design Toolbox 38"><figcaption>My UX Design Toolbox 42</figcaption></figure>
+
+
+
+<p>Creating animations can be a great way to showcase the more interactive elements of your designs. For example, you could create a Graphics Interchange Format (GIF) to demonstrate how a user might interact with the homepage of an app you’re designing. There are many programs that UX designers can use to create animations, but here are a couple to highlight:</p>
+
+
+
+<ul><li><a href="https://lottiefiles.com/" target="_blank" rel="noreferrer noopener"><strong><u>Lottie</u></strong></a> is a tool that helps you edit and ship your animations in just a few clicks. Animation files formatted in Lottie, also known as LottieFiles, use less file space on your hard drive since they are code-based. On Lottie, you can also explore animations created by other designers for inspiration or use. </li><li><a href="https://www.adobe.com/products/aftereffects.html?sdid=KKQOW&amp;mv=search&amp;kw=test&amp;ef_id=Cj0KCQjwuL_8BRCXARIsAGiC51CSU9gu_SrVG40X-2ClEFnFfKuEKYYQ4kOtlm6F3Y4Kon1hf5z6oSwaAvXLEALw_wcB:G:s&amp;s_kwcid=AL!3085!3!469900475182!e!!g!!adobe%20after%20effects&amp;gclid=Cj0KCQjwuL_8BRCXARIsAGiC51CSU9gu_SrVG40X-2ClEFnFfKuEKYYQ4kOtlm6F3Y4Kon1hf5z6oSwaAvXLEALw_wcB" target="_blank" rel="noreferrer noopener"><strong><u>Adobe After Effects</u></strong></a> is often used to add motion graphics and visual effects to designs. For example, UX designers might utilize Adobe After Effects to make text move across the screen or create transitions between pages.</li><li><strong><a href="https://rive.app/" target="_blank" data-type="URL" data-id="https://rive.app/" rel="noreferrer noopener">Rive.app</a></strong> is a spanking new entry into the market. It is used to create smooth animations. Especially popular among those who&#8217;s looking into developing Flutter applications</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/my-ux-design-toolbox/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Common UX Design Frameworks (part 2): Lean UX and Double Diamond</title>
+		<link>/2021/06/common-ux-design-frameworks-part-2-lean-ux-and-double-diamond/</link>
+					<comments>/2021/06/common-ux-design-frameworks-part-2-lean-ux-and-double-diamond/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 02:57:00 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<guid isPermaLink="false">/?p=15039</guid>
+
+					<description><![CDATA[Following the previous post, today we&#8217;ll be talking about 2 more UX Design frameworks. Lean UX&#160; The Lean UX process focuses on reducing wasted time and resources, and producing a [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Following the <a href="/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/" data-type="post" data-id="15022">previous post</a>, today we&#8217;ll be talking about 2 more UX Design frameworks.</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">Lean UX&nbsp;</h4>
+
+
+
+<p>The Lean UX process focuses on reducing wasted time and resources, and producing a workable product as soon as possible. The process is iterative, meaning the team continues to update and make revisions to the product as they gather user research and stakeholder feedback.</p>
+
+
+
+<p>The Lean UX process is broken into three steps:&nbsp;</p>
+
+
+
+<p><strong>Think.</strong> Explore the problems that users are experiencing and consider how you could solve them with your design. This step is all about gathering research, so you can form a clear idea of who the product is for and how it will help them.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>Make. </strong>Start designing the product by creating sketches, wireframes, and prototypes. You’ll also create a minimum viable product, or MVP for short, which is a simple prototype of your designs that you can test with the target audience. Be prepared to go back and update your prototype as you gather feedback!</p>
+
+
+
+<p><strong>Check. </strong>Find out how users respond to your design and gather feedback from project stakeholders. Make adjustments to your designs accordingly, and repeat the three steps again, if necessary.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/q2FHVJe.png" alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LoTVh-MXRrqE1YfjFwa6VA_84ea0180d9af4f58ae003ec3df328fa2_Screenshot-2021-03-02-at-11.36.43-PM.png?expiry=1624147200000&amp;hmac=zVH8GLRLG-Mw2cTVwBOMMPgBYUmZdBY60Y_EFfeLpPg" title="Common UX Design Frameworks (part 2): Lean UX and Double Diamond 43"><figcaption>Common UX Design Frameworks (part 2): Lean UX and Double Diamond 45</figcaption></figure>
+
+
+
+<p>These steps are meant to be repeated as many times as needed, until your team reaches the desired final product. The Lean UX process encourages productivity and collaboration. Lean UX teams are typically cross-functional, which means you’ll be working alongside team members like engineers and UX researchers.</p>
+
+
+
+<span id="more-15039"></span>
+
+
+
+<p>There are six principles you should keep in mind when using the Lean UX process:</p>
+
+
+
+<ol><li><strong>Move forward.</strong> Focus only on design elements and features that move the design process toward a particular goal. Don’t get distracted by “nice-to-haves.”&nbsp;</li><li><strong>Stay curious.</strong> Lean UX is about using feedback from users and stakeholders to revise and improve your designs. Continuously seek feedback to understand why specific design choices work or don’t work.</li><li><strong>Test ideas in the real world.</strong> Lean UX encourages designers to test their ideas &#8211; using prototypes, for example &#8211; outside of the conference room and with potential users.</li><li><strong>Externalize your ideas.</strong> Instead of internally debating and analyzing whether or not an idea is going to work, turn your ideas into something physical, viewable, and testable, while they’re still fresh in your mind. This way, you’ll get feedback on your designs in the early stages, when diverse perspectives and feedback are most helpful.&nbsp;</li><li><strong>Reframe deliverables as outcomes.</strong> Focus on creating usable, enjoyable products that users actually want and need. Always keep in mind that you’re designing for your users first-and-foremost, not for the project stakeholders.</li><li><strong>Embrace radical transparency.</strong> Feel comfortable being honest with everyone on the team (and expect the same in return), since you will depend on each other’s insights. This way, everyone can make informed decisions about how to move forward and avoid wasting time and energy.&nbsp;</li></ol>
+
+
+
+<p>The Lean UX process is all about following your intuition, putting your ideas out there, and staying open to constant feedback and revisions. It’s not about getting it right the first time! Instead, Lean UX is about collaborating and incorporating feedback.</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">Double Diamond&nbsp;</h4>
+
+
+
+<p>Double Diamond is a more traditional UX process, which breaks down UX design into two main phases (or “diamonds”): research and design. Each phase has two steps. When combined, these are the four steps:</p>
+
+
+
+<ol><li><strong>Discover the problem. </strong>Gather information about potential issues users are facing.</li><li><strong>Define the problem. </strong>Filter through the data, and focus on the main issue your product aims to solve.</li><li><strong>Develop solutions for the problem. </strong>Begin designing your product as a work in progress. This is where wireframes and prototypes come into play.</li><li><strong>Deliver the product. </strong>Review and test your product to prepare it for release.</li></ol>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/GVAcru2.png" alt="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/vO_Y3qYRSI-v2N6mEbiPHA_a66aebbde23443c9a1d2504ef67e899e_Screen-Shot-2021-03-08-at-11.54.45-AM.png?expiry=1624147200000&amp;hmac=Sp9w2JhER05k_tIByKrZmcXsA2F-UQFmEFrPOCEJKAw" title="Common UX Design Frameworks (part 2): Lean UX and Double Diamond 44"><figcaption>Common UX Design Frameworks (part 2): Lean UX and Double Diamond 46</figcaption></figure>
+
+
+
+<p>Like a lot of the design frameworks we’ve discussed, Double Diamond is iterative, not linear. Each sprint leads the team to new insights that are used to improve the product&#8217;s design. Then, the process starts over again with a new iteration. Think of it like the various drafts of a research paper that a student writes before they turn in a final draft to the teacher for a grade.</p>
+
+
+
+<p>Double Diamond also encourages teamwork across the organization, so the design team doesn’t focus solely on design. To be successful, the entire team must know how to incorporate design principles, design methods, user engagement strategies, and leadership principles. Be prepared to take on multiple roles and responsibilities, as needed.</p>
+
+
+
+<p>There are four principles that inform the Double Diamond process:&nbsp;</p>
+
+
+
+<ol><li><strong>Focus on the user.</strong> As is always the case in UX design, the user is the top priority.</li><li><strong>Communicate. </strong>Communicate visually, through imagery and design choices that supplement the text. You should also be sure that the communication of your design is equitable and accessible, which you&#8217;ll learn more about in this part of the program.</li><li><strong>Collaborate.</strong> One of the unique features of the Double Diamond process is that it encourages creative collaboration and co-creation with your fellow team members.&nbsp;</li><li><strong>Iterate.</strong> Accept that the design is a work in progress and isn’t going to be complete right away. The magic is in the revision. With every iteration, you give the user a new experience.</li></ol>
+
+
+
+<p>Both the Lean UX and Double Diamond frameworks are helpful for entry-level UX designers to understand. Even if your team doesn’t follow one of these processes, understanding how each one works and why they&#8217;re useful is invaluable. Keep up the great work!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/common-ux-design-frameworks-part-2-lean-ux-and-double-diamond/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach</title>
+		<link>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/</link>
+					<comments>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 10:11:12 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Design Thinking Process]]></category>
+		<category><![CDATA[Five Elements]]></category>
+		<category><![CDATA[User Centered Design]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[UX Design Frameworks]]></category>
+		<guid isPermaLink="false">/?p=15022</guid>
+
+					<description><![CDATA[There&#8217;s many UX Design Frameworks out there, most common among them are Design Thinking Process and the Five Elements. Design thinking process&#160; Design thinking is a user-centered approach to problem-solving. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>There&#8217;s many UX Design Frameworks out there, most common among them are <strong>Design Thinking Process</strong> and <strong>the Five Elements</strong>.</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">Design thinking process&nbsp;</h4>
+
+
+
+<p>Design thinking is a user-centered approach to problem-solving. It helps designers create solutions that address a real user problem and are functional and affordable. There are five phases in the design thinking process: empathize, define, ideate, prototype, and test. If these sounds familiar that&#8217;s because it is based on one of the core principles of UX design which is the <strong>Product Design Cycle</strong> which I&#8217;ve mentioned in an <a href="/2021/06/the-product-design-process-or-cycle-to-be-exact/" data-type="post" data-id="15018">earlier post</a>. </p>
+
+
+
+<p>Each phase of the framework answers a specific question.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/ic5tVRp.png" alt="Icons that represent the design thinking process - empathize, define, ideate, prototype, and test." title="Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 47"><figcaption>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 49</figcaption></figure>
+
+
+
+<p>During the <strong>empathize </strong>phase, the goal is to understand users&#8217; needs and how users think and feel. This involves a lot of user research, such as conducting surveys, interviews, and observation sessions, so you can get a clear picture of who your users are and the challenges they are facing.</p>
+
+
+
+<span id="more-15022"></span>
+
+
+
+<p>In the <strong>define </strong>phase, you’ll create a clear problem statement, or a description of the user’s need that your designs will address, based on your research findings.&nbsp;This will drive your team toward a clear goal for the design of the product.&nbsp;&nbsp;</p>
+
+
+
+<p>Once you land on a user problem and establish why it’s an important one to solve, it’s time for the <strong>ideate </strong>phase. During ideation, your team brainstorms solutions to the problem you defined. The goal of ideation is to come up with as many design solutions as possible.</p>
+
+
+
+<p>Once you have an idea of how to solve the problem, you’re ready to enter the <strong>prototype </strong>phase. A prototype is an early model of a product that demonstrates its functionality. Creating prototypes helps your team get a feel for what the product will actually look like and how users will experience the product.</p>
+
+
+
+<p>Finally, with your prototype in hand, you can test your designs with users. During the<strong> test </strong>phase, users provide feedback about your designs, before the product is built by engineers and launched to the public. You can use this feedback to make changes and improvements to your designs, as many times as you need.</p>
+
+
+
+<p>Depending on the feedback from your testing phase, you might need to go back to the beginning of the design thinking process, come up with new ideas for solutions, or develop new prototypes. Eventually, the goal of the design thinking process, like any design framework, is to implement your design, which means building it and sharing it with the world. For more details about the five phases in the design process, check out the guide <a href="https://xd.adobe.com/ideas/guides/ux-design-process-steps/" target="_blank" rel="noreferrer noopener"><u>UX Design Process: Everything You Need to Know</u></a> from Adobe XD Ideas.&nbsp;</p>
+
+
+
+<h4 class="has-black-color has-text-color wp-block-heading">The five elements of UX design</h4>
+
+
+
+<p>The five elements of UX design is a framework of steps that UX designers take to turn an idea into a working product. The five elements are, from bottom to top: strategy, scope, structure, skeleton, and surface.&nbsp;Think of these as a set of five layers, where each layer is dependent on the one below it.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/Y4g3hZy.png" alt="The 5 elements of UX design, stacked on one another, top to bottom from Surface (most concrete) to Strategy (most abstract).." title="Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 48"><figcaption>Common UX Design Frameworks (part 1): Design Thinking Process and the Five Elements approach 50</figcaption></figure>
+
+
+
+<ul><li><strong>Strategy:</strong> The bottom layer is strategy, where you lay a foundation of your design goals. These goals are based on user needs and the business objectives for the product.</li><li><strong>Scope:</strong> The next layer is scope, where you determine the type of product you’re building. At this point, you will consider the kind of features and content you want to include in the product.</li><li><strong>Structure:</strong> The middle layer is structure. Here, you’ll figure out how to organize your design and how you want users to interact with the product.</li><li><strong>Skeleton: </strong>The skeleton is the layout of the product. Just like the layout of our bones shapes our skin, the skeleton layer details how your design works – and like a skeleton, users won’t directly see its inner-workings.&nbsp;</li><li><strong>Surface: </strong>The top layer, surface, represents how the product looks to the user. The surface represents the interface that users view and interact with.&nbsp;Think of the surface like the clothes or makeup you wear that are visible to the outside world.</li></ul>
+
+
+
+<p>Want to learn more? Check out this article about <a href="https://medium.com/omarelgabrys-blog/ux-a-quick-glance-about-the-5-elements-of-user-experience-part-2-a0da8798cd52" target="_blank" rel="noreferrer noopener"><u>the five elements of user experience</u></a>, which was originally developed by Jesse James Garrett. Or for a deep dive into the five elements, <a href="https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684" target="_blank" rel="noreferrer noopener"><u>Garrett’s book</u></a> is also an option to explore</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/common-ux-design-frameworks-design-thinking-process-and-the-five-elements-approach/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

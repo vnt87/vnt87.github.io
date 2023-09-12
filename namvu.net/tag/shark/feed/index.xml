@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>shark &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/shark/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 30 Jul 2021 07:41:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>shark &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước</title>
+		<link>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/</link>
+					<comments>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Fri, 30 Jul 2021 07:41:28 +0000</pubDate>
+				<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[shark]]></category>
+		<category><![CDATA[slow apt update]]></category>
+		<category><![CDATA[sources.list]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[ubuntu mirror]]></category>
+		<guid isPermaLink="false">/?p=20302</guid>
+
+					<description><![CDATA[The following post content will be written in Vietnamese since it addresses a specific problem that only affect Ubuntu users currently residing in Vietnam Mấy ngày hôm nay mấy anh [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><em>The following post content will be written in Vietnamese since it addresses a specific problem that only affect Ubuntu users currently residing in Vietnam</em></p>
+
+
+
+<p>Mấy ngày hôm nay mấy anh em dùng Ubuntu như tôi chắc khốn khổ vì chạy cái apt update cũng phải mất cả nửa ngày. Lí do thì vẫn như thường lệ, <a href="https://tienphong.vn/cap-quang-aag-gap-su-co-internet-di-quoc-te-bi-anh-huong-post1357028.tpo" data-type="URL" data-id="https://tienphong.vn/cap-quang-aag-gap-su-co-internet-di-quoc-te-bi-anh-huong-post1357028.tpo" target="_blank" rel="noreferrer noopener">cá mập cắn cáp AAG</a>, chuyện năm nào cũng xảy ra đều như vắt chanh mỗi năm khi đất nước có ngày hội lớn. Chúng ta bất lực với cá mập nhưng không có nghĩa chúng ta không có cách khác để giải quyết. Nếu các bạn check danh sách mirrors của Ubuntu sẽ thấy VN là 1 trong những nước có tương đối nhiều mirrors với 9 cái:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="190" src="/wp-content/uploads/2021/07/image-8-1024x190.png" alt="image 8" class="wp-image-20303" srcset="/wp-content/uploads/2021/07/image-8-1024x190.png 1024w, /wp-content/uploads/2021/07/image-8-300x56.png 300w, /wp-content/uploads/2021/07/image-8-768x143.png 768w, /wp-content/uploads/2021/07/image-8-269x50.png 269w, /wp-content/uploads/2021/07/image-8-650x121.png 650w, /wp-content/uploads/2021/07/image-8-1000x186.png 1000w, /wp-content/uploads/2021/07/image-8-50x9.png 50w, /wp-content/uploads/2021/07/image-8.png 1412w" sizes="(max-width: 1024px) 100vw, 1024px" title="Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 1"><figcaption>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 3</figcaption></figure>
+
+
+
+<p>Điều này có nghĩa chúng ta hoàn toàn có thể sử dụng mirrors trong nước để gia tăng tốc độ cho apt. Trong những phiên bản gần đây của Ubuntu chức năng tìm mirror đã được build luôn vào trong apt get nhưng ko được enable mặc định. Vì vậy để enable features này chúng ta cần thêm những dòng sau vào file <mark class="ghostkit-highlight">/etc/apt/sources.list</mark></p>
+
+
+
+<pre class="wp-block-preformatted">deb mirror://mirrors.ubuntu.com/mirrors.txt focal main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-updates main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-backports main restricted universe multiverse<br>deb mirror://mirrors.ubuntu.com/mirrors.txt focal-security main restricted universe multiverse</pre>
+
+
+
+<p>(Lưu ý VD trên là dành cho Ubuntu 20.04, nếu các bạn dùng Ubuntu bản khác thì nhớ thay thế code name <em>focal </em>bằng code name của version tương ứng <em>Lucid, Precise</em> etc.)</p>
+
+
+
+<p>Chạy lại apt update và chứng kiến sự thay đổi kinh hoàng trong tốc độ:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="784" height="537" src="/wp-content/uploads/2021/07/image-9.png" alt="image 9" class="wp-image-20305" srcset="/wp-content/uploads/2021/07/image-9.png 784w, /wp-content/uploads/2021/07/image-9-300x205.png 300w, /wp-content/uploads/2021/07/image-9-768x526.png 768w, /wp-content/uploads/2021/07/image-9-73x50.png 73w, /wp-content/uploads/2021/07/image-9-650x445.png 650w, /wp-content/uploads/2021/07/image-9-50x34.png 50w" sizes="(max-width: 784px) 100vw, 784px" title="Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 2"><figcaption>Apt-get update chậm như rùa? Hãy chuyển sang dùng mirror trong nước 4</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/apt-get-update-cham-nhu-rua-hay-chuyen-sang-dung-mirror-trong-nuoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

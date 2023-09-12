@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>clover &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/clover/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Tue, 31 Mar 2020 10:11:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>clover &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The ‘Prebuilt Hackintosh of 2013’ in 2020</title>
+		<link>/2019/11/the-prebuilt-hackintosh-of-2013-in-202/</link>
+					<comments>/2019/11/the-prebuilt-hackintosh-of-2013-in-202/#comments</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2019 21:16:12 +0000</pubDate>
+				<category><![CDATA[Randomness]]></category>
+		<category><![CDATA[catalina]]></category>
+		<category><![CDATA[clover]]></category>
+		<category><![CDATA[hackintosh]]></category>
+		<category><![CDATA[mojave]]></category>
+		<guid isPermaLink="false">/?p=6254</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div  class="tatsu-gber6w5kf13p9cay tatsu-section  tatsu-bg-overlay   tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"15px 0px 15px 0px"}' data-padding-top='15px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-gber6w5khyd064xp" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-bg-overlay tatsu-one-col tatsu-column-image-none tatsu-column-effect-none  tatsu-gber6w5kjx659xbq"  data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-gber6w5km1boeos7  "><div class="tatsu-text-inner tatsu-align-center  clearfix" ><style>.tatsu-gber6w5km1boeos7.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;text-align: left;}</style>
+<p data-xf-p="1"><em>Current status:</em> <span style="color: #339966;"><strong>SUCCESS!</strong></span> (see update Feb 20 below)</p>
+<p data-xf-p="1">Yes ladies and gents, I&#8217;m talking about the venerable &#8220;<a href="http://www.macbreaker.com/2013/06/xps-8500-best-prebuilt-hackintosh.html" target="_blank" rel="noopener noreferrer">Dell XPS 8500</a>&#8220;.</p>
+<p data-xf-p="1">Bought it back in &#8217;13 because of that very article. My particular config a 3rd gen Core i7 (3770), 0NW73C motherboard, 8GB of DDR3-1600 (since then upgraded to 16GB) and a GT640 video card.</p>
+<p data-xf-p="1">I ran Sierra and High Sierra on it for a while, but for the last 2-3 years I only had Windows and Deepin installed. I wanted to put OS X on it once more but was waiting for a proper NVIDIA web driver (it was running a 1050ti), but alas Apple and NVIDIA couldn&#8217;t come to an agreement.</p>
+<p data-xf-p="1">So last week I decided to swap out my Gigabyte 1050ti 4GB for a Gigabyte Aorus RX580 8GB (I&#8217;m lucky the Green cards hold their values better than Red&#8217;s) in hope of better compatibility. However I&#8217;m still having troubles getting even the installer to work.</p>
+<p data-xf-p="1">Things I tried:</p>
+<p data-xf-p="1">• Making a vanilla Catalina installer with latest Clover (using this <a href="https://hackintosher.com/forums/thread/guide-how-to-create-a-macos-catalina-10-15-0-usb-installer-drive-w-clover.2836/" target="_blank" rel="noopener">guide</a>)</p>
+<p data-xf-p="1">  Result: got to the Apple logo with progress bar, but as soon as the progress fills up I got a blank black screen.</p>
+<p data-xf-p="1">• Making a premade Mojave installer with TonyMac UniBeast Mojave</p>
+<p data-xf-p="1">  Result: still got a blank screen but if I wait for it to go to sleep and wake it, I can get to the installer screen with Disk Utility + Install Mojave etc., but clicking on any of the entries will hang the computer.</p>
+<p data-xf-p="1"><strong>Update Jan 30/2020:</strong></p>
+<p data-xf-p="1">Managed to get Catalina installed using the vanilla install method (with Clover). However this was done with the integrated graphic. Also, WiFi, Bluetooth and Audio aren&#8217;t working yet so I need to tinker with it some more when I have the time.</p>
+<p data-xf-p="1"><strong>Update Feb 03/2020: <span style="color: #339966;">SUCCESS!</span><br /></strong></p>
+<p data-xf-p="1">So everything works now, apart from the Wifi/Bluetooth card <strong>(Dell DW1703</strong>, which is actually an <strong>Atheros AR9485</strong> in disguise)I could easily grab a Broadcom card to replace it, but it&#8217;s not worth it for me since I could only get them from Aliexpress and they take months to reach where I live (Vietnam). Plus I have no real need for Wifi/BT on a desktop anyway.</p>
+<p data-xf-p="1">Audio did take a wee bit of work, I had to go into System Preferences to get the icon to show up, and change the layout to 11 in config.plist. But after that it just works beautifully.</p>
+<p data-xf-p="1">So, to recap. Here&#8217;s all the steps that I did:</p>
+<ol>
+<li data-xf-p="1">Download Catalina from the App Store</li>
+<li data-xf-p="1">Put it on a 16GB flash drive by using the <em>/CreateInstallMedia</em> command in the terminal</li>
+<li data-xf-p="1">Install <strong>Clover 5103</strong> on the flash drive (and copy some essential kexts while you&#8217;re at it, I only had <strong>Lilu</strong>, <strong>WhateverGreen</strong>, <strong>AppleALC</strong>, <strong>VirtualSMC</strong>)</li>
+<li data-xf-p="1">Pop the flash drive into my XPS 8500 and boot from it (Legacy mode)</li>
+<li data-xf-p="1">On the first screen, fire up Disk Utility and format the 512GB SSD with APFS</li>
+<li data-xf-p="1">Install Catalina to the newly formatted drive, then restart with the flash drive still connected</li>
+<li data-xf-p="1">Upon restart, boot into Clover on the flash drive, and choose to boot from the SSD instead of the installation media, you should be able to get into a fully working version of Catalina running on your computer at this point, albeit the drive is not bootable on its own yet.</li>
+<li data-xf-p="1">Install Clover into the SSD.</li>
+</ol>
+<p>That&#8217;s it, that&#8217;s as vanilla as it can be for a Clover installation. If everything goes well you should now have a fully functional XPS 8500 hackintosh!</p>
+<p><strong>Update Feb 10, 2020:</strong> Successfully added <em><strong>Gigabyte Aorus RX580 8GB</strong></em> to the installation! (Need to disable Legacy OPROM in boot option otherwise you will get a blank screen)</p>
+<p>I will create another post soon with more details</p>
+<p> </p>
+<p><strong>Update Apr 01, 2020:</strong></p>
+<p>Just updated to 10.15.4 without any issue. Which is actually a pretty impressive feat considering that this upgrade broke some users&#8217; Hackintoshes (<a href="https://www.reddit.com/r/hackintosh/comments/fo9bfv/macos_10154_update/" target="_blank" rel="noopener">especially for AMD Users and Intel Skylake and above users</a>)</p>
+</div></div></div></div><div class = "tatsu-column-bg-image-wrap"><div class = "tatsu-column-bg-image" ></div></div><div class="tatsu-overlay tatsu-column-overlay tatsu-animate-none" ></div></div><style>.tatsu-row > .tatsu-gber6w5kjx659xbq.tatsu-column{width: 100%;}.tatsu-gber6w5kjx659xbq.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay{mix-blend-mode: normal;}.tatsu-gber6w5kjx659xbq > .tatsu-column-inner > .tatsu-top-divider{z-index: 9999;}.tatsu-gber6w5kjx659xbq > .tatsu-column-inner > .tatsu-bottom-divider{z-index: 9999;}.tatsu-gber6w5kjx659xbq > .tatsu-column-inner > .tatsu-left-divider{z-index: 9999;}.tatsu-gber6w5kjx659xbq > .tatsu-column-inner > .tatsu-right-divider{z-index: 9999;}</style></div></div></div></div><div class="tatsu-section-background-wrap"><div class = "tatsu-section-background" ></div></div><div class="tatsu-overlay tatsu-section-overlay"></div><style>.tatsu-gber6w5kf13p9cay .tatsu-section-pad{padding: 15px 0px 15px 0px;}.tatsu-gber6w5kf13p9cay > .tatsu-bottom-divider{z-index: 9999;}.tatsu-gber6w5kf13p9cay > .tatsu-top-divider{z-index: 9999;}.tatsu-gber6w5kf13p9cay .tatsu-section-overlay{mix-blend-mode: normal;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/the-prebuilt-hackintosh-of-2013-in-202/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

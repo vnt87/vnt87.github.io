@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Comments on: Converting a PC ATX PSU into a high amperage benchtop 12V-5V power supply	</title>
+	<atom:link href="/2016/03/converting-a-pc-atx-psu-into-a-high-amperage-benchtop-12v-5v-power-supply/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/03/converting-a-pc-atx-psu-into-a-high-amperage-benchtop-12v-5v-power-supply/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Mon, 25 Mar 2019 10:34:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+</channel>
+</rss>

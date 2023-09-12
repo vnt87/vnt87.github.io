@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>unity installer &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/unity-installer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Sun, 19 Aug 2018 11:03:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>unity installer &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Install Unity3D on Deepin Linux 15.6</title>
+		<link>/2018/08/install-unity3d-on-deepin-linux-15-6/</link>
+					<comments>/2018/08/install-unity3d-on-deepin-linux-15-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2018 11:03:27 +0000</pubDate>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[Deepin]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[unity installer]]></category>
+		<category><![CDATA[unity linux installer]]></category>
+		<category><![CDATA[unity3d]]></category>
+		<guid isPermaLink="false">/?p=3832</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div  class="tatsu-fuge7utpbuecmm12 tatsu-section    tatsu-clearfix" data-title=""  data-headerscheme="background--dark"><div class='tatsu-section-pad clearfix' data-padding='{"d":"15px 0px 15px 0px"}' data-padding-top='15px'><div class="tatsu-row-wrap  tatsu-wrap tatsu-row-one-col tatsu-row-has-one-cols tatsu-medium-gutter tatsu-reg-cols  tatsu-clearfix tatsu-fuge7utpmzewvoqk" ><div  class="tatsu-row " ><div  class="tatsu-column  tatsu-column-no-bg tatsu-one-col tatsu-column-image- tatsu-column-effect-  tatsu-fuge7utpxjsi0b9" data-animation="fadeIn"   data-parallax-speed="0" style=""><div class="tatsu-column-inner " ><div class="tatsu-column-pad-wrap"><div class="tatsu-column-pad" ><div  class="tatsu-module tatsu-text-block-wrap tatsu-fuge7utq8ga66mrk  "><div class="tatsu-text-inner tatsu-align-center  clearfix" data-animation="fadeIn"  ><style>.tatsu-fuge7utq8ga66mrk.tatsu-text-block-wrap .tatsu-text-inner{width: 100%;}</style><p></p><p><img decoding="async" fetchpriority="high" class="aligncenter size-full" src="https://i.imgur.com/DoQnK01.png" width="1918" height="1012" alt="DoQnK01" title="Install Unity3D on Deepin Linux 15.6 1"></p><p>Okay this post is nothing but a link, which is this one:</p><p></p><p></p><p><a href="https://beta.unity3d.com/download/cc814e4d942d/public_download.html" target="_blank" rel="noopener">Download Unity 2017.4.9f1</a> (latest version as of this post (yeah I know, it&#8217;s almost 2019 but I guess Unity isn&#8217;t big enough to hire a real Linux maintainer)</p><p></p><p></p><p>Seriously, that link should&#8217;ve been the first result when you google &#8216;Unity3D Installer for Linux&#8217;, but google thinks you want to read a blog post instead. Typical third rate search engine.</p><p></p></div></div></div></div><div class = "tatsu-column-bg-image-wrap"><div class = "tatsu-column-bg-image" ></div></div></div><style>.tatsu-fuge7utpxjsi0b9.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay{mix-blend-mode: none;}.tatsu-fuge7utpxjsi0b9 > .tatsu-column-inner > .tatsu-top-divider{z-index: 9999;}.tatsu-fuge7utpxjsi0b9 > .tatsu-column-inner > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fuge7utpxjsi0b9 > .tatsu-column-inner > .tatsu-left-divider{z-index: 9999;}.tatsu-fuge7utpxjsi0b9 > .tatsu-column-inner > .tatsu-right-divider{z-index: 9999;}.tatsu-fuge7utpxjsi0b9.tatsu-column{transform: translate3d(0px,0px, 0);}</style></div></div></div></div><div class="tatsu-section-background-wrap"><div class = "tatsu-section-background" ></div></div><style>.tatsu-fuge7utpbuecmm12 .tatsu-section-pad{padding: 15px 0px 15px 0px;}.tatsu-fuge7utpbuecmm12.tatsu-section{margin: 0px 0px 0px 0px;}.tatsu-fuge7utpbuecmm12 > .tatsu-bottom-divider{z-index: 9999;}.tatsu-fuge7utpbuecmm12 > .tatsu-top-divider{z-index: 9999;}</style></div>]]></content:encoded>
+					
+					<wfw:commentRss>/2018/08/install-unity3d-on-deepin-linux-15-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

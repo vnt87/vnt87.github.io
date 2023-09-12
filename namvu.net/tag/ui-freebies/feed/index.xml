@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>ui freebies &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/ui-freebies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Thu, 02 Apr 2020 00:19:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>ui freebies &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Figma UI Recreation Challenge #1: Streamlabs Dashboard</title>
+		<link>/2020/04/figma-ui-recreation-challenge-1-streamlabs-dashboard/</link>
+					<comments>/2020/04/figma-ui-recreation-challenge-1-streamlabs-dashboard/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 23:20:08 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Freebies]]></category>
+		<category><![CDATA[figma]]></category>
+		<category><![CDATA[ui freebies]]></category>
+		<guid isPermaLink="false">/?p=6326</guid>
+
+					<description><![CDATA[Once in a while I&#8217;d come across a screenshot of a cool UI that I think would be relatively simple to recreate in Figma, so I made it a personal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Once in a while I&#8217;d come across a screenshot of a cool UI that I think would be relatively simple to recreate in Figma, so I made it a personal challenge to do so. This is not something that I do in my spare time or anything because, quite frankly I don&#8217;t have any spare time anymore. This is more of a distraction to prevent me from going insane between juggling 3 different major projects atm.</p>
+<p>I will first start with 2 Streamlabs dashboard screens.</p>
+<p><span id="more-6326"></span></p>
+<p><a href="/wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart.png"><img decoding="async" fetchpriority="high" class="aligncenter wp-image-6327 size-full" src="/wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart.png" alt="Streamlabs Dashboard Chart" width="1280" height="800" srcset="/wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart.png 1280w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-300x188.png 300w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-1024x640.png 1024w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-768x480.png 768w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-80x50.png 80w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-650x406.png 650w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-1000x625.png 1000w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-1250x781.png 1250w, /wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart-50x31.png 50w" sizes="(max-width: 1280px) 100vw, 1280px" title="Figma UI Recreation Challenge #1: Streamlabs Dashboard 3"></a></p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2020/04/Streamlabs.png"><img decoding="async" class="aligncenter wp-image-6328 size-full" src="/wp-content/uploads/2020/04/Streamlabs.png" alt="Streamlabs" width="1280" height="720" srcset="/wp-content/uploads/2020/04/Streamlabs.png 1280w, /wp-content/uploads/2020/04/Streamlabs-300x169.png 300w, /wp-content/uploads/2020/04/Streamlabs-1024x576.png 1024w, /wp-content/uploads/2020/04/Streamlabs-768x432.png 768w, /wp-content/uploads/2020/04/Streamlabs-89x50.png 89w, /wp-content/uploads/2020/04/Streamlabs-650x366.png 650w, /wp-content/uploads/2020/04/Streamlabs-1000x563.png 1000w, /wp-content/uploads/2020/04/Streamlabs-50x28.png 50w" sizes="(max-width: 1280px) 100vw, 1280px" title="Figma UI Recreation Challenge #1: Streamlabs Dashboard 4"></a></p>
+<p>You can get the file from my Freebies site <a href="https://freebies.namvu.net/figma-freebie-streamlabs-dashboard/">here</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/figma-ui-recreation-challenge-1-streamlabs-dashboard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

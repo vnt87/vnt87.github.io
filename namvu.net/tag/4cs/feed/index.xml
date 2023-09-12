@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>4cs &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/tag/4cs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Fri, 25 Jun 2021 10:03:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>4cs &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Designing for Multiple Platforms: The Four Cs Principle</title>
+		<link>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/</link>
+					<comments>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 14:18:21 +0000</pubDate>
+				<category><![CDATA[UX Design]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+		<category><![CDATA[4cs]]></category>
+		<category><![CDATA[design for multiple platforms]]></category>
+		<category><![CDATA[four cs]]></category>
+		<category><![CDATA[multiplatform]]></category>
+		<category><![CDATA[ux design]]></category>
+		<guid isPermaLink="false">/?p=15666</guid>
+
+					<description><![CDATA[Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs account for and take full advantage of the unique features of each platform. When preparing to design across platforms, it’s helpful to keep in mind the four Cs: consistency, continuity, context, and complementary. &nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/K7Mm2uf.png" alt="Graphic from the point of view of someone looking at their hands on a laptop. They are holding a phone and wearing a watch." title="Designing for Multiple Platforms: The Four Cs Principle 1"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 5</figcaption></figure>
+
+
+
+<p><strong>Consistency</strong>: Most companies have specific design guidelines that need to be followed in order to stay consistent with their brand identity, which refers to the visual appearance and voice of a company. When designing a product, it’s essential to stay true to the company’s brand guidelines in order to maintain consistency across platforms and drive brand awareness. Maintaining a consistent design helps improve the user experience and build trust, because users can expect the design to feel familiar across platforms and products.</p>
+
+
+
+<span id="more-15666"></span>
+
+
+
+<p>Take Google, for example. No matter which Google product or platform you use, you’ll find the colors red, blue, yellow, and green incorporated throughout the design. These visual design details are an essential part of building consistency, trust, and user loyalty.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/anDZpkx.png" alt="A graphic of a laptop and a phone next to each other. On the laptop, there&#039;s an email draft. Same draft is on the phone." title="Designing for Multiple Platforms: The Four Cs Principle 2"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 6</figcaption></figure>
+
+
+
+<p><strong>Continuity</strong>: To provide users with a seamless experience as they move between platforms, UX designers also have to prioritize continuity. Continuity in design means that users can maintain their progress as they move from one platform to the next. The user experience for each platform might be slightly different, but the product’s functionality should still be connected. Without continuity, users can become frustrated if the progress of their experience does not carry across platforms.</p>
+
+
+
+<p>For example, imagine you’re designing a website and app for emails. A user should be able to start writing an email on their laptop, save it as a draft, and finish that email later on their mobile phone.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/SVmWy8S.png" alt="A graphic of a laptop screen next to a smart watch screen. Email appears on laptop, notification appears on the watch." title="Designing for Multiple Platforms: The Four Cs Principle 3"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 7</figcaption></figure>
+
+
+
+<p><strong>Context</strong>: It’s also important to consider the context of each platform you’re designing for. This means thinking about when and how users prefer to interact with certain features on different platforms.&nbsp;</p>
+
+
+
+<p>For example, imagine that a user has an email app on both their laptop and smartwatch. They’re probably not going to compose an entire email on their small smartwatch screen, but they might still want to get notifications about new emails or read important messages. Designers have to take into account the context of the user’s situation and adapt the design for each platform accordingly.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i.imgur.com/gZPHxAm.png" alt="A graphic of a laptop next to a phone screen. On the laptop, hands are typing an email. On the phone, they are adding images" title="Designing for Multiple Platforms: The Four Cs Principle 4"><figcaption>Designing for Multiple Platforms: The Four Cs Principle 8</figcaption></figure>
+
+
+
+<p><strong>Complementary</strong>: One way to create a great cross-platform user experience is to make sure that the design of each platform adds something new for the user.&nbsp;</p>
+
+
+
+<p>For example, imagine you have a family member who lives abroad that you keep in touch with over email. You might write most of your emails to them through the desktop version of the product, but you might build on those emails using the product’s mobile app, which has features like adding photos directly from your phone. Taking into account how each platform could uniquely enrich the overall user experience is the best way to create complementary UX designs.</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Examples of cross-platform experiences</h5>
+
+
+
+<p>Now that you have the hang of designing across platforms, check out some real-world examples of products with stellar cross-platform user experiences.&nbsp;&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">YouTube&nbsp;</h5>
+
+
+
+<p>For a lot of people, <a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener"><u>YouTube</u></a> is a go-to source for watching endless hours of video content. The YouTube mobile viewing experience complements and smoothly transitions from a desktop browser. For example, the mobile app elevates YouTube’s “‘Watch History” feature, which allows users to continue watching from the place they left off in videos, on any device. In the mobile phone app, users can also access all of their playlists and upload videos directly to their channel, just like they would on a computer.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">WebMD</h5>
+
+
+
+<p><a href="https://www.webmd.com/" target="_blank" rel="noreferrer noopener"><u>WebMD</u></a> is a healthcare website where users can learn about the symptoms, diagnosis, and treatments related to a wide variety of medical conditions. The WebMD “Symptom Checker” allows users to click on certain areas of a body map and get a list of possible symptoms associated with those body parts. For example, a user can indicate that they’re experiencing heartburn as a symptom by clicking on the chest of the virtual body, and selecting “heartburn” from the provided list. On a mobile phone, this feature is simplified to account for the smaller screen size, but still provides the same basic functionality. On a desktop or laptop computer, this feature is more in-depth and extensive, and lays out the content differently.&nbsp;</p>
+
+
+
+<h5 class="has-black-color has-text-color wp-block-heading">Airbnb</h5>
+
+
+
+<p><a href="https://www.airbnb.com/" target="_blank" rel="noreferrer noopener"><u>Airbnb</u></a> is an online rental platform where users can list their own space to rent or book a stay in someone else’s space. Think of Airbnb like a hotel, but you stay in actual homes, instead of a commercial building. The Airbnb user experience on a desktop computer is straightforward and similar to other rental sites, where you can filter your search based on your needs. The mobile app seamlessly integrates these same features and allows for continuity throughout the booking process. You can even get Airbnb notifications on your smartwatch, which is really handy as you’re traveling to your destination.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/06/designing-for-multiple-platforms-the-four-cs-principle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>GameDev &#8211; Nam Vu Personal Site</title>
+	<atom:link href="/category/gamedev/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Powered by Google Cloud Compute</description>
+	<lastBuildDate>Mon, 12 Jun 2017 16:17:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-namvu_512-150x150.png</url>
+	<title>GameDev &#8211; Nam Vu Personal Site</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>D.O.G Homescreen test</title>
+		<link>/2017/06/d-o-g-homescreen-test/</link>
+					<comments>/2017/06/d-o-g-homescreen-test/#respond</comments>
+		
+		<dc:creator><![CDATA[Nam Vũ]]></dc:creator>
+		<pubDate>Mon, 12 Jun 2017 16:17:44 +0000</pubDate>
+				<category><![CDATA[GameDev]]></category>
+		<category><![CDATA[Randomness]]></category>
+		<guid isPermaLink="false">/?p=5659</guid>
+
+					<description><![CDATA[Using Particle.js in a Unity game, why not? Btw I need to remind myself to make a new logo for D.O.G. I kinda like Explode but it doesn&#8217;t really fit [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe width="1160" height="870" src="https://www.youtube.com/embed/VGm-Jnpp1gw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Using Particle.js in a Unity game, why not?</p>
+
+
+
+<p>Btw I need to remind myself to make a new logo for D.O.G. I kinda like Explode but it doesn&#8217;t really fit the narrative of the game anymore</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/06/d-o-g-homescreen-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
