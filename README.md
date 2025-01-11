@@ -12,10 +12,14 @@ This Github repo contains my experimental codes
 
 [SnipSnap](https://github.com/vnt87/snipsnap) screenshot capture utility using Puppeteer
 
-[Billbill](https://github.com/vnt87/Billbill) - to split the bill between a few fellow pool players
+[Billbill](https://github.com/vnt87/Billbill) to split the bill between a few fellow pool players
 
-[ChoXanh FrontEnd Template](https://github.com/vnt87/team-marketplace-hub)
+[ChoXanh FrontEnd Template](https://github.com/vnt87/team-marketplace-hub) - a PoC frontend of Cho Xanh (Green Market)
 
-[ChoXanh Admin Template](https://github.com/vnt87/choxanh-admin-dashboard)
+[ChoXanh Admin Template](https://github.com/vnt87/choxanh-admin-dashboard) - a PoC admin dashboard of Cho Xanh (Green Market)
 
 [ChoXanh SonicJS](https://github.com/vnt87/choxanh-sonicjs) experimental headless CMS deployed on Cloudflare Pages & D1 SQL database
+
+[Textpod-TOC](https://github.com/vnt87/textpod-toc) a fork of [Textpod](https://github.com/freetonik/textpod) a dead simple local-first selfhostable note taking app
+
+[RutGon](https://github.com/vnt87/RutGon) fork of [Sink](https://github.com/ccbikai/Sink) - a modern selfhostable URL shortener
